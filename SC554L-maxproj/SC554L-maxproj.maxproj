@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3808799213,
-	"viewrect" : [ 1555.0, 840.0, 300.0, 500.0 ],
+	"modificationdate" : 3808808332,
+	"viewrect" : [ 1100.0, 453.0, 603.0, 663.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -27,6 +27,11 @@
 			}
 ,
 			"gui_all_parts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"sx_onebyte.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

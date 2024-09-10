@@ -2,7 +2,7 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3808819165,
+	"modificationdate" : 3808823900,
 	"viewrect" : [ 2931.0, 728.0, 1015.0, 967.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -37,6 +37,11 @@
 			}
 ,
 			"midi_instrument.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"monopoly.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

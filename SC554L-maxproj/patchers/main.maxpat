@@ -596,48 +596,47 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-14::obj-19" : [ "live.numbox[4]", "live.numbox", 0 ],
-			"obj-14::obj-20" : [ "live.numbox[5]", "live.numbox", 0 ],
-			"obj-14::obj-214" : [ "live.numbox[3]", "live.numbox", 0 ],
-			"obj-14::obj-215" : [ "live.numbox[2]", "live.numbox", 0 ],
-			"obj-14::obj-22" : [ "live.numbox[6]", "live.numbox", 0 ],
-			"obj-14::obj-24" : [ "live.numbox[7]", "live.numbox", 0 ],
-			"obj-14::obj-26" : [ "live.numbox[8]", "live.numbox", 0 ],
-			"obj-14::obj-37" : [ "live.menu", "live.menu", 0 ],
-			"obj-14::obj-45" : [ "live.text[4]", "live.text[3]", 0 ],
-			"obj-14::obj-48" : [ "live.text[5]", "live.text[3]", 0 ],
-			"obj-14::obj-50" : [ "live.text[6]", "live.text[3]", 0 ],
-			"obj-14::obj-53" : [ "live.text[7]", "live.text[3]", 0 ],
-			"obj-14::obj-56" : [ "live.text[8]", "live.text[3]", 0 ],
-			"obj-14::obj-58" : [ "live.text[9]", "live.text[3]", 0 ],
-			"obj-14::obj-61" : [ "live.text[10]", "live.text[3]", 0 ],
-			"obj-14::obj-63" : [ "live.text[11]", "live.text[3]", 0 ],
-			"obj-14::obj-65" : [ "live.text[12]", "live.text[3]", 0 ],
-			"obj-14::obj-67" : [ "live.text[13]", "live.text[3]", 0 ],
-			"obj-14::obj-69" : [ "live.text[14]", "live.text[3]", 0 ],
+			"obj-14::obj-19" : [ "reverb_lpf", "reverb_lpf", 0 ],
+			"obj-14::obj-20" : [ "reverb_level", "reverb_level", 0 ],
+			"obj-14::obj-214" : [ "master_volume", "master_volume", 0 ],
+			"obj-14::obj-215" : [ "master_pan", "master_pan", 0 ],
+			"obj-14::obj-22" : [ "reverb_time", "reverb_time", 0 ],
+			"obj-14::obj-24" : [ "reverb_feedback", "reverb_feedback", 0 ],
+			"obj-14::obj-26" : [ "reverb_sendtochorus", "reverb_sendtochorus", 0 ],
+			"obj-14::obj-37" : [ "reverb_character", "reverb_character", 0 ],
+			"obj-14::obj-45" : [ "monopoly_2", "monopoly_2", 0 ],
+			"obj-14::obj-48" : [ "monopoly_3", "monopoly_3", 0 ],
+			"obj-14::obj-50" : [ "monopoly_4", "monopoly_4", 0 ],
+			"obj-14::obj-53" : [ "monopoly_8", "monopoly_8", 0 ],
+			"obj-14::obj-56" : [ "monopoly_7", "monopoly_7", 0 ],
+			"obj-14::obj-58" : [ "monopoly_6", "monopoly_6", 0 ],
+			"obj-14::obj-61" : [ "monopoly_5", "monopoly_5", 0 ],
+			"obj-14::obj-63" : [ "monopoly_16", "monopoly_16", 0 ],
+			"obj-14::obj-65" : [ "monopoly_15", "monopoly_15", 0 ],
+			"obj-14::obj-67" : [ "monopoly_14", "monopoly_14", 0 ],
+			"obj-14::obj-69" : [ "monopoly_13", "monopoly_13", 0 ],
 			"obj-14::obj-7" : [ "live.text[1]", "live.text", 0 ],
-			"obj-14::obj-71" : [ "live.text[15]", "live.text[3]", 0 ],
-			"obj-14::obj-73" : [ "live.text[16]", "live.text[3]", 0 ],
-			"obj-14::obj-75" : [ "live.text[17]", "live.text[3]", 0 ],
-			"obj-14::obj-77" : [ "live.text[18]", "live.text[3]", 0 ],
-			"obj-14::obj-9" : [ "live.text[3]", "live.text[3]", 0 ],
+			"obj-14::obj-71" : [ "monopoly_12", "monopoly_12", 0 ],
+			"obj-14::obj-73" : [ "monopoly_11", "monopoly_11", 0 ],
+			"obj-14::obj-75" : [ "monopoly_10", "monopoly_10", 0 ],
+			"obj-14::obj-77" : [ "monopoly_9", "monopoly_9", 0 ],
+			"obj-14::obj-9" : [ "monopoly_1", "monopoly_1", 0 ],
 			"obj-1::obj-105" : [ "live.text[2]", "live.text", 0 ],
-			"obj-1::obj-112" : [ "live.numbox[9]", "live.numbox", 0 ],
-			"obj-1::obj-124" : [ "umenu[1]", "umenu[1]", 0 ],
-			"obj-1::obj-134" : [ "live.numbox[10]", "live.numbox", 0 ],
-			"obj-1::obj-137" : [ "live.numbox[11]", "live.numbox", 0 ],
-			"obj-1::obj-144" : [ "live.numbox[12]", "live.numbox", 0 ],
-			"obj-1::obj-147" : [ "live.numbox[13]", "live.numbox", 0 ],
-			"obj-1::obj-150" : [ "live.numbox[14]", "live.numbox", 0 ],
-			"obj-1::obj-155" : [ "live.numbox[15]", "live.numbox", 0 ],
+			"obj-1::obj-112" : [ "chorus", "chorus", 0 ],
+			"obj-1::obj-124" : [ "inst_patch", "inst_patch", 0 ],
+			"obj-1::obj-134" : [ "pan", "pan", 0 ],
+			"obj-1::obj-137" : [ "level", "level", 0 ],
+			"obj-1::obj-144" : [ "depth", "depth", 0 ],
+			"obj-1::obj-147" : [ "rate", "rate", 0 ],
+			"obj-1::obj-150" : [ "delay", "delay", 0 ],
+			"obj-1::obj-155" : [ "resonance", "resonance", 0 ],
 			"obj-1::obj-158" : [ "live.numbox[16]", "live.numbox", 0 ],
-			"obj-1::obj-171" : [ "live.numbox[19]", "live.numbox", 0 ],
-			"obj-1::obj-176" : [ "live.numbox[20]", "live.numbox", 0 ],
-			"obj-1::obj-179" : [ "live.numbox[21]", "live.numbox", 0 ],
-			"obj-1::obj-32" : [ "live.slider[7]", "live.slider", 0 ],
+			"obj-1::obj-171" : [ "release", "release", 0 ],
+			"obj-1::obj-176" : [ "decay", "decay", 0 ],
+			"obj-1::obj-179" : [ "attack", "attack", 0 ],
 			"obj-1::obj-87" : [ "live.text", "live.text", 0 ],
-			"obj-1::obj-88" : [ "umenu", "umenu", 0 ],
-			"obj-1::obj-96" : [ "live.numbox", "live.numbox", 0 ],
+			"obj-1::obj-88" : [ "inst_category", "inst_category", 0 ],
+			"obj-1::obj-96" : [ "reverb", "reverb", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,
@@ -649,153 +648,176 @@
 ,
 			"parameter_overrides" : 			{
 				"obj-14::obj-19" : 				{
-					"parameter_longname" : "live.numbox[4]"
+					"parameter_longname" : "reverb_lpf",
+					"parameter_shortname" : "reverb_lpf"
 				}
 ,
 				"obj-14::obj-20" : 				{
-					"parameter_longname" : "live.numbox[5]"
+					"parameter_longname" : "reverb_level",
+					"parameter_shortname" : "reverb_level"
 				}
 ,
 				"obj-14::obj-214" : 				{
-					"parameter_longname" : "live.numbox[3]"
+					"parameter_longname" : "master_volume",
+					"parameter_shortname" : "master_volume"
 				}
 ,
 				"obj-14::obj-215" : 				{
-					"parameter_longname" : "live.numbox[2]"
+					"parameter_longname" : "master_pan",
+					"parameter_shortname" : "master_pan"
 				}
 ,
 				"obj-14::obj-22" : 				{
-					"parameter_longname" : "live.numbox[6]"
+					"parameter_longname" : "reverb_time",
+					"parameter_shortname" : "reverb_time"
 				}
 ,
 				"obj-14::obj-24" : 				{
-					"parameter_longname" : "live.numbox[7]"
+					"parameter_longname" : "reverb_feedback",
+					"parameter_shortname" : "reverb_feedback"
 				}
 ,
 				"obj-14::obj-26" : 				{
-					"parameter_longname" : "live.numbox[8]"
+					"parameter_longname" : "reverb_sendtochorus",
+					"parameter_shortname" : "reverb_sendtochorus"
 				}
 ,
 				"obj-14::obj-37" : 				{
-					"parameter_longname" : "live.menu"
+					"parameter_longname" : "reverb_character",
+					"parameter_shortname" : "reverb_character"
 				}
 ,
 				"obj-14::obj-45" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[4]",
+					"parameter_longname" : "monopoly_2",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_2",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-48" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[5]",
+					"parameter_longname" : "monopoly_3",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_3",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-50" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[6]",
+					"parameter_longname" : "monopoly_4",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_4",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-53" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[7]",
+					"parameter_longname" : "monopoly_8",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_8",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-56" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[8]",
+					"parameter_longname" : "monopoly_7",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_7",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-58" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[9]",
+					"parameter_longname" : "monopoly_6",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_6",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-61" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[10]",
+					"parameter_longname" : "monopoly_5",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_5",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-63" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[11]",
+					"parameter_longname" : "monopoly_16",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_16",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-65" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[12]",
+					"parameter_longname" : "monopoly_15",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_15",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-67" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[13]",
+					"parameter_longname" : "monopoly_14",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_14",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-69" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[14]",
+					"parameter_longname" : "monopoly_13",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_13",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-71" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[15]",
+					"parameter_longname" : "monopoly_12",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_12",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-73" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[16]",
+					"parameter_longname" : "monopoly_11",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_11",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-75" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[17]",
+					"parameter_longname" : "monopoly_10",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_10",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-14::obj-77" : 				{
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[18]",
+					"parameter_longname" : "monopoly_9",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "monopoly_9",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
@@ -804,9 +826,9 @@
 					"parameter_initial" : "P",
 					"parameter_initial_enable" : 1,
 					"parameter_invisible" : 0,
-					"parameter_longname" : "live.text[3]",
+					"parameter_longname" : "monopoly_1",
 					"parameter_modmode" : 0,
-					"parameter_shortname" : "live.text[3]",
+					"parameter_shortname" : "monopoly_1",
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
@@ -821,26 +843,76 @@
 ,
 				"obj-1::obj-112" : 				{
 					"parameter_initial" : 0,
-					"parameter_longname" : "live.numbox[9]"
+					"parameter_longname" : "chorus",
+					"parameter_shortname" : "chorus"
 				}
 ,
 				"obj-1::obj-124" : 				{
 					"parameter_invisible" : 0,
+					"parameter_longname" : "inst_patch",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "inst_patch",
 					"parameter_unitstyle" : 10
+				}
+,
+				"obj-1::obj-134" : 				{
+					"parameter_longname" : "pan",
+					"parameter_shortname" : "pan"
+				}
+,
+				"obj-1::obj-137" : 				{
+					"parameter_longname" : "level",
+					"parameter_shortname" : "level"
+				}
+,
+				"obj-1::obj-144" : 				{
+					"parameter_longname" : "depth",
+					"parameter_shortname" : "depth"
+				}
+,
+				"obj-1::obj-147" : 				{
+					"parameter_longname" : "rate",
+					"parameter_shortname" : "rate"
+				}
+,
+				"obj-1::obj-150" : 				{
+					"parameter_longname" : "delay",
+					"parameter_shortname" : "delay"
+				}
+,
+				"obj-1::obj-155" : 				{
+					"parameter_longname" : "resonance",
+					"parameter_shortname" : "resonance"
+				}
+,
+				"obj-1::obj-171" : 				{
+					"parameter_longname" : "release",
+					"parameter_shortname" : "release"
+				}
+,
+				"obj-1::obj-176" : 				{
+					"parameter_longname" : "decay",
+					"parameter_shortname" : "decay"
+				}
+,
+				"obj-1::obj-179" : 				{
+					"parameter_longname" : "attack",
+					"parameter_shortname" : "attack"
 				}
 ,
 				"obj-1::obj-88" : 				{
 					"parameter_invisible" : 0,
+					"parameter_longname" : "inst_category",
 					"parameter_modmode" : 0,
+					"parameter_shortname" : "inst_category",
 					"parameter_unitstyle" : 10
 				}
 ,
 				"obj-1::obj-96" : 				{
 					"parameter_initial" : 40,
 					"parameter_initial_enable" : 1,
-					"parameter_longname" : "live.numbox",
-					"parameter_shortname" : "live.numbox"
+					"parameter_longname" : "reverb",
+					"parameter_shortname" : "reverb"
 				}
 
 			}

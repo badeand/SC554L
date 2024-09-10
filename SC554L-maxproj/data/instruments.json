@@ -1,0 +1,227 @@
+{
+    "Keyboards": [
+        {
+            "name": "Piano 1",
+            "patch": 1,
+            "variation": 0
+        },
+        {
+            "name": "Piano 2",
+            "patch": 2,
+            "variation": 0
+        },
+        {
+            "name": "Piano 3",
+            "patch": 3,
+            "variation": 0
+        },
+        {
+            "name": "Honkey-tonk",
+            "patch": 4,
+            "variation": 0
+        },
+        {
+            "name": "E.Piano 1",
+            "patch": 5,
+            "variation": 0
+        },
+        {
+            "name": "E.Piano 2",
+            "patch": 6,
+            "variation": 0
+        },
+        {
+            "name": "Harpsichord",
+            "patch": 7,
+            "variation": 0
+        },
+        {
+            "name": "Clav.",
+            "patch": 8,
+            "variation": 0
+        }
+    ],
+    "Tuned Percussion": [
+        {
+            "name": "Celesta",
+            "patch": 9,
+            "variation": 0
+        },
+        {
+            "name": "Glockenspiel",
+            "patch": 10,
+            "variation": 0
+        },
+        {
+            "name": "Music Box",
+            "patch": 11,
+            "variation": 0
+        },
+        {
+            "name": "Vibraphone",
+            "patch": 12,
+            "variation": 0
+        },
+        {
+            "name": "Marimba",
+            "patch": 13,
+            "variation": 0
+        },
+        {
+            "name": "Xylophone",
+            "patch": 14,
+            "variation": 0
+        },
+        {
+            "name": "Tubular-bell",
+            "patch": 15,
+            "variation": 0
+        },
+        {
+            "name": "Clav.",
+            "patch": 16,
+            "variation": 0
+        }
+    ],
+    "Basses": [
+        {
+            "name": "Acoustic Bs.",
+            "patch": 33,
+            "variation": 0
+        },
+        {
+            "name": "Fingered Bs.",
+            "patch": 34,
+            "variation": 0
+        },
+        {
+            "name": "Picked Bs.",
+            "patch": 35,
+            "variation": 0
+        },
+        {
+            "name": "Fretless Bs.",
+            "patch": 36,
+            "variation": 0
+        },
+        {
+            "name": "Slap Bass 1",
+            "patch": 37,
+            "variation": 0
+        },
+        {
+            "name": "Slap Bass 2",
+            "patch": 38,
+            "variation": 0
+        },
+        {
+            "name": "Synth Bass 1",
+            "patch": 39,
+            "variation": 0
+        },
+        {
+            "name": "Synth Bass 2",
+            "patch": 40,
+            "variation": 0
+        }
+    ],
+    "Strings": [
+        {
+            "name": "Violin",
+            "patch": 41,
+            "variation": 0
+        },
+        {
+            "name": "Viola",
+            "patch": 42,
+            "variation": 0
+        },
+        {
+            "name": "Cello",
+            "patch": 43,
+            "variation": 0
+        },
+        {
+            "name": "Contrabass",
+            "patch": 44,
+            "variation": 0
+        },
+        {
+            "name": "Tremolo Str",
+            "patch": 45,
+            "variation": 0
+        },
+        {
+            "name": "PizzicatoStr",
+            "patch": 46,
+            "variation": 0
+        },
+        {
+            "name": "Harp",
+            "patch": 47,
+            "variation": 0
+        },
+        {
+            "name": "Timpani",
+            "patch": 48,
+            "variation": 0
+        },
+        {
+            "name": "Strings",
+            "patch": 49,
+            "variation": 0
+        },
+        {
+            "name": "Slow Strings",
+            "patch": 50,
+            "variation": 0
+        },
+        {
+            "name": "Syn.Strings1",
+            "patch": 51,
+            "variation": 0
+        },
+        {
+            "name": "Syn.Strings2",
+            "patch": 52,
+            "variation": 0
+        },
+        {
+            "name": "Choir Wahs",
+            "patch": 53,
+            "variation": 0
+        },
+        {
+            "name": "Voice Oohs",
+            "patch": 54,
+            "variation": 0
+        },
+        {
+            "name": "Synvox",
+            "patch": 55,
+            "variation": 0
+        },
+        {
+            "name": "OrchestraHit",
+            "patch": 56,
+            "variation": 0
+        }
+    ],
+    "Guitars": [
+        {
+            "name": "Nylon-str.Gt",
+            "patch": 25,
+            "variation": 0
+        },
+        {
+            "name": "Steel-str.Gt",
+            "patch": 26,
+            "variation": 0
+        },
+        {
+            "name": "Jazz Gt.",
+            "patch": 27,
+            "variation": 0
+        }
+    ]
+}

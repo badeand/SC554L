@@ -1,8 +1,8 @@
 {
-	"name" : "sc-55-maxproj",
+	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3808399661,
+	"modificationdate" : 3808799213,
 	"viewrect" : [ 1555.0, 840.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -10,16 +10,25 @@
 	"autolocalize" : 0,
 	"contents" : 	{
 		"patchers" : 		{
-			"GUI.maxpat" : 			{
+			"main.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
 			}
 ,
-			"main.maxpat" : 			{
+			"gui_instrument.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
+			}
+,
+			"midi_all_parts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_all_parts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}

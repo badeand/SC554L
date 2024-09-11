@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 2,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2007.0, 1319.0 ],
+		"rect" : [ 34.0, 96.0, 1037.0, 837.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,98 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-15",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 620.603029131889343, 1023.115601062774658, 50.0, 22.0 ],
+					"text" : "8"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-14",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 510.708554983139038, 1023.115601062774658, 50.0, 22.0 ],
+					"text" : "5"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-11",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "" ],
+					"patching_rect" : [ 541.708554983139038, 958.291478991508484, 145.0, 22.0 ],
+					"saved_object_attributes" : 					{
+						"filename" : "splitinstrumentchoice.js",
+						"parameter_enable" : 0
+					}
+,
+					"text" : "js splitinstrumentchoice.js"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "live.menu",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "float" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 541.708554983139038, 906.030171275138855, 138.190957903862, 15.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_enum" : [ "001/0 Piano 1", "002/0 Piano 2", "003/0 Piano 3", "004/0 Honeky-tonk", "005/0 E. Piano 1", "005/8 Detuned EP 1", "006/0 E. Piano 2", "006/8 Detuned EP 2", "007/0 Harpsichord", "007/8 Coupled Hps.", "008/0 Clav.", "009/0 Celesta", "010/0 Glockenspiel", "011/0 Music Box", "012/0 Vibraphone", "013/0 Marimba", "014/0 Xylophone", "015/0 Tubular-bell", "015/8 Church Bell", "016/0 Santur", "017/0 Organ 1", "017/8 Detuned Or. 1", "018/0 Organ 2", "018/8 Detuned Or. 2", "019/0 Organ 3", "020/0 Church Org. 1", "021/0 Reed Organ", "022/0 Accordian Fr", "023/0 Harmonica", "024/0 Bandneon", "025/0 Nylon-str. Gt", "026/0 Steel-str. Gt", "027/0 Jazz Gt", "028/0 Clean Gt", "029/0 Muted Gt", "030/0 Overdrive Gt", "031/0 DistortionGt", "032/0 Gt. Harmonics", "033/0 Acoustic Bs.", "034/0 Fingered Bs.", "035/0 Picked Bs.", "036/0 Fretless Bs.", "037/0 Slap Bs. 1", "038/0 Slap Bs. 2", "039/0 Synth Bass 1", "040/0 Synth Bass 2", "041/0 Violin", "042/0 Viola", "043/0 Cello", "044/0 Contrabass", "045/0 Tremolo Str", "046/0 PizzicatoStr", "047/0 Harp", "048/0 Timpani", "049/0 Strings", "050/0 Slow Strings", "051/0 Syn. Strings1", "052/0 Syn. Strings2", "053/0 Choir Aahs", "054/0 Voice Oohs", "055/0 SynVox", "056/0 OrchestraHit", "057/0 Trumpet", "058/0 Trombone", "059/0 Tuba", "060/0 MutedTrumpet", "061/0 French Horn", "062/0 Brass 1", "063/0 Synth Brass1", "064/0 Synth Brass2", "065/0 Soprano sax", "066/0 Alto sax", "067/0 Tenor sax", "068/0 Baritone sax", "069/0 Oboe", "070/0 English Horn", "071/0 Bassoon", "072/0 Clarinet", "073/0 Piccolo", "074/0 Flute", "075/0 Recorder", "076/0 Pan flute", "077/0 Bottle Blow", "078/0 Shakuhachi", "079/0 Whistle", "080/0 Ocarina", "081/0 Square Wave", "082/0 Saw Wave", "083/0 Syn. Calliope", "084/0 Chiffer Lead", "085/0 Charang", "086/0 Solo Vox", "087/0 5th Saw Wave", "088/0 Bass&Lead", "089/0 Fantasia", "090/0 Warm Pad", "091/0 Polysynth", "092/0 Space Voice", "093/0 Bowed Glass", "094/0 Metal Pad", "095/0 Halo Pad", "096/0 Sweep Pad", "097/0 Ice Rain", "098/0 Soundtrack", "099/0 Crystal", "100/0 Atmosphere", "101/0 Brightness", "102/0 Goblin", "103/0 Echo Drops", "104/0 Star Theme", "105/0 Sitar", "106/0 Banjo", "107/0 Shamisen", "108/0 Koto", "109/0 Kalimba", "110/0 Bag Pipe", "110/0 Fiddle", "110/0 Shanai", "110/0 Tinke Bell", "110/0 Agogo", "110/0 Steel Drums", "110/0 Woodblock", "110/0 Taiko", "110/0 Melo Tom 1", "110/0 Synth Drum", "120/0 Reverse Cym.", "121/0 Gt. FretNoise", "122/0 Fl. Keyclick", "123/0 Seashore", "124/0 Bird", "125/0 Telephone 1", "126/0 Helicopter", "127/0 Applause", "128/0 Gun Shot" ],
+							"parameter_longname" : "live.menu",
+							"parameter_mmax" : 133,
+							"parameter_modmode" : 0,
+							"parameter_shortname" : "live.menu",
+							"parameter_type" : 2
+						}
+
+					}
+,
+					"varname" : "live.menu"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-12",
+					"maxclass" : "live.numbox",
+					"numinlets" : 1,
+					"numoutlets" : 2,
+					"outlettype" : [ "", "float" ],
+					"parameter_enable" : 1,
+					"patching_rect" : [ 1220.0, 888.0, 44.0, 15.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 14.893617331981659, 9.430693089962006, 44.0, 15.0 ],
+					"saved_attribute_attributes" : 					{
+						"valueof" : 						{
+							"parameter_longname" : "patch",
+							"parameter_modmode" : 3,
+							"parameter_shortname" : "patch",
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 0
+						}
+
+					}
+,
+					"varname" : "patch"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-8",
 					"maxclass" : "newobj",
@@ -1179,22 +1271,19 @@
 					"fontname" : "Ableton Sans Medium",
 					"fontsize" : 9.5,
 					"id" : "obj-124",
-					"items" : [ "Acoustic Bs.", ",", "Fingered Bs.", ",", "Picked Bs.", ",", "Fretless Bs.", ",", "Slap Bass 1", ",", "Slap Bass 2", ",", "Synth Bass 1", ",", "Synth Bass 2" ],
+					"items" : [ "Piano 1", ",", "Piano 2", ",", "Piano 3", ",", "Honkey-tonk", ",", "E.Piano 1", ",", "E.Piano 2", ",", "Harpsichord", ",", "Clav." ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1079.0, 791.0, 100.0, 20.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 2.475247532129288, 25.742574334144592, 100.0, 20.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_enum" : [ "Acoustic Bs.", "Fingered Bs.", "Picked Bs.", "Fretless Bs.", "Slap Bass 1", "Slap Bass 2", "Synth Bass 1", "Synth Bass 2" ],
+							"parameter_enum" : [ "Piano 1", "Piano 2", "Piano 3", "Honkey-tonk", "E.Piano 1", "E.Piano 2", "Harpsichord", "Clav." ],
 							"parameter_longname" : "inst_patch",
 							"parameter_mmax" : 7,
 							"parameter_modmode" : 0,
-							"parameter_order" : 1,
 							"parameter_shortname" : "inst_patch",
 							"parameter_type" : 2
 						}
@@ -1327,8 +1416,6 @@
 					"outlettype" : [ "int", "", "" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1084.0, 584.0, 100.0, 20.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 2.475247532129288, 3.96039605140686, 100.0, 20.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "Keyboards", "Tuned Percussion", "Basses", "Strings", "Guitars" ],
@@ -1388,7 +1475,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-26",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -1411,7 +1498,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-4",
-					"index" : 1,
+					"index" : 0,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -1520,6 +1607,20 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-14", 1 ],
+					"source" : [ "obj-11", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-15", 1 ],
+					"source" : [ "obj-11", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-115", 0 ],
 					"source" : [ "obj-112", 0 ]
 				}
@@ -1557,6 +1658,13 @@
 				"patchline" : 				{
 					"destination" : [ "obj-113", 0 ],
 					"source" : [ "obj-119", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-127", 0 ],
+					"source" : [ "obj-12", 0 ]
 				}
 
 			}
@@ -1647,6 +1755,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-127", 0 ],
+					"disabled" : 1,
 					"source" : [ "obj-133", 1 ]
 				}
 
@@ -1872,6 +1981,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-11", 0 ],
+					"source" : [ "obj-2", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-101", 0 ],
 					"order" : 0,
 					"source" : [ "obj-4", 0 ]
@@ -2031,7 +2147,54 @@
 				}
 
 			}
- ]
+ ],
+		"parameters" : 		{
+			"obj-105" : [ "live.text[2]", "live.text", 0 ],
+			"obj-112" : [ "chorus", "chorus", 0 ],
+			"obj-12" : [ "patch", "patch", 0 ],
+			"obj-124" : [ "inst_patch", "inst_patch", 0 ],
+			"obj-134" : [ "pan", "pan", 0 ],
+			"obj-137" : [ "level", "level", 0 ],
+			"obj-144" : [ "depth", "depth", 0 ],
+			"obj-147" : [ "rate", "rate", 0 ],
+			"obj-150" : [ "delay", "delay", 0 ],
+			"obj-155" : [ "resonance", "resonance", 0 ],
+			"obj-158" : [ "live.numbox[16]", "live.numbox", 0 ],
+			"obj-171" : [ "release", "release", 0 ],
+			"obj-176" : [ "decay", "decay", 0 ],
+			"obj-179" : [ "attack", "attack", 0 ],
+			"obj-2" : [ "live.menu", "live.menu", 0 ],
+			"obj-87" : [ "live.text", "live.text", 0 ],
+			"obj-88" : [ "inst_category", "inst_category", 0 ],
+			"obj-96" : [ "reverb", "reverb", 0 ],
+			"parameterbanks" : 			{
+				"0" : 				{
+					"index" : 0,
+					"name" : "",
+					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+				}
+
+			}
+,
+			"inherited_shortname" : 1
+		}
+,
+		"dependency_cache" : [ 			{
+				"name" : "instruments.js",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
+				"patcherrelativepath" : "../code",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "splitinstrumentchoice.js",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
+				"patcherrelativepath" : "../code",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+ ],
+		"autosave" : 0
 	}
 
 }

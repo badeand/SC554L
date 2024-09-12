@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3808918434,
-	"viewrect" : [ 371.0, 96.0, 1015.0, 837.0 ],
+	"modificationdate" : 3808989596,
+	"viewrect" : [ 226.0, 189.0, 582.0, 628.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -17,11 +17,6 @@
 			}
 ,
 			"gui_all_parts.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gui_instrument.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -41,7 +36,17 @@
 				"local" : 1
 			}
 ,
-			"midi_instrument.maxpat" : 			{
+			"gui_instrumentchooser.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"midi_part.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_part.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -49,12 +54,12 @@
 		}
 ,
 		"code" : 		{
-			"instruments.js" : 			{
+			"splitinstrumentchoice.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
 			}
 ,
-			"splitinstrumentchoice.js" : 			{
+			"instruments.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
 			}

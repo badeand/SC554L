@@ -623,7 +623,6 @@
 			"obj-14::obj-9" : [ "monopoly_1", "monopoly_1", 0 ],
 			"obj-1::obj-105" : [ "live.text[2]", "live.text", 0 ],
 			"obj-1::obj-112" : [ "chorus", "chorus", 0 ],
-			"obj-1::obj-124" : [ "inst_patch", "inst_patch", 0 ],
 			"obj-1::obj-134" : [ "pan", "pan", 0 ],
 			"obj-1::obj-137" : [ "level", "level", 0 ],
 			"obj-1::obj-144" : [ "depth", "depth", 0 ],
@@ -634,8 +633,8 @@
 			"obj-1::obj-171" : [ "release", "release", 0 ],
 			"obj-1::obj-176" : [ "decay", "decay", 0 ],
 			"obj-1::obj-179" : [ "attack", "attack", 0 ],
+			"obj-1::obj-2" : [ "live.menu", "live.menu", 0 ],
 			"obj-1::obj-87" : [ "live.text", "live.text", 0 ],
-			"obj-1::obj-88" : [ "inst_category", "inst_category", 0 ],
 			"obj-1::obj-96" : [ "reverb", "reverb", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
@@ -847,14 +846,6 @@
 					"parameter_shortname" : "chorus"
 				}
 ,
-				"obj-1::obj-124" : 				{
-					"parameter_invisible" : 0,
-					"parameter_longname" : "inst_patch",
-					"parameter_modmode" : 0,
-					"parameter_shortname" : "inst_patch",
-					"parameter_unitstyle" : 10
-				}
-,
 				"obj-1::obj-134" : 				{
 					"parameter_longname" : "pan",
 					"parameter_shortname" : "pan"
@@ -900,14 +891,6 @@
 					"parameter_shortname" : "attack"
 				}
 ,
-				"obj-1::obj-88" : 				{
-					"parameter_invisible" : 0,
-					"parameter_longname" : "inst_category",
-					"parameter_modmode" : 0,
-					"parameter_shortname" : "inst_category",
-					"parameter_unitstyle" : 10
-				}
-,
 				"obj-1::obj-96" : 				{
 					"parameter_initial" : 40,
 					"parameter_initial_enable" : 1,
@@ -935,13 +918,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "instruments.js",
-				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
-				"patcherrelativepath" : "../code",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "midi_all_parts.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
@@ -960,6 +936,13 @@
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "splitinstrumentchoice.js",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
+				"patcherrelativepath" : "../code",
+				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{

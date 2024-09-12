@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 930.0, 1319.0 ],
+		"rect" : [ 34.0, 87.0, 1796.0, 1319.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,27 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"bgmode" : 0,
+					"border" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"id" : "obj-1",
+					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
+					"maxclass" : "bpatcher",
+					"name" : "gui_part_drum.maxpat",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"offset" : [ 0.0, 0.0 ],
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 806.0, 375.0, 403.0, 165.0 ],
+					"viewvisibility" : 1
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"bgmode" : 0,
 					"border" : 0,
@@ -456,6 +477,14 @@
  ],
 		"lines" : [ 			{
 				"patchline" : 				{
+					"destination" : [ "obj-7", 0 ],
+					"midpoints" : [ 815.5, 629.0, 377.5, 629.0 ],
+					"source" : [ "obj-1", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-13", 0 ],
 					"source" : [ "obj-11", 0 ]
 				}
@@ -616,8 +645,18 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-37", 0 ],
+					"destination" : [ "obj-1", 0 ],
+					"midpoints" : [ 254.5, 327.0, 815.5, 327.0 ],
 					"order" : 2,
+					"source" : [ "obj-32", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-37", 0 ],
+					"midpoints" : [ 254.5, 327.0, 377.5, 327.0 ],
+					"order" : 3,
 					"source" : [ "obj-32", 0 ]
 				}
 
@@ -711,6 +750,21 @@
 			"obj-14::obj-75" : [ "monopoly_10", "monopoly_10", 0 ],
 			"obj-14::obj-77" : [ "monopoly_9", "monopoly_9", 0 ],
 			"obj-14::obj-9" : [ "monopoly_1", "monopoly_1", 0 ],
+			"obj-1::obj-14::obj-2" : [ "drumset", "drumset", 0 ],
+			"obj-1::obj-17::obj-105" : [ "live.text[4]", "live.text", 0 ],
+			"obj-1::obj-17::obj-87" : [ "live.text[3]", "live.text", 0 ],
+			"obj-1::obj-1::obj-112" : [ "chorus[1]", "chorus", 0 ],
+			"obj-1::obj-1::obj-134" : [ "pan[1]", "pan", 0 ],
+			"obj-1::obj-1::obj-137" : [ "level[1]", "level", 0 ],
+			"obj-1::obj-1::obj-144" : [ "depth[1]", "depth", 0 ],
+			"obj-1::obj-1::obj-147" : [ "rate[1]", "rate", 0 ],
+			"obj-1::obj-1::obj-150" : [ "delay[1]", "delay", 0 ],
+			"obj-1::obj-1::obj-155" : [ "resonance[1]", "resonance", 0 ],
+			"obj-1::obj-1::obj-158" : [ "live.numbox[1]", "live.numbox", 0 ],
+			"obj-1::obj-1::obj-171" : [ "release[1]", "release", 0 ],
+			"obj-1::obj-1::obj-176" : [ "decay[1]", "decay", 0 ],
+			"obj-1::obj-1::obj-179" : [ "attack[1]", "attack", 0 ],
+			"obj-1::obj-1::obj-96" : [ "reverb[1]", "reverb", 0 ],
 			"obj-37::obj-14::obj-2" : [ "live.menu[1]", "live.menu", 0 ],
 			"obj-37::obj-17::obj-105" : [ "live.text[2]", "live.text", 0 ],
 			"obj-37::obj-17::obj-87" : [ "live.text", "live.text", 0 ],
@@ -921,6 +975,74 @@
 					"parameter_type" : 2,
 					"parameter_unitstyle" : 10
 				}
+,
+				"obj-1::obj-14::obj-2" : 				{
+					"parameter_initial" : 0.0,
+					"parameter_initial_enable" : 1,
+					"parameter_invisible" : 0,
+					"parameter_longname" : "drumset",
+					"parameter_modmode" : 0,
+					"parameter_range" : [ "001 Standard", "009 Room", "017 Power", "025 Electronic", "026 TR-808", "033 Jazz", "041 Brush", "049 Orchestra", "057 SFX", "128 CM-64/32L" ],
+					"parameter_shortname" : "drumset",
+					"parameter_type" : 2,
+					"parameter_unitstyle" : 10
+				}
+,
+				"obj-1::obj-17::obj-105" : 				{
+					"parameter_longname" : "live.text[4]"
+				}
+,
+				"obj-1::obj-17::obj-87" : 				{
+					"parameter_longname" : "live.text[3]"
+				}
+,
+				"obj-1::obj-1::obj-112" : 				{
+					"parameter_longname" : "chorus[1]"
+				}
+,
+				"obj-1::obj-1::obj-134" : 				{
+					"parameter_longname" : "pan[1]"
+				}
+,
+				"obj-1::obj-1::obj-137" : 				{
+					"parameter_longname" : "level[1]"
+				}
+,
+				"obj-1::obj-1::obj-144" : 				{
+					"parameter_longname" : "depth[1]"
+				}
+,
+				"obj-1::obj-1::obj-147" : 				{
+					"parameter_longname" : "rate[1]"
+				}
+,
+				"obj-1::obj-1::obj-150" : 				{
+					"parameter_longname" : "delay[1]"
+				}
+,
+				"obj-1::obj-1::obj-155" : 				{
+					"parameter_longname" : "resonance[1]"
+				}
+,
+				"obj-1::obj-1::obj-158" : 				{
+					"parameter_longname" : "live.numbox[1]"
+				}
+,
+				"obj-1::obj-1::obj-171" : 				{
+					"parameter_longname" : "release[1]"
+				}
+,
+				"obj-1::obj-1::obj-176" : 				{
+					"parameter_longname" : "decay[1]"
+				}
+,
+				"obj-1::obj-1::obj-179" : 				{
+					"parameter_longname" : "attack[1]"
+				}
+,
+				"obj-1::obj-1::obj-96" : 				{
+					"parameter_longname" : "reverb[1]"
+				}
 
 			}
 ,
@@ -935,6 +1057,13 @@
 				"implicit" : 1
 			}
 , 			{
+				"name" : "gui_drumsetchooser.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "gui_instrumentchooser.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
@@ -943,6 +1072,13 @@
 			}
 , 			{
 				"name" : "gui_part.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "gui_part_drum.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",

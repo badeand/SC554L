@@ -2,7 +2,7 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3809003556,
+	"modificationdate" : 3809005026,
 	"viewrect" : [ 2993.0, 1231.0, 582.0, 628.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -21,12 +21,37 @@
 				"local" : 1
 			}
 ,
+			"gui_instrumentchooser.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"gui_part.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
+			"gui_drumsetchooser.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_part_norm.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_update.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"midi_all_parts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_part_drum.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -42,21 +67,6 @@
 			}
 ,
 			"midi_part.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gui_instrumentchooser.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gui_update.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gui_part_norm.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

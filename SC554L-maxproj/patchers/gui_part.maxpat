@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -39,6 +39,30 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-8",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 573.399054765701294, 712.315320611000061, 73.0, 22.0 ],
+					"text" : "speedlim 30"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "newobj",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 482.266043484210968, 712.315320611000061, 73.0, 22.0 ],
+					"text" : "speedlim 30"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontface" : 1,
 					"fontname" : "Ableton Sans Medium",
@@ -301,7 +325,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 481.885842561721802, 756.687838554382324, 87.0, 22.0 ],
+					"patching_rect" : [ 481.885842561721802, 804.37503445148468, 87.0, 22.0 ],
 					"text" : "s #0_out_1"
 				}
 
@@ -314,7 +338,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 564.688383817672729, 702.547715425491333, 99.311616182327271, 35.0 ],
+					"patching_rect" : [ 573.399054765701294, 750.24635773897171, 99.311616182327271, 35.0 ],
 					"text" : "prepend filter_resonance"
 				}
 
@@ -327,7 +351,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 481.885842561721802, 702.547715425491333, 72.560025930404663, 35.0 ],
+					"patching_rect" : [ 481.885842561721802, 750.187838554382324, 72.560025930404663, 35.0 ],
 					"text" : "prepend filter_cutoff"
 				}
 
@@ -339,7 +363,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 592.71385931968689, 651.592305421829224, 62.0, 21.0 ],
+					"patching_rect" : [ 601.477874457836151, 651.72418338060379, 62.0, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 206.796113669872284, 49.514562427997589, 62.0, 21.0 ],
 					"text" : "resonance"
@@ -356,7 +380,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 564.688383817672729, 673.885297298431396, 44.0, 15.0 ],
+					"patching_rect" : [ 573.399054765701294, 673.891672611236572, 44.0, 15.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 206.796113669872284, 66.504853457212448, 44.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
@@ -1184,7 +1208,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-152", 0 ],
+					"destination" : [ "obj-8", 0 ],
 					"source" : [ "obj-155", 0 ]
 				}
 
@@ -1192,7 +1216,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-155", 0 ],
-					"midpoints" : [ 491.385842561721802, 637.385297298431396, 574.188383817672729, 637.385297298431396 ],
+					"midpoints" : [ 491.385842561721802, 637.385297298431396, 582.899054765701294, 637.385297298431396 ],
 					"order" : 0,
 					"source" : [ "obj-157", 0 ]
 				}
@@ -1208,7 +1232,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-153", 0 ],
+					"destination" : [ "obj-2", 0 ],
 					"source" : [ "obj-158", 0 ]
 				}
 
@@ -1283,6 +1307,13 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-153", 0 ],
+					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-101", 0 ],
 					"order" : 0,
 					"source" : [ "obj-4", 0 ]
@@ -1294,6 +1325,13 @@
 					"destination" : [ "obj-99", 0 ],
 					"order" : 1,
 					"source" : [ "obj-4", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-152", 0 ],
+					"source" : [ "obj-8", 0 ]
 				}
 
 			}
@@ -1311,7 +1349,14 @@
 				}
 
 			}
- ]
+ ],
+		"saved_attribute_attributes" : 		{
+			"default_plcolor" : 			{
+				"expression" : ""
+			}
+
+		}
+
 	}
 
 }

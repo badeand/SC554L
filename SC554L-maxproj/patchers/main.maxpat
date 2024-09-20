@@ -82,18 +82,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 130.0, 1015.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-32",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -426,7 +414,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 13.0,
 					"id" : "obj-6",
-					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "iConnectAUDIO4+ DIN", ",", "iConnectAUDIO4+ USB2", ",", "iConnectAUDIO4+ HST1", ",", "iConnectAUDIO4+ HST2", ",", "iConnectAUDIO4+ HST3", ",", "iConnectAUDIO4+ HST4", ",", "iConnectAUDIO4+ HST5", ",", "iConnectAUDIO4+ HST6", ",", "iConnectAUDIO4+ HST7", ",", "iConnectAUDIO4+ HST8", ",", "from Max 1", ",", "from Max 2" ],
+					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "iConnectAUDIO4+ DIN", ",", "iConnectAUDIO4+ USB2", ",", "iConnectAUDIO4+ HST1", ",", "iConnectAUDIO4+ HST2", ",", "iConnectAUDIO4+ HST3", ",", "iConnectAUDIO4+ HST4", ",", "iConnectAUDIO4+ HST5", ",", "iConnectAUDIO4+ HST6", ",", "iConnectAUDIO4+ HST7", ",", "iConnectAUDIO4+ HST8", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "from Max 1", ",", "from Max 2" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -647,7 +635,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
 					"midpoints" : [ 254.5, 327.0, 815.5, 327.0 ],
-					"order" : 2,
+					"order" : 3,
 					"source" : [ "obj-32", 0 ]
 				}
 
@@ -656,7 +644,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-37", 0 ],
 					"midpoints" : [ 254.5, 327.0, 377.5, 327.0 ],
-					"order" : 3,
+					"order" : 2,
 					"source" : [ "obj-32", 0 ]
 				}
 
@@ -687,16 +675,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
-					"order" : 1,
-					"source" : [ "obj-5", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-4", 0 ],
-					"order" : 0,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -749,6 +728,7 @@
 			"obj-14::obj-73" : [ "monopoly_11", "monopoly_11", 0 ],
 			"obj-14::obj-75" : [ "monopoly_10", "monopoly_10", 0 ],
 			"obj-14::obj-77" : [ "monopoly_9", "monopoly_9", 0 ],
+			"obj-14::obj-8" : [ "reverb_sendtochorus[1]", "reverb_sendtochorus", 0 ],
 			"obj-14::obj-9" : [ "monopoly_1", "monopoly_1", 0 ],
 			"obj-1::obj-14::obj-2" : [ "drumset", "drumset", 0 ],
 			"obj-1::obj-17::obj-105" : [ "live.text[4]", "live.text", 0 ],
@@ -965,6 +945,10 @@
 					"parameter_unitstyle" : 10
 				}
 ,
+				"obj-14::obj-8" : 				{
+					"parameter_longname" : "reverb_sendtochorus[1]"
+				}
+,
 				"obj-14::obj-9" : 				{
 					"parameter_initial" : "P",
 					"parameter_initial_enable" : 1,
@@ -1128,6 +1112,13 @@
 			}
 , 			{
 				"name" : "sx_onebyte.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "trafficcontrol.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",

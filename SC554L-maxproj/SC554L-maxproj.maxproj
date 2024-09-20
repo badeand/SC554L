@@ -2,7 +2,7 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3809695534,
+	"modificationdate" : 3809698665,
 	"viewrect" : [ 510.0, 609.0, 582.0, 628.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -32,6 +32,11 @@
 			}
 ,
 			"gui_part.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"trafficcontrol.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -71,7 +76,7 @@
 				"local" : 1
 			}
 ,
-			"trafficcontrol.maxpat" : 			{
+			"all_mixer.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 1796.0, 1319.0 ],
+		"rect" : [ 24.0, 236.0, 1828.0, 1212.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -99,7 +99,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "int" ],
-					"patching_rect" : [ 1493.0, 1140.0, 43.0, 95.0 ]
+					"patching_rect" : [ 1493.0, 1140.0, 43.0, 95.0 ],
+					"slidercolor" : [ 0.141176470588235, 0.141176470588235, 0.141176470588235, 1.0 ]
 				}
 
 			}
@@ -110,7 +111,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "int" ],
-					"patching_rect" : [ 1438.0, 1140.0, 43.0, 95.0 ]
+					"patching_rect" : [ 1438.0, 1140.0, 43.0, 95.0 ],
+					"slidercolor" : [ 0.141176470588235, 0.141176470588235, 0.141176470588235, 1.0 ]
 				}
 
 			}
@@ -175,7 +177,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 368.0, 757.0, 654.0, 137.0 ],
+					"patching_rect" : [ 368.0, 757.0, 621.0, 137.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -414,7 +416,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 13.0,
 					"id" : "obj-6",
-					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "iConnectAUDIO4+ DIN", ",", "iConnectAUDIO4+ USB2", ",", "iConnectAUDIO4+ HST1", ",", "iConnectAUDIO4+ HST2", ",", "iConnectAUDIO4+ HST3", ",", "iConnectAUDIO4+ HST4", ",", "iConnectAUDIO4+ HST5", ",", "iConnectAUDIO4+ HST6", ",", "iConnectAUDIO4+ HST7", ",", "iConnectAUDIO4+ HST8", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "from Max 1", ",", "from Max 2" ],
+					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "iConnectAUDIO4+ DIN", ",", "iConnectAUDIO4+ USB2", ",", "iConnectAUDIO4+ HST1", ",", "iConnectAUDIO4+ HST2", ",", "iConnectAUDIO4+ HST3", ",", "iConnectAUDIO4+ HST4", ",", "iConnectAUDIO4+ HST5", ",", "iConnectAUDIO4+ HST6", ",", "iConnectAUDIO4+ HST7", ",", "iConnectAUDIO4+ HST8", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "to Max 1", ",", "to Max 2", ",", "from Max 1", ",", "from Max 2" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -712,6 +714,23 @@
 			"obj-14::obj-24" : [ "reverb_feedback", "reverb_feedback", 0 ],
 			"obj-14::obj-26" : [ "reverb_sendtochorus", "reverb_sendtochorus", 0 ],
 			"obj-14::obj-37" : [ "reverb_character", "reverb_character", 0 ],
+			"obj-14::obj-39" : [ "update", "update", 0 ],
+			"obj-14::obj-41::obj-105" : [ "ch12", "12", 0 ],
+			"obj-14::obj-41::obj-111" : [ "ch11", "11", 0 ],
+			"obj-14::obj-41::obj-117" : [ "ch10", "10", 0 ],
+			"obj-14::obj-41::obj-125" : [ "ch9", "9", 0 ],
+			"obj-14::obj-41::obj-2" : [ "ch1", "1", 0 ],
+			"obj-14::obj-41::obj-20" : [ "ch2", "2", 0 ],
+			"obj-14::obj-41::obj-26" : [ "ch3", "3", 0 ],
+			"obj-14::obj-41::obj-32" : [ "ch4", "4", 0 ],
+			"obj-14::obj-41::obj-38" : [ "ch5", "5", 0 ],
+			"obj-14::obj-41::obj-45" : [ "ch6", "6", 0 ],
+			"obj-14::obj-41::obj-51" : [ "ch7", "7", 0 ],
+			"obj-14::obj-41::obj-57" : [ "ch8", "8", 0 ],
+			"obj-14::obj-41::obj-81" : [ "ch16", "16", 0 ],
+			"obj-14::obj-41::obj-87" : [ "ch15", "15", 0 ],
+			"obj-14::obj-41::obj-93" : [ "ch14", "14", 0 ],
+			"obj-14::obj-41::obj-99" : [ "ch13", "13", 0 ],
 			"obj-14::obj-45" : [ "monopoly_2", "monopoly_2", 0 ],
 			"obj-14::obj-48" : [ "monopoly_3", "monopoly_3", 0 ],
 			"obj-14::obj-50" : [ "monopoly_4", "monopoly_4", 0 ],
@@ -732,7 +751,6 @@
 			"obj-14::obj-9" : [ "monopoly_1", "monopoly_1", 0 ],
 			"obj-1::obj-14::obj-2" : [ "drumset", "drumset", 0 ],
 			"obj-1::obj-17::obj-105" : [ "live.text[4]", "live.text", 0 ],
-			"obj-1::obj-17::obj-87" : [ "live.text[3]", "live.text", 0 ],
 			"obj-1::obj-1::obj-112" : [ "chorus[1]", "chorus", 0 ],
 			"obj-1::obj-1::obj-134" : [ "pan[1]", "pan", 0 ],
 			"obj-1::obj-1::obj-137" : [ "level[1]", "level", 0 ],
@@ -747,7 +765,6 @@
 			"obj-1::obj-1::obj-96" : [ "reverb[1]", "reverb", 0 ],
 			"obj-37::obj-14::obj-2" : [ "live.menu[1]", "live.menu", 0 ],
 			"obj-37::obj-17::obj-105" : [ "live.text[2]", "live.text", 0 ],
-			"obj-37::obj-17::obj-87" : [ "live.text", "live.text", 0 ],
 			"obj-37::obj-1::obj-112" : [ "chorus", "chorus", 0 ],
 			"obj-37::obj-1::obj-134" : [ "pan", "pan", 0 ],
 			"obj-37::obj-1::obj-137" : [ "level", "level", 0 ],
@@ -976,10 +993,6 @@
 					"parameter_longname" : "live.text[4]"
 				}
 ,
-				"obj-1::obj-17::obj-87" : 				{
-					"parameter_longname" : "live.text[3]"
-				}
-,
 				"obj-1::obj-1::obj-112" : 				{
 					"parameter_longname" : "chorus[1]"
 				}
@@ -1027,6 +1040,14 @@
 				"obj-1::obj-1::obj-96" : 				{
 					"parameter_longname" : "reverb[1]"
 				}
+,
+				"obj-37::obj-1::obj-137" : 				{
+					"parameter_invisible" : 0,
+					"parameter_modmode" : 4,
+					"parameter_range" : [ 0, 127 ],
+					"parameter_type" : 1,
+					"parameter_unitstyle" : 0
+				}
 
 			}
 ,
@@ -1034,6 +1055,13 @@
 		}
 ,
 		"dependency_cache" : [ 			{
+				"name" : "all_mixer.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
 				"name" : "gui_all_parts.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",

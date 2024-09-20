@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -45,7 +45,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 242.0, 514.0, 59.0, 22.0 ],
+					"patching_rect" : [ 242.0, 514.0, 72.0, 22.0 ],
 					"text" : "r #0_in_1"
 				}
 
@@ -56,7 +56,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 242.0, 711.0, 68.0, 22.0 ],
+					"patching_rect" : [ 242.0, 711.0, 81.0, 22.0 ],
 					"text" : "s #0_out_1"
 				}
 
@@ -91,7 +91,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 242.0, 269.0, 59.0, 22.0 ],
+					"patching_rect" : [ 242.0, 269.0, 72.0, 22.0 ],
 					"text" : "r #0_in_1"
 				}
 
@@ -102,7 +102,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 242.0, 466.0, 68.0, 22.0 ],
+					"patching_rect" : [ 242.0, 466.0, 81.0, 22.0 ],
 					"text" : "s #0_out_1"
 				}
 
@@ -137,7 +137,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 242.0, 24.0, 59.0, 22.0 ],
+					"patching_rect" : [ 242.0, 24.0, 72.0, 22.0 ],
 					"text" : "r #0_in_1"
 				}
 
@@ -148,7 +148,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 38.0, 68.0, 61.0, 22.0 ],
+					"patching_rect" : [ 38.0, 68.0, 74.0, 22.0 ],
 					"text" : "s #0_in_1"
 				}
 
@@ -159,7 +159,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 242.0, 221.0, 68.0, 22.0 ],
+					"patching_rect" : [ 242.0, 221.0, 81.0, 22.0 ],
 					"text" : "s #0_out_1"
 				}
 
@@ -203,7 +203,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-26",
-					"index" : 0,
+					"index" : 1,
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
@@ -215,7 +215,7 @@
 				"box" : 				{
 					"comment" : "",
 					"id" : "obj-4",
-					"index" : 0,
+					"index" : 1,
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
@@ -282,64 +282,13 @@
 
 			}
  ],
-		"parameters" : 		{
-			"obj-14::obj-2" : [ "live.menu[1]", "live.menu", 0 ],
-			"obj-17::obj-105" : [ "live.text[2]", "live.text", 0 ],
-			"obj-17::obj-87" : [ "live.text", "live.text", 0 ],
-			"obj-1::obj-112" : [ "chorus", "chorus", 0 ],
-			"obj-1::obj-134" : [ "pan", "pan", 0 ],
-			"obj-1::obj-137" : [ "level", "level", 0 ],
-			"obj-1::obj-144" : [ "depth", "depth", 0 ],
-			"obj-1::obj-147" : [ "rate", "rate", 0 ],
-			"obj-1::obj-150" : [ "delay", "delay", 0 ],
-			"obj-1::obj-155" : [ "resonance", "resonance", 0 ],
-			"obj-1::obj-158" : [ "live.numbox[16]", "live.numbox", 0 ],
-			"obj-1::obj-171" : [ "release", "release", 0 ],
-			"obj-1::obj-176" : [ "decay", "decay", 0 ],
-			"obj-1::obj-179" : [ "attack", "attack", 0 ],
-			"obj-1::obj-96" : [ "reverb", "reverb", 0 ],
-			"parameterbanks" : 			{
-				"0" : 				{
-					"index" : 0,
-					"name" : "",
-					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-				}
+		"saved_attribute_attributes" : 		{
+			"default_plcolor" : 			{
+				"expression" : ""
+			}
 
-			}
-,
-			"inherited_shortname" : 1
 		}
-,
-		"dependency_cache" : [ 			{
-				"name" : "gui_instrumentchooser.maxpat",
-				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "gui_part.maxpat",
-				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "gui_update.maxpat",
-				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "splitinstrumentchoice.js",
-				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
-				"patcherrelativepath" : "../code",
-				"type" : "TEXT",
-				"implicit" : 1
-			}
- ],
-		"autosave" : 0
+
 	}
 
 }

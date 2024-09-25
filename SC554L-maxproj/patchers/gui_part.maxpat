@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2221.0, 1319.0 ],
+		"rect" : [ 34.0, 87.0, 1759.0, 1319.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -129,7 +129,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 460.500005841255188, 344.82761025428772, 55.5, 35.0 ],
+					"patching_rect" : [ 460.500005841255188, 344.82761025428772, 56.0, 35.0 ],
 					"text" : "prepend set"
 				}
 
@@ -625,6 +625,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "release",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -707,6 +708,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "decay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -764,6 +766,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "attack",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -851,6 +854,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "resonance",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -908,6 +912,7 @@
 							"parameter_mmax" : 16.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "live.numbox",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -966,6 +971,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "delay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1048,6 +1054,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1105,6 +1112,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "rate",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1187,6 +1195,7 @@
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1242,6 +1251,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "level",
 							"parameter_modmode" : 4,
+							"parameter_order" : 10,
 							"parameter_shortname" : "level",
 							"parameter_type" : 1,
 							"parameter_unitstyle" : 0
@@ -1334,6 +1344,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "chorus",
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "chorus",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1389,6 +1400,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb",
 							"parameter_modmode" : 3,
+							"parameter_order" : 10,
 							"parameter_shortname" : "reverb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0

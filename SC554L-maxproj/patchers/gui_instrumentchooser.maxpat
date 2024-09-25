@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2594.0, 739.0, 1624.0, 1395.0 ],
+		"rect" : [ 2594.0, 739.0, 1162.0, 1395.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -255,6 +255,7 @@
 							"parameter_longname" : "live.menu[1]",
 							"parameter_mmax" : 186,
 							"parameter_modmode" : 0,
+							"parameter_order" : 10,
 							"parameter_shortname" : "live.menu",
 							"parameter_type" : 2
 						}
@@ -544,14 +545,7 @@
 				}
 
 			}
- ],
-		"saved_attribute_attributes" : 		{
-			"default_plcolor" : 			{
-				"expression" : ""
-			}
-
-		}
-
+ ]
 	}
 
 }

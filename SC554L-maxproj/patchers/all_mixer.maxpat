@@ -112,6 +112,7 @@
 					"presentation_rect" : [ 443.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch16",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "16",
@@ -199,6 +200,7 @@
 					"presentation_rect" : [ 414.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch15",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "15",
@@ -286,6 +288,7 @@
 					"presentation_rect" : [ 385.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch14",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "14",
@@ -373,6 +376,7 @@
 					"presentation_rect" : [ 356.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch13",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "13",
@@ -460,6 +464,7 @@
 					"presentation_rect" : [ 326.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch12",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "12",
@@ -547,6 +552,7 @@
 					"presentation_rect" : [ 297.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch11",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "11",
@@ -634,6 +640,7 @@
 					"presentation_rect" : [ 268.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch10",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "10",
@@ -745,6 +752,7 @@
 					"presentation_rect" : [ 238.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch9",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "9",
@@ -832,6 +840,7 @@
 					"presentation_rect" : [ 209.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch8",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "8",
@@ -919,6 +928,7 @@
 					"presentation_rect" : [ 180.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch7",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "7",
@@ -1006,6 +1016,7 @@
 					"presentation_rect" : [ 150.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch6",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "6",
@@ -1093,6 +1104,7 @@
 					"presentation_rect" : [ 121.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch5",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "5",
@@ -1180,6 +1192,7 @@
 					"presentation_rect" : [ 92.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch4",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "4",
@@ -1267,6 +1280,7 @@
 					"presentation_rect" : [ 63.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch3",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "3",
@@ -1354,6 +1368,7 @@
 					"presentation_rect" : [ 33.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch2",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "2",
@@ -1465,6 +1480,7 @@
 					"presentation_rect" : [ 4.0, 7.0, 26.0, 96.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_invisible" : 2,
 							"parameter_longname" : "ch1",
 							"parameter_modmode" : 4,
 							"parameter_shortname" : "1",

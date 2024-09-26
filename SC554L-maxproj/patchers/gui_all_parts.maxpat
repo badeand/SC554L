@@ -190,6 +190,7 @@
 							"parameter_initial" : [ 60 ],
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_sendtochorus[1]",
+							"parameter_mmax" : 2000.0,
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "reverb_sendtochorus",
 							"parameter_type" : 0,

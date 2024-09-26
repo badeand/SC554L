@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -69,8 +69,8 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 401.724159002304077, 210.344838619232178, 61.0, 22.0 ],
-					"text" : "route M P"
+					"patching_rect" : [ 401.724159002304077, 210.344838619232178, 95.0, 22.0 ],
+					"text" : "route mono poly"
 				}
 
 			}

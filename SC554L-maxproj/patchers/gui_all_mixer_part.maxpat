@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -84,6 +84,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
+					"parameter_mappable" : 0,
 					"patching_rect" : [ 263.636371493339539, 330.103482007980347, 44.0, 15.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ -0.311526477336884, 27.414330005645752, 32.582010746002197, 15.0 ],
@@ -92,16 +93,16 @@
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.numbox[31]",
+							"parameter_longname" : "reverb_level[1]",
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "live.numbox",
+							"parameter_shortname" : "reverb_level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "live.numbox[1]"
+					"varname" : "reverb_level"
 				}
 
 			}
@@ -162,6 +163,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
+					"parameter_mappable" : 0,
 					"patching_rect" : [ 165.243906378746033, 330.487812757492065, 44.0, 15.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ -0.311526477336884, 12.772585570812225, 32.582010746002197, 15.0 ],
@@ -170,18 +172,18 @@
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.numbox",
+							"parameter_longname" : "pan[2]",
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "live.numbox",
+							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "live.numbox"
+					"varname" : "pan"
 				}
 
 			}
@@ -236,7 +238,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 9.65732079744339, 42.367600917816162, 11.930442377924919, 80.155640661716461 ],
 					"proportion" : 0.5,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -281,7 +290,7 @@
 					"patching_rect" : [ 370.902449011802673, 584.146355390548706, 36.0, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ -0.311526477336884, -2.803738296031952, 32.582010746002197, 21.0 ],
-					"text" : "2",
+					"text" : "1",
 					"textjustification" : 1
 				}
 
@@ -552,7 +561,14 @@
 				}
 
 			}
- ]
+ ],
+		"saved_attribute_attributes" : 		{
+			"default_plcolor" : 			{
+				"expression" : ""
+			}
+
+		}
+
 	}
 
 }

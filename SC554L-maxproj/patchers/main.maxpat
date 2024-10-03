@@ -798,7 +798,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 13.0,
 					"id" : "obj-6",
-					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "USB Midi 4i4o Port 1", ",", "USB Midi 4i4o Port 2", ",", "USB Midi 4i4o Port 3", ",", "USB Midi 4i4o Port 4", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "to Max 1", ",", "to Max 2", ",", "from Max 1", ",", "from Max 2" ],
+					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "USB Midi 4i4o Port 1", ",", "USB Midi 4i4o Port 2", ",", "USB Midi 4i4o Port 3", ",", "USB Midi 4i4o Port 4", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "from Max 1", ",", "from Max 2" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -1257,38 +1257,38 @@
 			"obj-14::obj-26" : [ "reverb_sendtochorus", "reverb_sendtochorus", 0 ],
 			"obj-14::obj-37" : [ "reverb_character", "reverb_character", 0 ],
 			"obj-14::obj-39" : [ "update", "update", 0 ],
-			"obj-14::obj-41::obj-10::obj-37" : [ "live.numbox[7]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-10::obj-9" : [ "live.numbox[40]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-11::obj-37" : [ "live.numbox[8]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-11::obj-9" : [ "live.numbox[39]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-12::obj-37" : [ "live.numbox[9]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-12::obj-9" : [ "live.numbox[38]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-13::obj-37" : [ "live.numbox[10]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-13::obj-9" : [ "live.numbox[37]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-14::obj-37" : [ "live.numbox[11]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-14::obj-9" : [ "live.numbox[36]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-15::obj-37" : [ "live.numbox[12]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-15::obj-9" : [ "live.numbox[35]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-16::obj-37" : [ "live.numbox[13]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-16::obj-9" : [ "live.numbox[34]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-17::obj-37" : [ "live.numbox[14]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-17::obj-9" : [ "live.numbox[33]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-18::obj-37" : [ "live.numbox[15]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-18::obj-9" : [ "live.numbox[32]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-1::obj-37" : [ "live.numbox[30]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-1::obj-9" : [ "live.numbox[45]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-2::obj-37" : [ "live.numbox[3]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-2::obj-9" : [ "live.numbox[44]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-3::obj-37" : [ "live.numbox[4]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-3::obj-9" : [ "live.numbox[43]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-4::obj-37" : [ "live.numbox[5]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-4::obj-9" : [ "live.numbox[42]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-5::obj-37" : [ "live.numbox[6]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-5::obj-9" : [ "live.numbox[41]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-6::obj-37" : [ "live.numbox", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-6::obj-9" : [ "live.numbox[31]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-9::obj-37" : [ "live.numbox[2]", "live.numbox", 0 ],
-			"obj-14::obj-41::obj-9::obj-9" : [ "live.numbox[46]", "live.numbox", 0 ],
+			"obj-14::obj-41::obj-10::obj-37" : [ "live.numbox[7]", "pan", 0 ],
+			"obj-14::obj-41::obj-10::obj-9" : [ "live.numbox[40]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-11::obj-37" : [ "live.numbox[8]", "pan", 0 ],
+			"obj-14::obj-41::obj-11::obj-9" : [ "live.numbox[39]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-12::obj-37" : [ "live.numbox[9]", "pan", 0 ],
+			"obj-14::obj-41::obj-12::obj-9" : [ "live.numbox[38]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-13::obj-37" : [ "live.numbox[10]", "pan", 0 ],
+			"obj-14::obj-41::obj-13::obj-9" : [ "live.numbox[37]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-14::obj-37" : [ "live.numbox[11]", "pan", 0 ],
+			"obj-14::obj-41::obj-14::obj-9" : [ "live.numbox[36]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-15::obj-37" : [ "live.numbox[12]", "pan", 0 ],
+			"obj-14::obj-41::obj-15::obj-9" : [ "live.numbox[35]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-16::obj-37" : [ "live.numbox[13]", "pan", 0 ],
+			"obj-14::obj-41::obj-16::obj-9" : [ "live.numbox[34]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-17::obj-37" : [ "live.numbox[14]", "pan", 0 ],
+			"obj-14::obj-41::obj-17::obj-9" : [ "live.numbox[33]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-18::obj-37" : [ "live.numbox[15]", "pan", 0 ],
+			"obj-14::obj-41::obj-18::obj-9" : [ "live.numbox[32]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-1::obj-37" : [ "live.numbox[30]", "pan", 0 ],
+			"obj-14::obj-41::obj-1::obj-9" : [ "live.numbox[45]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-2::obj-37" : [ "live.numbox[3]", "pan", 0 ],
+			"obj-14::obj-41::obj-2::obj-9" : [ "live.numbox[44]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-3::obj-37" : [ "live.numbox[4]", "pan", 0 ],
+			"obj-14::obj-41::obj-3::obj-9" : [ "live.numbox[43]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-4::obj-37" : [ "live.numbox[5]", "pan", 0 ],
+			"obj-14::obj-41::obj-4::obj-9" : [ "live.numbox[42]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-5::obj-37" : [ "live.numbox[6]", "pan", 0 ],
+			"obj-14::obj-41::obj-5::obj-9" : [ "live.numbox[41]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-6::obj-37" : [ "live.numbox", "pan", 0 ],
+			"obj-14::obj-41::obj-6::obj-9" : [ "live.numbox[31]", "reverb_level", 0 ],
+			"obj-14::obj-41::obj-9::obj-37" : [ "live.numbox[2]", "pan", 0 ],
+			"obj-14::obj-41::obj-9::obj-9" : [ "live.numbox[46]", "reverb_level", 0 ],
 			"obj-14::obj-7" : [ "live.text[1]", "live.text", 0 ],
 			"obj-14::obj-8" : [ "reverb_sendtochorus[1]", "reverb_sendtochorus", 0 ],
 			"obj-1::obj-14::obj-2" : [ "drumset", "drumset", 0 ],
@@ -1305,6 +1305,8 @@
 			"obj-1::obj-1::obj-176" : [ "decay[1]", "decay", 0 ],
 			"obj-1::obj-1::obj-179" : [ "attack[1]", "attack", 0 ],
 			"obj-1::obj-1::obj-43" : [ "live.text[3]", "live.text", 0 ],
+			"obj-1::obj-1::obj-52" : [ "portamento[1]", "portamentostate", 0 ],
+			"obj-1::obj-1::obj-63" : [ "portamentotime[1]", "portamentotime", 0 ],
 			"obj-1::obj-1::obj-96" : [ "reverb[1]", "reverb", 0 ],
 			"obj-1::obj-5::obj-110::obj-2" : [ "reverb[20]", "reverb", 0 ],
 			"obj-1::obj-5::obj-110::obj-36" : [ "reverb[18]", "reverb", 0 ],
@@ -1368,15 +1370,9 @@
 			"obj-37::obj-1::obj-176" : [ "decay", "decay", 0 ],
 			"obj-37::obj-1::obj-179" : [ "attack", "attack", 0 ],
 			"obj-37::obj-1::obj-43" : [ "live.text", "live.text", 0 ],
+			"obj-37::obj-1::obj-52" : [ "portamentostate", "portamentostate", 0 ],
+			"obj-37::obj-1::obj-63" : [ "portamentotime", "portamentotime", 0 ],
 			"obj-37::obj-1::obj-96" : [ "reverb", "reverb", 0 ],
-			"obj-7::obj-162" : [ "live.numbox[47]", "live.numbox[47]", 0 ],
-			"obj-7::obj-163" : [ "live.numbox[48]", "live.numbox[47]", 0 ],
-			"obj-7::obj-164" : [ "live.numbox[49]", "live.numbox[47]", 0 ],
-			"obj-7::obj-165" : [ "live.numbox[50]", "live.numbox[47]", 0 ],
-			"obj-7::obj-166" : [ "live.numbox[51]", "live.numbox[47]", 0 ],
-			"obj-7::obj-167" : [ "live.numbox[52]", "live.numbox[47]", 0 ],
-			"obj-7::obj-168" : [ "live.numbox[53]", "live.numbox[47]", 0 ],
-			"obj-7::obj-169" : [ "live.numbox[54]", "live.numbox[47]", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,
@@ -1624,6 +1620,14 @@
 					"parameter_longname" : "live.text[3]"
 				}
 ,
+				"obj-1::obj-1::obj-52" : 				{
+					"parameter_longname" : "portamento[1]"
+				}
+,
+				"obj-1::obj-1::obj-63" : 				{
+					"parameter_longname" : "portamentotime[1]"
+				}
+,
 				"obj-1::obj-1::obj-96" : 				{
 					"parameter_longname" : "reverb[1]"
 				}
@@ -1821,6 +1825,10 @@
 					"parameter_longname" : "reverb[52]"
 				}
 ,
+				"obj-37::obj-17::obj-105" : 				{
+					"parameter_longname" : "live.text[2]"
+				}
+,
 				"obj-37::obj-1::obj-137" : 				{
 					"parameter_invisible" : 0,
 					"parameter_modmode" : 4,
@@ -1829,37 +1837,18 @@
 					"parameter_unitstyle" : 0
 				}
 ,
-				"obj-7::obj-162" : 				{
-					"parameter_longname" : "live.numbox[47]",
-					"parameter_shortname" : "live.numbox[47]"
+				"obj-37::obj-1::obj-52" : 				{
+					"parameter_invisible" : 0,
+					"parameter_longname" : "portamentostate",
+					"parameter_modmode" : 0,
+					"parameter_shortname" : "portamentostate",
+					"parameter_type" : 2,
+					"parameter_unitstyle" : 10
 				}
 ,
-				"obj-7::obj-163" : 				{
-					"parameter_longname" : "live.numbox[48]"
-				}
-,
-				"obj-7::obj-164" : 				{
-					"parameter_longname" : "live.numbox[49]"
-				}
-,
-				"obj-7::obj-165" : 				{
-					"parameter_longname" : "live.numbox[50]"
-				}
-,
-				"obj-7::obj-166" : 				{
-					"parameter_longname" : "live.numbox[51]"
-				}
-,
-				"obj-7::obj-167" : 				{
-					"parameter_longname" : "live.numbox[52]"
-				}
-,
-				"obj-7::obj-168" : 				{
-					"parameter_longname" : "live.numbox[53]"
-				}
-,
-				"obj-7::obj-169" : 				{
-					"parameter_longname" : "live.numbox[54]"
+				"obj-37::obj-1::obj-63" : 				{
+					"parameter_longname" : "portamentotime",
+					"parameter_shortname" : "portamentotime"
 				}
 
 			}

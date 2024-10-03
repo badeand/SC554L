@@ -798,7 +798,7 @@
 					"fontname" : "Arial",
 					"fontsize" : 13.0,
 					"id" : "obj-6",
-					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "USB Midi 4i4o Port 1", ",", "USB Midi 4i4o Port 2", ",", "USB Midi 4i4o Port 3", ",", "USB Midi 4i4o Port 4", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "from Max 1", ",", "from Max 2" ],
+					"items" : [ "AU DLS Synth 1", ",", "Keystation Mini 32", ",", "USB MIDI Device Port 1", ",", "USB MIDI Device Port 2", ",", "SparkFun Pro Micro", ",", "FaderPort", ",", "Akai APC40", ",", "USB Midi 4i4o Port 1", ",", "USB Midi 4i4o Port 2", ",", "USB Midi 4i4o Port 3", ",", "USB Midi 4i4o Port 4", ",", "SSL V-MIDI Port 1 Destination", ",", "SSL V-MIDI Port 2 Destination", ",", "SSL V-MIDI Port 3 Destination", ",", "SSL V-MIDI Port 4 Destination", ",", "SSL V-MIDI Port 5 Destination", ",", "SSL V-MIDI Port 6 Destination", ",", "SSL V-MIDI Port 7 Destination", ",", "SSL V-MIDI Port 8 Destination", ",", "SSL V-MIDI Port 9 Destination", ",", "SSL V-MIDI Port 10 Destination", ",", "SSL V-MIDI Port 11 Destination", ",", "SSL V-MIDI Port 12 Destination", ",", "to Max 1", ",", "to Max 2", ",", "from Max 1", ",", "from Max 2" ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"numinlets" : 1,
@@ -1290,7 +1290,7 @@
 			"obj-14::obj-41::obj-9::obj-37" : [ "live.numbox[2]", "pan", 0 ],
 			"obj-14::obj-41::obj-9::obj-9" : [ "live.numbox[46]", "reverb_level", 0 ],
 			"obj-14::obj-7" : [ "live.text[1]", "live.text", 0 ],
-			"obj-14::obj-8" : [ "reverb_sendtochorus[1]", "reverb_sendtochorus", 0 ],
+			"obj-14::obj-8" : [ "speedlimit", "speedlimit", 0 ],
 			"obj-1::obj-14::obj-2" : [ "drumset", "drumset", 0 ],
 			"obj-1::obj-17::obj-105" : [ "live.text[4]", "live.text", 0 ],
 			"obj-1::obj-1::obj-112" : [ "chorus[1]", "chorus", 0 ],
@@ -1300,63 +1300,63 @@
 			"obj-1::obj-1::obj-147" : [ "rate[1]", "rate", 0 ],
 			"obj-1::obj-1::obj-150" : [ "delay[1]", "delay", 0 ],
 			"obj-1::obj-1::obj-155" : [ "resonance[1]", "resonance", 0 ],
-			"obj-1::obj-1::obj-158" : [ "live.numbox[1]", "live.numbox", 0 ],
+			"obj-1::obj-1::obj-158" : [ "live.numbox[1]", "cutoff", 0 ],
 			"obj-1::obj-1::obj-171" : [ "release[1]", "release", 0 ],
 			"obj-1::obj-1::obj-176" : [ "decay[1]", "decay", 0 ],
 			"obj-1::obj-1::obj-179" : [ "attack[1]", "attack", 0 ],
-			"obj-1::obj-1::obj-43" : [ "live.text[3]", "live.text", 0 ],
+			"obj-1::obj-1::obj-43" : [ "live.text[3]", "monopoly", 0 ],
 			"obj-1::obj-1::obj-52" : [ "portamento[1]", "portamentostate", 0 ],
 			"obj-1::obj-1::obj-63" : [ "portamentotime[1]", "portamentotime", 0 ],
 			"obj-1::obj-1::obj-96" : [ "reverb[1]", "reverb", 0 ],
 			"obj-1::obj-5::obj-110::obj-2" : [ "reverb[20]", "reverb", 0 ],
-			"obj-1::obj-5::obj-110::obj-36" : [ "reverb[18]", "reverb", 0 ],
-			"obj-1::obj-5::obj-110::obj-43" : [ "reverb[19]", "reverb", 0 ],
-			"obj-1::obj-5::obj-110::obj-46" : [ "reverb[21]", "reverb", 0 ],
+			"obj-1::obj-5::obj-110::obj-36" : [ "reverb[18]", "pan", 0 ],
+			"obj-1::obj-5::obj-110::obj-43" : [ "reverb[19]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-110::obj-46" : [ "reverb[21]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-110::obj-85" : [ "live.text[8]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-110::obj-96" : [ "reverb[17]", "reverb", 0 ],
+			"obj-1::obj-5::obj-110::obj-96" : [ "reverb[17]", "level", 0 ],
 			"obj-1::obj-5::obj-111::obj-2" : [ "reverb[23]", "reverb", 0 ],
-			"obj-1::obj-5::obj-111::obj-36" : [ "reverb[24]", "reverb", 0 ],
-			"obj-1::obj-5::obj-111::obj-43" : [ "reverb[22]", "reverb", 0 ],
-			"obj-1::obj-5::obj-111::obj-46" : [ "reverb[14]", "reverb", 0 ],
+			"obj-1::obj-5::obj-111::obj-36" : [ "pan[2]", "pan", 0 ],
+			"obj-1::obj-5::obj-111::obj-43" : [ "keynumber", "keynumber", 0 ],
+			"obj-1::obj-5::obj-111::obj-46" : [ "reverb_depth", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-111::obj-85" : [ "live.text[7]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-111::obj-96" : [ "reverb[25]", "reverb", 0 ],
+			"obj-1::obj-5::obj-111::obj-96" : [ "level[2]", "level", 0 ],
 			"obj-1::obj-5::obj-115::obj-2" : [ "reverb[28]", "reverb", 0 ],
-			"obj-1::obj-5::obj-115::obj-36" : [ "reverb[15]", "reverb", 0 ],
-			"obj-1::obj-5::obj-115::obj-43" : [ "reverb[29]", "reverb", 0 ],
-			"obj-1::obj-5::obj-115::obj-46" : [ "reverb[27]", "reverb", 0 ],
+			"obj-1::obj-5::obj-115::obj-36" : [ "reverb[15]", "pan", 0 ],
+			"obj-1::obj-5::obj-115::obj-43" : [ "reverb[29]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-115::obj-46" : [ "reverb[27]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-115::obj-85" : [ "live.text[9]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-115::obj-96" : [ "reverb[26]", "reverb", 0 ],
+			"obj-1::obj-5::obj-115::obj-96" : [ "reverb[26]", "level", 0 ],
 			"obj-1::obj-5::obj-120::obj-2" : [ "reverb[30]", "reverb", 0 ],
-			"obj-1::obj-5::obj-120::obj-36" : [ "reverb[34]", "reverb", 0 ],
-			"obj-1::obj-5::obj-120::obj-43" : [ "reverb[32]", "reverb", 0 ],
-			"obj-1::obj-5::obj-120::obj-46" : [ "reverb[31]", "reverb", 0 ],
+			"obj-1::obj-5::obj-120::obj-36" : [ "reverb[34]", "pan", 0 ],
+			"obj-1::obj-5::obj-120::obj-43" : [ "reverb[32]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-120::obj-46" : [ "reverb[31]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-120::obj-85" : [ "live.text[10]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-120::obj-96" : [ "reverb[33]", "reverb", 0 ],
+			"obj-1::obj-5::obj-120::obj-96" : [ "reverb[33]", "level", 0 ],
 			"obj-1::obj-5::obj-124::obj-2" : [ "reverb[36]", "reverb", 0 ],
-			"obj-1::obj-5::obj-124::obj-36" : [ "reverb[37]", "reverb", 0 ],
-			"obj-1::obj-5::obj-124::obj-43" : [ "reverb[38]", "reverb", 0 ],
-			"obj-1::obj-5::obj-124::obj-46" : [ "reverb[35]", "reverb", 0 ],
+			"obj-1::obj-5::obj-124::obj-36" : [ "reverb[37]", "pan", 0 ],
+			"obj-1::obj-5::obj-124::obj-43" : [ "reverb[38]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-124::obj-46" : [ "reverb[35]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-124::obj-85" : [ "live.text[11]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-124::obj-96" : [ "reverb[39]", "reverb", 0 ],
+			"obj-1::obj-5::obj-124::obj-96" : [ "reverb[39]", "level", 0 ],
 			"obj-1::obj-5::obj-128::obj-2" : [ "reverb[44]", "reverb", 0 ],
-			"obj-1::obj-5::obj-128::obj-36" : [ "reverb[43]", "reverb", 0 ],
-			"obj-1::obj-5::obj-128::obj-43" : [ "reverb[42]", "reverb", 0 ],
-			"obj-1::obj-5::obj-128::obj-46" : [ "reverb[41]", "reverb", 0 ],
+			"obj-1::obj-5::obj-128::obj-36" : [ "reverb[43]", "pan", 0 ],
+			"obj-1::obj-5::obj-128::obj-43" : [ "reverb[42]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-128::obj-46" : [ "reverb[41]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-128::obj-85" : [ "live.text[12]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-128::obj-96" : [ "reverb[40]", "reverb", 0 ],
+			"obj-1::obj-5::obj-128::obj-96" : [ "reverb[40]", "level", 0 ],
 			"obj-1::obj-5::obj-132::obj-2" : [ "reverb[46]", "reverb", 0 ],
-			"obj-1::obj-5::obj-132::obj-36" : [ "reverb[49]", "reverb", 0 ],
-			"obj-1::obj-5::obj-132::obj-43" : [ "reverb[47]", "reverb", 0 ],
-			"obj-1::obj-5::obj-132::obj-46" : [ "reverb[48]", "reverb", 0 ],
+			"obj-1::obj-5::obj-132::obj-36" : [ "reverb[49]", "pan", 0 ],
+			"obj-1::obj-5::obj-132::obj-43" : [ "reverb[47]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-132::obj-46" : [ "reverb[48]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-132::obj-85" : [ "live.text[13]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-132::obj-96" : [ "reverb[45]", "reverb", 0 ],
+			"obj-1::obj-5::obj-132::obj-96" : [ "reverb[45]", "level", 0 ],
 			"obj-1::obj-5::obj-136::obj-2" : [ "reverb[50]", "reverb", 0 ],
-			"obj-1::obj-5::obj-136::obj-36" : [ "reverb[53]", "reverb", 0 ],
-			"obj-1::obj-5::obj-136::obj-43" : [ "reverb[51]", "reverb", 0 ],
-			"obj-1::obj-5::obj-136::obj-46" : [ "reverb[54]", "reverb", 0 ],
+			"obj-1::obj-5::obj-136::obj-36" : [ "reverb[53]", "pan", 0 ],
+			"obj-1::obj-5::obj-136::obj-43" : [ "reverb[51]", "keynumber", 0 ],
+			"obj-1::obj-5::obj-136::obj-46" : [ "reverb[54]", "reverb_depth", 0 ],
 			"obj-1::obj-5::obj-136::obj-85" : [ "live.text[14]", "live.text[5]", 0 ],
-			"obj-1::obj-5::obj-136::obj-96" : [ "reverb[52]", "reverb", 0 ],
-			"obj-37::obj-14::obj-2" : [ "live.menu[1]", "live.menu", 0 ],
+			"obj-1::obj-5::obj-136::obj-96" : [ "reverb[52]", "level", 0 ],
+			"obj-37::obj-14::obj-2" : [ "instrument", "instrument", 0 ],
 			"obj-37::obj-17::obj-105" : [ "live.text[2]", "live.text", 0 ],
 			"obj-37::obj-1::obj-112" : [ "chorus", "chorus", 0 ],
 			"obj-37::obj-1::obj-134" : [ "pan", "pan", 0 ],
@@ -1365,11 +1365,11 @@
 			"obj-37::obj-1::obj-147" : [ "rate", "rate", 0 ],
 			"obj-37::obj-1::obj-150" : [ "delay", "delay", 0 ],
 			"obj-37::obj-1::obj-155" : [ "resonance", "resonance", 0 ],
-			"obj-37::obj-1::obj-158" : [ "live.numbox[16]", "live.numbox", 0 ],
+			"obj-37::obj-1::obj-158" : [ "cutoff", "cutoff", 0 ],
 			"obj-37::obj-1::obj-171" : [ "release", "release", 0 ],
 			"obj-37::obj-1::obj-176" : [ "decay", "decay", 0 ],
 			"obj-37::obj-1::obj-179" : [ "attack", "attack", 0 ],
-			"obj-37::obj-1::obj-43" : [ "live.text", "live.text", 0 ],
+			"obj-37::obj-1::obj-43" : [ "monopoly", "monopoly", 0 ],
 			"obj-37::obj-1::obj-52" : [ "portamentostate", "portamentostate", 0 ],
 			"obj-37::obj-1::obj-63" : [ "portamentotime", "portamentotime", 0 ],
 			"obj-37::obj-1::obj-96" : [ "reverb", "reverb", 0 ],
@@ -1553,7 +1553,8 @@
 				}
 ,
 				"obj-14::obj-8" : 				{
-					"parameter_longname" : "reverb_sendtochorus[1]"
+					"parameter_longname" : "speedlimit",
+					"parameter_shortname" : "speedlimit"
 				}
 ,
 				"obj-1::obj-14::obj-2" : 				{
@@ -1661,15 +1662,18 @@
 				}
 ,
 				"obj-1::obj-5::obj-111::obj-36" : 				{
-					"parameter_longname" : "reverb[24]"
+					"parameter_longname" : "pan[2]",
+					"parameter_shortname" : "pan"
 				}
 ,
 				"obj-1::obj-5::obj-111::obj-43" : 				{
-					"parameter_longname" : "reverb[22]"
+					"parameter_longname" : "keynumber",
+					"parameter_shortname" : "keynumber"
 				}
 ,
 				"obj-1::obj-5::obj-111::obj-46" : 				{
-					"parameter_longname" : "reverb[14]"
+					"parameter_longname" : "reverb_depth",
+					"parameter_shortname" : "reverb_depth"
 				}
 ,
 				"obj-1::obj-5::obj-111::obj-85" : 				{
@@ -1677,7 +1681,8 @@
 				}
 ,
 				"obj-1::obj-5::obj-111::obj-96" : 				{
-					"parameter_longname" : "reverb[25]"
+					"parameter_longname" : "level[2]",
+					"parameter_shortname" : "level"
 				}
 ,
 				"obj-1::obj-5::obj-115::obj-2" : 				{
@@ -1825,6 +1830,11 @@
 					"parameter_longname" : "reverb[52]"
 				}
 ,
+				"obj-37::obj-14::obj-2" : 				{
+					"parameter_longname" : "instrument",
+					"parameter_shortname" : "instrument"
+				}
+,
 				"obj-37::obj-17::obj-105" : 				{
 					"parameter_longname" : "live.text[2]"
 				}
@@ -1835,6 +1845,16 @@
 					"parameter_range" : [ 0, 127 ],
 					"parameter_type" : 1,
 					"parameter_unitstyle" : 0
+				}
+,
+				"obj-37::obj-1::obj-158" : 				{
+					"parameter_longname" : "cutoff",
+					"parameter_shortname" : "cutoff"
+				}
+,
+				"obj-37::obj-1::obj-43" : 				{
+					"parameter_longname" : "monopoly",
+					"parameter_shortname" : "monopoly"
 				}
 ,
 				"obj-37::obj-1::obj-52" : 				{

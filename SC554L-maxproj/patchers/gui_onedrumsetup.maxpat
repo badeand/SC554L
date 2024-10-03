@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 351.0, 354.0, 1207.0, 830.0 ],
+		"rect" : [ 34.0, 87.0, 2018.0, 1319.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -79,7 +79,7 @@
 						"valueof" : 						{
 							"parameter_enum" : [ "learn", "learning" ],
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.text[12]",
+							"parameter_longname" : "live.text[7]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_shortname" : "live.text[5]",
@@ -174,16 +174,16 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 100 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[41]",
+							"parameter_longname" : "reverb_depth",
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "reverb",
+							"parameter_shortname" : "reverb_depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "reverb[4]"
+					"varname" : "reverb_depth"
 				}
 
 			}
@@ -227,16 +227,16 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 60 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[42]",
+							"parameter_longname" : "keynumber",
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "reverb",
+							"parameter_shortname" : "keynumber",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "reverb[3]"
+					"varname" : "keynumber"
 				}
 
 			}
@@ -292,18 +292,18 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[43]",
+							"parameter_longname" : "pan[2]",
 							"parameter_mmax" : 62.0,
 							"parameter_mmin" : -62.0,
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "reverb",
+							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "reverb[2]"
+					"varname" : "pan"
 				}
 
 			}
@@ -382,7 +382,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[44]",
+							"parameter_longname" : "reverb[23]",
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "reverb",
 							"parameter_type" : 0,
@@ -423,16 +423,16 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 100 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[40]",
+							"parameter_longname" : "level[2]",
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "reverb",
+							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
 
 					}
 ,
-					"varname" : "reverb"
+					"varname" : "level"
 				}
 
 			}

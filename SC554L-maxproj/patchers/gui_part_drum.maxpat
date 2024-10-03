@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 2,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -115,7 +115,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 830.0, 309.0, 397.0, 144.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 291.0, 2.0, 290.0, 143.762712359428406 ],
+					"presentation_rect" : [ 343.0, 6.0, 290.0, 143.762712359428406 ],
 					"viewvisibility" : 1
 				}
 
@@ -252,7 +252,7 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 362.0, 64.0, 397.0, 136.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1.0, 20.762712359428406, 275.0, 125.0 ],
+					"presentation_rect" : [ 1.0, 20.762712359428406, 335.0, 125.0 ],
 					"viewvisibility" : 1
 				}
 
@@ -372,14 +372,7 @@
 				}
 
 			}
- ],
-		"saved_attribute_attributes" : 		{
-			"default_plcolor" : 			{
-				"expression" : ""
-			}
-
-		}
-
+ ]
 	}
 
 }

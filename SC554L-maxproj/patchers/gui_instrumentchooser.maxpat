@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 4,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2594.0, 739.0, 1162.0, 1395.0 ],
+		"rect" : [ 1314.0, 87.0, 741.0, 1319.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -130,7 +130,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 236.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "1"
+					"text" : "107"
 				}
 
 			}
@@ -142,7 +142,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 196.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "-1"
+					"text" : "105"
 				}
 
 			}
@@ -181,7 +181,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 116.809042096138, 353.0, 35.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 144.796380996704102, 3.619909524917603, 35.0, 15.0 ],
+					"presentation_rect" : [ 142.988927289843559, 0.738007366657257, 35.0, 15.0 ],
 					"uparrow" : 0
 				}
 
@@ -240,6 +240,7 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.419607843137255, 1.0 ],
 					"id" : "obj-2",
 					"maxclass" : "live.menu",
 					"numinlets" : 1,
@@ -248,13 +249,18 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 258.809042096138, 353.0, 138.190957903862, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1.809954762458801, 3.619909524917603, 138.190957903862, 15.0 ],
+					"presentation_rect" : [ 0.0, 0.738007366657257, 138.190957903862, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_enum" : [ "001/0 Piano 1", "002/0 Piano 2", "003/0 Piano 3", "004/0 Honeky-tonk", "005/0 E. Piano 1", "005/8 Detuned EP 1", "006/0 E. Piano 2", "006/8 Detuned EP 2", "007/0 Harpsichord", "007/8 Coupled Hps.", "008/0 Clav.", "009/0 Celesta", "010/0 Glockenspiel", "011/0 Music Box", "012/0 Vibraphone", "013/0 Marimba", "014/0 Xylophone", "015/0 Tubular-bell", "015/8 Church Bell", "016/0 Santur", "017/0 Organ 1", "017/8 Detuned Or. 1", "018/0 Organ 2", "018/8 Detuned Or. 2", "019/0 Organ 3", "020/00 Church Org. 1", "020/08 Church Org. 2", "021/00 Reed Organ", "022/00 Accordian Fr", "022/08 Accordian It", "023/00 Harmonica", "024/00 Bandneon", "025/00 Nylon-str. Gt", "025/08 Ukulele", "026/00 Steel-str. Gt", "026/08 12-str. Gt.", "026/16 Mandolin", "027/00 Jazz Gt.", "027/08 Hawaiian Gt.", "028/00 Clean Gt.", "028/08 Chorus Gt", "029/00 Muted Gt.", "029/08 Funk Gt.", "030/00 Overdrive Gt", "031/00 DistortionGt", "031/08 Feedback Gt.", "032/00 Gt. Harmonics", "032/08 Gt. Feedback", "033/00 Acoustic Bs.", "034/00 Fingered Bs.", "035/00 Picked Bs.", "036/00 Fretless Bs.", "037/00 Slap Bs. 1", "038/00 Slap Bs. 2", "039/00 Synth Bass 1", "039/08 Synth Bass 3", "040/00 Synth Bass 2", "040/08 Synth Bass 4", "041/00 Violin", "042/00 Viola", "043/00 Cello", "044/00 Contrabass", "045/00 Tremolo Str", "046/00 PizzicatoStr", "047/00 Harp", "048/00 Timpani", "049/00 Strings", "049/08 Orchestra", "050/00 Slow Strings", "051/00 Syn. Strings1", "051/08 Syn. Strings3", "052/00 Syn. Strings2", "053/00 Choir Aahs", "054/00 Voice Oohs", "055/00 SynVox", "056/00 OrchestraHit", "057/00 Trumpet", "058/00 Trombone", "059/00 Tuba", "060/00 MutedTrumpet", "061/00 French Horn", "062/00 Brass 1", "062/08 Brass 2", "063/00 Synth Brass1", "063/08 Synth Brass3", "064/00 Synth Brass2", "064/08 Synth Brass4", "065/00 Soprano sax", "066/00 Alto sax", "067/00 Tenor sax", "068/00 Baritone sax", "069/00 Oboe", "070/0 English Horn", "071/0 Bassoon", "072/0 Clarinet", "073/0 Piccolo", "074/0 Flute", "075/0 Recorder", "076/0 Pan flute", "077/0 Bottle Blow", "078/0 Shakuhachi", "079/0 Whistle", "080/0 Ocarina", "081/0 Square Wave", "082/0 Saw Wave", "083/0 Syn. Calliope", "084/0 Chiffer Lead", "085/0 Charang", "086/0 Solo Vox", "087/0 5th Saw Wave", "088/0 Bass&Lead", "089/0 Fantasia", "090/0 Warm Pad", "091/0 Polysynth", "092/0 Space Voice", "093/0 Bowed Glass", "094/0 Metal Pad", "095/0 Halo Pad", "096/0 Sweep Pad", "097/0 Ice Rain", "098/0 Soundtrack", "099/0 Crystal", "100/00 Atmosphere", "101/00 Brightness", "102/00 Goblin", "103/00 Echo Drops", "104/00 Star Theme", "105/00 Sitar", "106/00 Banjo", "107/00 Shamisen", "108/00 Koto", "108/08 Taisho Koto", "109/00 Kalimba", "110/00 Bag Pipe", "111/00 Fiddle", "112/00 Shanai", "113/00 Tinke Bell", "114/00 Agogo", "115/00 Steel Drums", "116/00 Woodblock", "116/08 Castanets", "117/00 Taiko", "117/08 Concert BD", "118/00 Melo Tom 1", "118/08 Melo Tom 2", "119/00 Synth Drum", "119/08 080 Tom", "120/00 Reverse Cym.", "121/00 Gt. FretNoise", "121/01 Gt. Cut Noise", "121/02 String Slap", "122/00 Fl. Keyclick", "123/00 Seashore", "123/01 Rain", "123/02 Thunder", "123/03 Wind", "123/04 Stream", "123/05 Bubble", "124/00 Bird", "124/01 Dog", "124/02 Horse", "125/00 Telephone 1", "125/01 Telephone 2", "125/02 DoorCreaking", "125/03 Door", "125/04 Scratch", "125/05 Windchome", "126/00 Helicopter", "126/01 Car-engine", "126/02 Car-stop", "126/03 Car-pass", "126/04 Car-crash", "126/05 Siren", "126/06 Train", "126/07 Jetplane", "126/08 Starship", "126/09 Burst Noise", "127/00 Applause", "127/01 Laughing", "127/02 Screaming", "127/03 Punch", "127/04 Heart Beat", "127/05 Footstep", "128/00 Gun Shot", "128/01 Machinegun", "128/02 Lasergun", "128/03 Explosion" ],
-							"parameter_longname" : "instrument",
+							"parameter_longname" : "live.menu[1]",
 							"parameter_mmax" : 186,
 							"parameter_modmode" : 0,
+							"parameter_order" : 10,
 							"parameter_shortname" : "instrument",
 							"parameter_type" : 2
 						}
@@ -544,7 +550,14 @@
 				}
 
 			}
- ]
+ ],
+		"saved_attribute_attributes" : 		{
+			"default_plcolor" : 			{
+				"expression" : ""
+			}
+
+		}
+
 	}
 
 }

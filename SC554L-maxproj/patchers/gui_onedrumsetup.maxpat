@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2018.0, 1319.0 ],
+		"rect" : [ 2683.0, 726.0, 991.0, 373.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -74,12 +74,12 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 98.0, 271.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1.183431833982468, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 1.183431833982468, 0.394477277994156, 29.467082619667053, 15.04702091217041 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "learn", "learning" ],
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.text[7]",
+							"parameter_longname" : "live.text[12]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_shortname" : "live.text[5]",
@@ -89,7 +89,7 @@
 					}
 ,
 					"text" : "learn",
-					"texton" : "learning",
+					"texton" : "wait..",
 					"varname" : "learnnote"
 				}
 
@@ -160,6 +160,8 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
+					"activeslidercolor" : [ 0.317647058823529, 0.062745098039216, 0.062745098039216, 0.258823529411765 ],
 					"appearance" : 2,
 					"id" : "obj-46",
 					"maxclass" : "live.numbox",
@@ -169,12 +171,20 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 568.0, 301.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 231.360923543572426, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 158.518844932317734, 0.417987734079361, 29.467082619667053, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeslidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 100 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb_depth",
+							"parameter_longname" : "reverb[41]",
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "reverb_depth",
 							"parameter_type" : 0,
@@ -213,6 +223,8 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
+					"activeslidercolor" : [ 0.317647058823529, 0.062745098039216, 0.062745098039216, 0.258823529411765 ],
 					"appearance" : 3,
 					"id" : "obj-43",
 					"maxclass" : "live.numbox",
@@ -222,12 +234,20 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 445.0, 301.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 185.009843379259109, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 127.051762312650681, 0.417987734079361, 29.467082619667053, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeslidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 60 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "keynumber",
+							"parameter_longname" : "reverb[42]",
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "keynumber",
 							"parameter_type" : 0,
@@ -278,6 +298,8 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
+					"activeslidercolor" : [ 0.317647058823529, 0.062745098039216, 0.062745098039216, 0.258823529411765 ],
 					"appearance" : 3,
 					"id" : "obj-36",
 					"maxclass" : "live.numbox",
@@ -287,12 +309,20 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 360.0, 301.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 139.250479131937027, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 95.584679692983627, 0.417987734079361, 29.467082619667053, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeslidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "pan[2]",
+							"parameter_longname" : "reverb[43]",
 							"parameter_mmax" : 62.0,
 							"parameter_mmin" : -62.0,
 							"parameter_modmode" : 3,
@@ -369,6 +399,8 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
+					"activeslidercolor" : [ 0.317647058823529, 0.062745098039216, 0.062745098039216, 0.258823529411765 ],
 					"id" : "obj-2",
 					"maxclass" : "live.numbox",
 					"numinlets" : 1,
@@ -377,12 +409,20 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 98.0, 343.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 46.94279608130455, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 32.650514453649521, 0.417987734079361, 29.467082619667053, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeslidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[23]",
+							"parameter_longname" : "reverb[44]",
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "reverb",
 							"parameter_type" : 0,
@@ -409,6 +449,8 @@
 			}
 , 			{
 				"box" : 				{
+					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
+					"activeslidercolor" : [ 0.317647058823529, 0.062745098039216, 0.062745098039216, 0.258823529411765 ],
 					"appearance" : 2,
 					"id" : "obj-96",
 					"maxclass" : "live.numbox",
@@ -418,12 +460,20 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 265.0, 301.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 93.293876245617867, 0.394477277994156, 44.0, 15.0 ],
+					"presentation_rect" : [ 64.117597073316574, 0.417987734079361, 29.467082619667053, 15.0 ],
 					"saved_attribute_attributes" : 					{
+						"activebgcolor" : 						{
+							"expression" : ""
+						}
+,
+						"activeslidercolor" : 						{
+							"expression" : ""
+						}
+,
 						"valueof" : 						{
 							"parameter_initial" : [ 100 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "level[2]",
+							"parameter_longname" : "reverb[40]",
 							"parameter_modmode" : 3,
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
@@ -702,7 +752,14 @@
 				}
 
 			}
- ]
+ ],
+		"saved_attribute_attributes" : 		{
+			"default_plcolor" : 			{
+				"expression" : ""
+			}
+
+		}
+
 	}
 
 }

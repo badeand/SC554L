@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 6,
-			"revision" : 2,
+			"revision" : 4,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -75,7 +75,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 876.555070161819458, 186.124411731958389, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.467289716005325, 0.467289716005325, 44.0, 15.0 ],
+					"presentation_rect" : [ 5.423728466033936, 0.338983029127121, 50.508471339941025, 14.915253281593323 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "init", "init" ],

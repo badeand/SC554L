@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3810317492,
-	"viewrect" : [ 510.0, 609.0, 582.0, 628.0 ],
+	"modificationdate" : 3815666175,
+	"viewrect" : [ 384.0, 494.0, 814.0, 785.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -31,7 +31,22 @@
 				"local" : 1
 			}
 ,
+			"trafficcontrol.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"gui_drumsetchooser.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_drumsetup.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_onedrumsetup.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -42,11 +57,6 @@
 			}
 ,
 			"gui_part.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"trafficcontrol.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -86,12 +96,12 @@
 				"local" : 1
 			}
 ,
-			"gui_drumsetup.maxpat" : 			{
+			"skratch.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"gui_onedrumsetup.maxpat" : 			{
+			"vrouter.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

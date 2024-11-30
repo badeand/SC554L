@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3815746482,
-	"viewrect" : [ 384.0, 493.0, 814.0, 785.0 ],
+	"modificationdate" : 3815810239,
+	"viewrect" : [ 1460.0, 244.0, 814.0, 785.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"vrouter.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"all_mixer.maxpat" : 			{
@@ -27,6 +32,11 @@
 			}
 ,
 			"gui_all_parts.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"gui_master_fx.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -51,21 +61,6 @@
 				"local" : 1
 			}
 ,
-			"gui_master_fx.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"gui_reset.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"maindevice.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"gui_instrumentchooser.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -76,7 +71,7 @@
 				"local" : 1
 			}
 ,
-			"gui_part_drum.maxpat" : 			{
+			"gui_reset.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -86,7 +81,7 @@
 				"local" : 1
 			}
 ,
-			"gui_part_norm.maxpat" : 			{
+			"maindevice.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -111,12 +106,17 @@
 				"local" : 1
 			}
 ,
-			"skratch.maxpat" : 			{
+			"gui_part_drum.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
-			"vrouter.maxpat" : 			{
+			"gui_part_norm.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"skratch.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

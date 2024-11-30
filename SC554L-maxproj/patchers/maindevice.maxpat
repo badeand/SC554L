@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2492.0, 1319.0 ],
+		"rect" : [ 1314.0, 87.0, 1212.0, 1319.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -27,7 +27,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "live.button[1]",
+							"parameter_longname" : "live.button[2]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -95,7 +95,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
 					"id" : "obj-36",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -129,7 +128,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "norm", "drum", "master" ],
-							"parameter_longname" : "live.tab[3]",
+							"parameter_longname" : "live.tab[4]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -230,6 +229,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-12",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -254,6 +254,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-6",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -754,7 +755,7 @@
 
 							}
  ],
-						"originid" : "pat-1042"
+						"originid" : "pat-1272"
 					}
 ,
 					"patching_rect" : [ 473.0, 851.0, 67.0, 22.0 ],
@@ -995,7 +996,7 @@
 
 							}
  ],
-						"originid" : "pat-1044"
+						"originid" : "pat-1274"
 					}
 ,
 					"patching_rect" : [ 1515.0, 872.0, 55.0, 22.0 ],
@@ -1168,7 +1169,7 @@
 
 							}
  ],
-						"originid" : "pat-1046"
+						"originid" : "pat-1276"
 					}
 ,
 					"patching_rect" : [ 369.0, 851.0, 46.0, 22.0 ],
@@ -1264,6 +1265,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-11",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1288,7 +1290,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
 					"id" : "obj-15",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1356,7 +1357,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
+					"outlettype" : [ "" ],
 					"patching_rect" : [ 28.0, 21.0, 30.0, 30.0 ]
 				}
 
@@ -1907,7 +1908,7 @@
 
 			}
  ],
-		"originid" : "pat-934"
+		"originid" : "pat-1164"
 	}
 
 }

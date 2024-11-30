@@ -2,55 +2,18 @@
 	"patcher" : 	{
 		"fileversion" : 1,
 		"appversion" : 		{
-			"major" : 8,
-			"minor" : 6,
-			"revision" : 4,
+			"major" : 9,
+			"minor" : 0,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
 		"rect" : [ 1314.0, 87.0, 1212.0, 1319.0 ],
-		"bglocked" : 0,
 		"openinpresentation" : 1,
-		"default_fontsize" : 12.0,
-		"default_fontface" : 0,
-		"default_fontname" : "Arial",
-		"gridonopen" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
-		"gridsnaponopen" : 1,
-		"objectsnaponopen" : 1,
-		"statusbarvisible" : 2,
-		"toolbarvisible" : 1,
-		"lefttoolbarpinned" : 0,
-		"toptoolbarpinned" : 0,
-		"righttoolbarpinned" : 0,
-		"bottomtoolbarpinned" : 0,
-		"toolbars_unpinned_last_save" : 0,
-		"tallnewobj" : 0,
-		"boxanimatetime" : 200,
-		"enablehscroll" : 1,
-		"enablevscroll" : 1,
-		"devicewidth" : 0.0,
-		"description" : "",
-		"digest" : "",
-		"tags" : "",
-		"style" : "",
-		"subpatcher_template" : "",
-		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
-				"box" : 				{
-					"id" : "obj-20",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 538.13951563835144, 598.139513492584229, 50.0, 22.0 ],
-					"text" : "1"
-				}
-
-			}
-, 			{
 				"box" : 				{
 					"id" : "obj-6",
 					"maxclass" : "newobj",
@@ -69,8 +32,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 83.0, 22.0 ],
-					"text" : "vrouter level x"
+					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 136.0, 22.0 ],
+					"text" : "vrouter level @master 1"
 				}
 
 			}
@@ -108,6 +71,7 @@
 						"valueof" : 						{
 							"parameter_longname" : "level[5]",
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -235,6 +199,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "portamentotime[2]",
 							"parameter_modmode" : 4,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentotime",
 							"parameter_type" : 1,
 							"parameter_unitstyle" : 0
@@ -284,6 +249,7 @@
 							"parameter_longname" : "portamentostate[2]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -492,6 +458,7 @@
 							"parameter_longname" : "live.text[38]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -973,6 +940,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "release",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1065,6 +1033,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "decay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1132,6 +1101,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "attack",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1224,6 +1194,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "resonance",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1291,6 +1262,7 @@
 							"parameter_mmax" : 16.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "cutoff",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1359,6 +1331,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "delay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1452,6 +1425,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1519,6 +1493,7 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "rate",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1587,6 +1562,7 @@
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1689,6 +1665,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "chorus[2]",
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "chorus",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1754,6 +1731,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb[173]",
 							"parameter_modmode" : 3,
+							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2444,16 +2422,7 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-20", 1 ],
-					"order" : 0,
-					"source" : [ "obj-6", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-5", 1 ],
-					"order" : 1,
 					"source" : [ "obj-6", 0 ]
 				}
 
@@ -2547,13 +2516,7 @@
 
 			}
  ],
-		"saved_attribute_attributes" : 		{
-			"default_plcolor" : 			{
-				"expression" : ""
-			}
-
-		}
-
+		"originid" : "pat-2142"
 	}
 
 }

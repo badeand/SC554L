@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1314.0, 87.0, 1212.0, 1319.0 ],
+		"rect" : [ 34.0, 87.0, 1212.0, 1319.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -20,7 +20,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 450.956524968147278, 506.521743357181549, 127.0, 22.0 ],
+					"patching_rect" : [ 441.956524968147278, 508.0, 127.0, 22.0 ],
 					"text" : "r #0_midi_channel"
 				}
 
@@ -32,8 +32,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 136.0, 22.0 ],
-					"text" : "vrouter level @master 1"
+					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 74.0, 22.0 ],
+					"text" : "vrouter level"
 				}
 
 			}
@@ -246,7 +246,7 @@
 ,
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "portamentostate[2]",
+							"parameter_longname" : "portamentostate[1]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -455,7 +455,7 @@
 							"parameter_enum" : [ "poly", "mono" ],
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "live.text[38]",
+							"parameter_longname" : "live.text",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -1258,7 +1258,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "live.numbox[137]",
+							"parameter_longname" : "live.numbox[16]",
 							"parameter_mmax" : 16.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1729,7 +1729,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 40 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[173]",
+							"parameter_longname" : "reverb[56]",
 							"parameter_modmode" : 3,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb",
@@ -2380,7 +2380,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
-					"source" : [ "obj-5", 0 ]
+					"source" : [ "obj-5", 1 ]
 				}
 
 			}
@@ -2516,7 +2516,7 @@
 
 			}
  ],
-		"originid" : "pat-2142"
+		"originid" : "pat-1328"
 	}
 
 }

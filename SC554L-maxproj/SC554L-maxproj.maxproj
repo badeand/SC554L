@@ -2,7 +2,7 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3815810239,
+	"modificationdate" : 3816094616,
 	"viewrect" : [ 1460.0, 244.0, 814.0, 785.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,7 +16,7 @@
 				"toplevel" : 1
 			}
 ,
-			"vrouter.maxpat" : 			{
+			"superrouter.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}

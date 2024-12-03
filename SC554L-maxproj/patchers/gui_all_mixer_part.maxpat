@@ -32,8 +32,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 808.256813287734985, 323.103482007980347, 74.0, 22.0 ],
-					"text" : "vrouter level"
+					"patching_rect" : [ 808.256813287734985, 323.103482007980347, 98.0, 22.0 ],
+					"text" : "superrouter level"
 				}
 
 			}
@@ -113,7 +113,7 @@
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.numbox[3]",
+							"parameter_longname" : "live.numbox[81]",
 							"parameter_modmode" : 3,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_level",
@@ -203,7 +203,7 @@
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 2,
-							"parameter_longname" : "live.numbox[4]",
+							"parameter_longname" : "live.numbox[82]",
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
@@ -304,7 +304,7 @@
 					"patching_rect" : [ 370.902449011802673, 584.146355390548706, 36.0, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.633852884173393, -1.769911497831345, 23.88451299071312, 21.0 ],
-					"text" : "1",
+					"text" : "3",
 					"textjustification" : 1
 				}
 
@@ -405,7 +405,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-21", 0 ],
-					"midpoints" : [ 872.756813287734985, 354.0, 775.842100335750729, 354.0, 775.842100335750729, 264.0, 757.299597501754761, 264.0 ],
+					"midpoints" : [ 896.756813287734985, 354.0, 775.842100335750729, 354.0, 775.842100335750729, 264.0, 757.299597501754761, 264.0 ],
 					"source" : [ "obj-14", 1 ]
 				}
 
@@ -546,7 +546,7 @@
 
 			}
  ],
-		"originid" : "pat-1464"
+		"originid" : "pat-6258"
 	}
 
 }

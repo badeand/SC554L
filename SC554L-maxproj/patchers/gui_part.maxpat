@@ -32,8 +32,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 74.0, 22.0 ],
-					"text" : "vrouter level"
+					"patching_rect" : [ 386.956524968147278, 539.130439281463623, 98.0, 22.0 ],
+					"text" : "superrouter level"
 				}
 
 			}
@@ -69,7 +69,7 @@
 						}
 ,
 						"valueof" : 						{
-							"parameter_longname" : "level[5]",
+							"parameter_longname" : "level[7]",
 							"parameter_modmode" : 3,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
@@ -197,7 +197,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 60 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "portamentotime[2]",
+							"parameter_longname" : "portamentotime[4]",
 							"parameter_modmode" : 4,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentotime",
@@ -246,7 +246,7 @@
 ,
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "portamentostate[1]",
+							"parameter_longname" : "portamentostate[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -455,7 +455,7 @@
 							"parameter_enum" : [ "poly", "mono" ],
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "live.text",
+							"parameter_longname" : "live.text[38]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -865,7 +865,7 @@
 					"patching_rect" : [ 558.500005841255188, 164.0, 62.0, 21.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 113.084111273288727, 128.037382185459137, 23.0, 21.0 ],
-					"text" : "1"
+					"text" : "m"
 				}
 
 			}
@@ -936,7 +936,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "release[2]",
+							"parameter_longname" : "release[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1029,7 +1029,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "decay[2]",
+							"parameter_longname" : "decay[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1097,7 +1097,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "attack[2]",
+							"parameter_longname" : "attack[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1190,7 +1190,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "resonance[2]",
+							"parameter_longname" : "resonance[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1258,7 +1258,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "live.numbox[16]",
+							"parameter_longname" : "live.numbox[142]",
 							"parameter_mmax" : 16.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1327,7 +1327,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "delay[2]",
+							"parameter_longname" : "delay[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1421,7 +1421,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "depth[2]",
+							"parameter_longname" : "depth[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1489,7 +1489,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "rate[2]",
+							"parameter_longname" : "rate[4]",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
@@ -1558,7 +1558,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "pan[5]",
+							"parameter_longname" : "pan[8]",
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
@@ -1663,7 +1663,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "chorus[2]",
+							"parameter_longname" : "chorus[4]",
 							"parameter_modmode" : 3,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "chorus",
@@ -1729,7 +1729,7 @@
 						"valueof" : 						{
 							"parameter_initial" : [ 40 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[56]",
+							"parameter_longname" : "reverb[173]",
 							"parameter_modmode" : 3,
 							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb",
@@ -2516,7 +2516,7 @@
 
 			}
  ],
-		"originid" : "pat-1328"
+		"originid" : "pat-8450"
 	}
 
 }

@@ -2,11 +2,11 @@
 	"filetype" : "C74Snapshot",
 	"version" : 2,
 	"minorversion" : 0,
-	"name" : "main",
+	"name" : "main[1]",
 	"origin" : "main",
 	"type" : "patcher",
 	"subtype" : "Undefined",
-	"embed" : 1,
+	"embed" : 0,
 	"snapshot" : 	{
 		"valuedictionary" : 		{
 			"parameter_values" : 			{
@@ -224,8 +224,8 @@
 				"update" : 0.0,
 				"update[1]" : 0.0,
 				"update[2]" : 0.0,
-				"live.menu[1]" : 0.0,
-				"live.menu[2]" : 34.0,
+				"live.menu[1]" : 1.0,
+				"live.menu[2]" : 2.0,
 				"live.menu[3]" : 0.0
 			}
 

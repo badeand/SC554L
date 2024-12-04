@@ -1,4 +1,4 @@
-outlets = 2
+outlets = 1
 function anything()
 {
 	var a = ""+ arrayfromargs(messagename, arguments);
@@ -10,6 +10,6 @@ function anything()
 	var program = parseInt(firstpart.split("/")[0],10)
     // post("program: " + program + "\n")
 	var variation = parseInt(firstpart.split("/")[1],10)
-	outlet(1,variation);
-    outlet(0,program);
+	outlet(0,program + "_" + variation);
+
 }

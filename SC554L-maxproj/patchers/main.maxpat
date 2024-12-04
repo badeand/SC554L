@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2604.0, 434.0, 1268.0, 1319.0 ],
+		"rect" : [ 2604.0, 1463.0, 1324.0, 545.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -1182,7 +1182,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-1", 0 ],
 					"midpoints" : [ 29.5, 195.0, 840.5, 195.0 ],
-					"order" : 0,
+					"order" : 1,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -1191,7 +1191,7 @@
 				"patchline" : 				{
 					"destination" : [ "obj-8", 0 ],
 					"midpoints" : [ 29.5, 195.0, 113.5, 195.0 ],
-					"order" : 1,
+					"order" : 0,
 					"source" : [ "obj-5", 0 ]
 				}
 
@@ -1332,7 +1332,7 @@
 
 			}
  ],
-		"originid" : "pat-1380",
+		"originid" : "pat-3412",
 		"parameters" : 		{
 			"obj-12::obj-10::obj-110::obj-2" : [ "reverb[139]", "reverb", 0 ],
 			"obj-12::obj-10::obj-110::obj-36" : [ "reverb[138]", "pan", 0 ],
@@ -3115,7 +3115,7 @@
 						"chooser_fx_mixer[1]" : 1.0,
 						"chooser_fx_mixer[2]" : 1.0,
 						"chorus[2]" : 0.0,
-						"chorus[3]" : 0.0,
+						"chorus[3]" : 41.0,
 						"chorus[4]" : 0.0,
 						"decay[2]" : 0.0,
 						"decay[3]" : 0.0,
@@ -3123,8 +3123,8 @@
 						"delay[2]" : 0.0,
 						"delay[3]" : 0.0,
 						"delay[4]" : 0.0,
-						"depth[2]" : 0.0,
-						"depth[3]" : 0.0,
+						"depth[2]" : 32.0,
+						"depth[3]" : -50.0,
 						"depth[4]" : 0.0,
 						"drumset" : 0.0,
 						"drumset[1]" : 0.0,
@@ -3166,8 +3166,8 @@
 						"portamentotime[2]" : 60.0,
 						"portamentotime[3]" : 60.0,
 						"portamentotime[4]" : 60.0,
-						"rate[2]" : 0.0,
-						"rate[3]" : 0.0,
+						"rate[2]" : 24.0,
+						"rate[3]" : -32.0,
 						"rate[4]" : 0.0,
 						"release[2]" : 0.0,
 						"release[3]" : 0.0,
@@ -3299,7 +3299,7 @@
 						"reverb[95]" : 0.0,
 						"reverb[96]" : 100.0,
 						"reverb[97]" : 60.0,
-						"reverb[98]" : 40.0,
+						"reverb[98]" : 101.0,
 						"reverb[99]" : 60.0,
 						"reverb_character[1]" : 0.0,
 						"reverb_character[2]" : 0.0,
@@ -3322,8 +3322,8 @@
 						"update" : 0.0,
 						"update[1]" : 0.0,
 						"update[2]" : 0.0,
-						"live.menu[1]" : 0.0,
-						"live.menu[2]" : 34.0,
+						"live.menu[1]" : 1.0,
+						"live.menu[2]" : 2.0,
 						"live.menu[3]" : 0.0
 					}
 
@@ -3332,7 +3332,7 @@
 			}
 ,
 			"snapshotlist" : 			{
-				"current_snapshot" : 0,
+				"current_snapshot" : 1,
 				"entries" : [ 					{
 						"filetype" : "C74Snapshot",
 						"version" : 2,
@@ -3360,7 +3360,7 @@
 									"delay[2]" : 0.0,
 									"delay[3]" : 0.0,
 									"delay[4]" : 0.0,
-									"depth[2]" : 0.0,
+									"depth[2]" : -23.0,
 									"depth[3]" : 0.0,
 									"depth[4]" : 0.0,
 									"drumset" : 0.0,
@@ -3585,7 +3585,7 @@
 						"origin" : "main",
 						"type" : "patcher",
 						"subtype" : "Undefined",
-						"embed" : 0,
+						"embed" : 1,
 						"snapshot" : 						{
 							"valuedictionary" : 							{
 								"parameter_values" : 								{
@@ -3596,7 +3596,7 @@
 									"chooser_fx_mixer[1]" : 1.0,
 									"chooser_fx_mixer[2]" : 1.0,
 									"chorus[2]" : 0.0,
-									"chorus[3]" : 0.0,
+									"chorus[3]" : 41.0,
 									"chorus[4]" : 0.0,
 									"decay[2]" : 0.0,
 									"decay[3]" : 0.0,
@@ -3604,8 +3604,8 @@
 									"delay[2]" : 0.0,
 									"delay[3]" : 0.0,
 									"delay[4]" : 0.0,
-									"depth[2]" : 0.0,
-									"depth[3]" : 0.0,
+									"depth[2]" : 32.0,
+									"depth[3]" : -50.0,
 									"depth[4]" : 0.0,
 									"drumset" : 0.0,
 									"drumset[1]" : 0.0,
@@ -3647,8 +3647,8 @@
 									"portamentotime[2]" : 60.0,
 									"portamentotime[3]" : 60.0,
 									"portamentotime[4]" : 60.0,
-									"rate[2]" : 0.0,
-									"rate[3]" : 0.0,
+									"rate[2]" : 24.0,
+									"rate[3]" : -32.0,
 									"rate[4]" : 0.0,
 									"release[2]" : 0.0,
 									"release[3]" : 0.0,
@@ -3780,7 +3780,7 @@
 									"reverb[95]" : 0.0,
 									"reverb[96]" : 100.0,
 									"reverb[97]" : 60.0,
-									"reverb[98]" : 40.0,
+									"reverb[98]" : 101.0,
 									"reverb[99]" : 60.0,
 									"reverb_character[1]" : 0.0,
 									"reverb_character[2]" : 0.0,

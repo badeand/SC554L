@@ -2,7 +2,7 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3816094616,
+	"modificationdate" : 3816782571,
 	"viewrect" : [ 1460.0, 244.0, 814.0, 785.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -16,11 +16,6 @@
 				"toplevel" : 1
 			}
 ,
-			"superrouter.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"all_mixer.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -31,17 +26,22 @@
 				"local" : 1
 			}
 ,
+			"superrouter.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"trafficcontrol.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"gui_all_parts.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
 ,
 			"gui_master_fx.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"trafficcontrol.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -130,6 +130,11 @@
 			}
 ,
 			"instruments.js" : 			{
+				"kind" : "javascript",
+				"local" : 1
+			}
+,
+			"superrouter.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
 			}

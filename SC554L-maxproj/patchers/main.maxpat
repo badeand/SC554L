@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2492.0, 1319.0 ],
+		"rect" : [ 2594.0, 1124.0, 1553.0, 701.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -290,17 +290,6 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 661.0, 33.0, 627.0, 176.0 ],
 					"viewvisibility" : 1
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-81",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 296.0, 40.0, 77.0, 22.0 ],
-					"text" : "s #0_midiout"
 				}
 
 			}
@@ -1710,7 +1699,8 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-81", 0 ],
+					"destination" : [ "obj-8", 0 ],
+					"midpoints" : [ 305.5, 143.33203125, 42.5, 143.33203125 ],
 					"source" : [ "obj-9", 0 ]
 				}
 
@@ -2182,6 +2172,30 @@
 			}
 ,
 			"parameter_overrides" : 			{
+				"obj-14::obj-10::obj-110::obj-2" : 				{
+					"parameter_longname" : "reverb[44]"
+				}
+,
+				"obj-14::obj-10::obj-110::obj-36" : 				{
+					"parameter_longname" : "reverb[43]"
+				}
+,
+				"obj-14::obj-10::obj-110::obj-43" : 				{
+					"parameter_longname" : "reverb[42]"
+				}
+,
+				"obj-14::obj-10::obj-110::obj-46" : 				{
+					"parameter_longname" : "reverb[41]"
+				}
+,
+				"obj-14::obj-10::obj-110::obj-85" : 				{
+					"parameter_longname" : "live.text[12]"
+				}
+,
+				"obj-14::obj-10::obj-110::obj-96" : 				{
+					"parameter_longname" : "reverb[40]"
+				}
+,
 				"obj-14::obj-10::obj-111::obj-2" : 				{
 					"parameter_longname" : "reverb[103]"
 				}
@@ -2564,6 +2578,14 @@
 ,
 				"obj-14::obj-36::obj-7" : 				{
 					"parameter_longname" : "live.text[32]"
+				}
+,
+				"obj-14::obj-5" : 				{
+					"parameter_longname" : "live.tab[1]"
+				}
+,
+				"obj-14::obj-60" : 				{
+					"parameter_longname" : "live.button[5]"
 				}
 ,
 				"obj-14::obj-6::obj-2" : 				{
@@ -3997,6 +4019,13 @@
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "parsedrumsetup.js",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
+				"patcherrelativepath" : "../code",
+				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{

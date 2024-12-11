@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1314.0, 87.0, 1212.0, 1319.0 ],
+		"rect" : [ 238.0, 444.0, 2492.0, 1319.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -20,7 +20,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 234.0, 862.0, 65.0, 22.0 ],
+					"patching_rect" : [ 234.0, 862.0, 72.0, 22.0 ],
 					"text" : "r #0_in2"
 				}
 
@@ -31,7 +31,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 425.0, 70.0, 67.0, 22.0 ],
+					"patching_rect" : [ 425.0, 70.0, 74.0, 22.0 ],
 					"text" : "s #0_in2"
 				}
 
@@ -50,7 +50,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
-							"parameter_longname" : "live.button[5]",
+							"parameter_longname" : "live.button",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -70,7 +70,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 318.0, 147.0, 122.0, 22.0 ],
+					"patching_rect" : [ 318.0, 147.0, 129.0, 22.0 ],
 					"text" : "s #0_midi_channel"
 				}
 
@@ -152,7 +152,7 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "norm", "drum", "master" ],
-							"parameter_longname" : "live.tab[1]",
+							"parameter_longname" : "live.tab[18]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -415,7 +415,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1082.0, 411.0, 357.0, 167.0 ],
+					"patching_rect" : [ 1082.0, 415.0, 357.0, 167.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 266.0, 17.0, 350.773808896541595, 167.028986901044846 ],
 					"varname" : "gui_drumsetup",
@@ -776,7 +776,7 @@
 
 							}
  ],
-						"originid" : "pat-9752"
+						"originid" : "pat-18422"
 					}
 ,
 					"patching_rect" : [ 473.0, 851.0, 67.0, 22.0 ],
@@ -1017,7 +1017,7 @@
 
 							}
  ],
-						"originid" : "pat-9754"
+						"originid" : "pat-18424"
 					}
 ,
 					"patching_rect" : [ 1515.0, 872.0, 55.0, 22.0 ],
@@ -1190,7 +1190,7 @@
 
 							}
  ],
-						"originid" : "pat-9756"
+						"originid" : "pat-18426"
 					}
 ,
 					"patching_rect" : [ 369.0, 851.0, 46.0, 22.0 ],
@@ -1878,7 +1878,7 @@
 
 			}
  ],
-		"originid" : "pat-9640"
+		"originid" : "pat-18310"
 	}
 
 }

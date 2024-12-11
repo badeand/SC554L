@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2214.0, 1319.0 ],
+		"rect" : [ 34.0, 87.0, 1212.0, 1319.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -32,7 +32,9 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 218.0, 71.0, 50.0, 22.0 ]
+					"patching_rect" : [ 218.0, 71.0, 50.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 692.0, 380.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -70,6 +72,8 @@
 					"outlettype" : [ "" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 11.0, 35.0, 15.0, 15.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 692.0, 412.5, 15.0, 15.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -870,6 +874,8 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"patching_rect" : [ 32.0, -8.0, 40.0, 20.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 640.0, 380.0, 40.0, 20.0 ],
 					"text" : "midiin"
 				}
 
@@ -896,7 +902,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 392.0, 52.0, 47.0, 22.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 641.0, 387.558839678764343, 47.0, 22.0 ],
+					"presentation_rect" : [ 640.0, 409.0, 47.0, 22.0 ],
 					"text" : "midiout"
 				}
 
@@ -1326,7 +1332,7 @@
 
 			}
  ],
-		"originid" : "pat-7982",
+		"originid" : "pat-12404",
 		"parameters" : 		{
 			"obj-62" : [ "live.button[4]", "live.button[4]", 0 ],
 			"obj-67" : [ "live.button[3]", "live.button[3]", 0 ],

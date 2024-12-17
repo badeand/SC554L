@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 2,
+			"revision" : 3,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -14,6 +14,18 @@
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-80",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 930.0, 727.0, 206.0, 22.0 ],
+					"text" : "240 65 16 66 18 64 0 4 85 103 247"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-70",
 					"maxclass" : "live.button",
@@ -1668,7 +1680,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-70", 0 ],
-					"order" : 0,
+					"order" : 1,
 					"source" : [ "obj-79", 0 ]
 				}
 
@@ -1676,7 +1688,15 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-71", 0 ],
-					"order" : 1,
+					"order" : 2,
+					"source" : [ "obj-79", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-80", 1 ],
+					"order" : 0,
 					"source" : [ "obj-79", 0 ]
 				}
 
@@ -1706,7 +1726,7 @@
 
 			}
  ],
-		"originid" : "pat-16652",
+		"originid" : "pat-1528",
 		"parameters" : 		{
 			"obj-1" : [ "live.button[7]", "live.button[4]", 0 ],
 			"obj-14::obj-10::obj-110::obj-2" : [ "reverb[44]", "reverb", 0 ],
@@ -2424,6 +2444,10 @@
 					"parameter_longname" : "reverb[98]"
 				}
 ,
+				"obj-14::obj-15::obj-134" : 				{
+					"parameter_longname" : "pan[1]"
+				}
+,
 				"obj-14::obj-15::obj-20" : 				{
 					"parameter_longname" : "chooser_fx_mixer[1]"
 				}
@@ -2552,6 +2576,10 @@
 					"parameter_longname" : "live.numbox[79]"
 				}
 ,
+				"obj-14::obj-15::obj-52" : 				{
+					"parameter_longname" : "level[1]"
+				}
+,
 				"obj-14::obj-15::obj-8::obj-11" : 				{
 					"parameter_longname" : "reverb_time[2]"
 				}
@@ -2570,6 +2598,10 @@
 ,
 				"obj-14::obj-15::obj-8::obj-5" : 				{
 					"parameter_longname" : "reverb_feedback[2]"
+				}
+,
+				"obj-14::obj-15::obj-96" : 				{
+					"parameter_longname" : "reverb[78]"
 				}
 ,
 				"obj-14::obj-36::obj-39" : 				{
@@ -3748,6 +3780,14 @@
 					"parameter_longname" : "pan[4]"
 				}
 ,
+				"obj-8::obj-15::obj-20" : 				{
+					"parameter_longname" : "chooser_fx_mixer"
+				}
+,
+				"obj-8::obj-15::obj-26" : 				{
+					"parameter_longname" : "speedlimit"
+				}
+,
 				"obj-8::obj-15::obj-41::obj-10::obj-37" : 				{
 					"parameter_longname" : "live.numbox[62]"
 				}
@@ -3882,6 +3922,14 @@
 ,
 				"obj-8::obj-15::obj-96" : 				{
 					"parameter_longname" : "reverb[55]"
+				}
+,
+				"obj-8::obj-36::obj-39" : 				{
+					"parameter_longname" : "update"
+				}
+,
+				"obj-8::obj-36::obj-7" : 				{
+					"parameter_longname" : "live.text[1]"
 				}
 ,
 				"obj-8::obj-5" : 				{

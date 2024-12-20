@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 2594.0, 1124.0, 1553.0, 701.0 ],
+		"rect" : [ 2594.0, 1124.0, 1275.0, 701.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -21,7 +21,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 930.0, 727.0, 206.0, 22.0 ],
-					"text" : "240 65 16 66 18 64 0 4 85 103 247"
+					"text" : "240 65 16 66 18 65 5 48 0 10 247"
 				}
 
 			}
@@ -1726,7 +1726,7 @@
 
 			}
  ],
-		"originid" : "pat-1528",
+		"originid" : "pat-17220",
 		"parameters" : 		{
 			"obj-1" : [ "live.button[7]", "live.button[4]", 0 ],
 			"obj-14::obj-10::obj-110::obj-2" : [ "reverb[44]", "reverb", 0 ],
@@ -4067,6 +4067,13 @@
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "parseInstrument.js",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/code",
+				"patcherrelativepath" : "../code",
+				"type" : "TEXT",
 				"implicit" : 1
 			}
 , 			{

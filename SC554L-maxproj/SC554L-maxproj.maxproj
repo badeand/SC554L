@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3816782571,
-	"viewrect" : [ 1460.0, 244.0, 814.0, 785.0 ],
+	"modificationdate" : 3817542207,
+	"viewrect" : [ 2804.0, 168.0, 814.0, 785.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -124,6 +124,11 @@
 		}
 ,
 		"code" : 		{
+			"superrouter.js" : 			{
+				"kind" : "javascript",
+				"local" : 1
+			}
+,
 			"splitinstrumentchoice.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
@@ -134,7 +139,7 @@
 				"local" : 1
 			}
 ,
-			"superrouter.js" : 			{
+			"praseInstrument.js" : 			{
 				"kind" : "javascript",
 				"local" : 1
 			}

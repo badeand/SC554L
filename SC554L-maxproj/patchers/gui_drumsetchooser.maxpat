@@ -20,7 +20,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 428.0, 451.0, 120.0, 22.0 ],
+					"patching_rect" : [ 412.0, 420.0, 120.0, 22.0 ],
 					"text" : "r  #0_midi_channel"
 				}
 
@@ -32,20 +32,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 318.0, 494.0, 129.0, 22.0 ],
-					"text" : "superrouter instrument"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 258.809042096138, 280.0, 83.0, 22.0 ],
-					"text" : "r #all_controls"
+					"patching_rect" : [ 318.0, 473.0, 113.0, 22.0 ],
+					"text" : "superrouter drumkit"
 				}
 
 			}
@@ -81,7 +69,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 236.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "8"
+					"text" : "2"
 				}
 
 			}
@@ -93,7 +81,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 196.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "6"
+					"text" : "0"
 				}
 
 			}
@@ -144,7 +132,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 318.404521048069, 404.0, 145.0, 22.0 ],
+					"patching_rect" : [ 318.404521048069, 392.0, 145.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"filename" : "splitinstrumentchoice.js",
 						"parameter_enable" : 0
@@ -170,7 +158,7 @@
 							"parameter_enum" : [ "001 Standard", "009 Room", "017 Power", "025 Electronic", "026 TR-808", "033 Jazz", "041 Brush", "049 Orchestra", "057 SFX", "128 CM-64/32L" ],
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "drumset[2]",
+							"parameter_longname" : "drumset[1]",
 							"parameter_mmax" : 9,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -280,13 +268,6 @@
 			}
  ],
 		"lines" : [ 			{
-				"patchline" : 				{
-					"destination" : [ "obj-2", 0 ],
-					"source" : [ "obj-10", 0 ]
-				}
-
-			}
-, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-23", 0 ],
 					"source" : [ "obj-101", 0 ]
@@ -418,7 +399,7 @@
 
 			}
  ],
-		"originid" : "pat-2026"
+		"originid" : "pat-3296"
 	}
 
 }

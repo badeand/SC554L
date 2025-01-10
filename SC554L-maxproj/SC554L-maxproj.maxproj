@@ -2,8 +2,8 @@
 	"name" : "SC554L-maxproj",
 	"version" : 1,
 	"creationdate" : 3808374850,
-	"modificationdate" : 3818749354,
-	"viewrect" : [ 2804.0, 168.0, 814.0, 785.0 ],
+	"modificationdate" : 3819366038,
+	"viewrect" : [ 2854.0, 770.0, 1019.0, 1133.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -71,6 +71,11 @@
 				"local" : 1
 			}
 ,
+			"gui_part_fx.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"gui_reset.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -91,11 +96,6 @@
 				"local" : 1
 			}
 ,
-			"scratch.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"sx_onebyte.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -111,6 +111,11 @@
 				"local" : 1
 			}
 ,
+			"scratch.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"gui_part_drum.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -120,6 +125,10 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+
+		}
+,
+		"media" : 		{
 
 		}
 ,

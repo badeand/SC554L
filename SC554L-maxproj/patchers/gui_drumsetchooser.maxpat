@@ -20,7 +20,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 412.0, 420.0, 120.0, 22.0 ],
+					"patching_rect" : [ 412.0, 431.0, 127.0, 22.0 ],
 					"text" : "r  #0_midi_channel"
 				}
 
@@ -69,7 +69,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 236.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "2"
+					"text" : "7"
 				}
 
 			}
@@ -81,7 +81,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 196.809042096138, 473.0, 29.5, 22.0 ],
-					"text" : "0"
+					"text" : "5"
 				}
 
 			}
@@ -150,7 +150,7 @@
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "float" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 258.809042096138, 353.0, 138.190957903862, 15.0 ],
+					"patching_rect" : [ 206.809042096138, 349.0, 138.190957903862, 15.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 1.809954762458801, 3.619909524917603, 138.190957903862, 15.0 ],
 					"saved_attribute_attributes" : 					{
@@ -158,7 +158,7 @@
 							"parameter_enum" : [ "001 Standard", "009 Room", "017 Power", "025 Electronic", "026 TR-808", "033 Jazz", "041 Brush", "049 Orchestra", "057 SFX", "128 CM-64/32L" ],
 							"parameter_initial" : [ 0.0 ],
 							"parameter_initial_enable" : 1,
-							"parameter_longname" : "drumset[1]",
+							"parameter_longname" : "drumset[2]",
 							"parameter_mmax" : 9,
 							"parameter_modmode" : 0,
 							"parameter_osc_name" : "<default>",
@@ -179,7 +179,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 367.0, 89.0, 85.0, 22.0 ],
+					"patching_rect" : [ 367.0, 89.0, 86.0, 22.0 ],
 					"text" : "r #0_out_1"
 				}
 
@@ -237,7 +237,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 80.000002384185791, 163.333333432674408, 106.0, 22.0 ],
+					"patching_rect" : [ 80.000002384185791, 163.333333432674408, 107.0, 22.0 ],
 					"text" : "s #0_midi_port"
 				}
 
@@ -261,7 +261,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 196.000005841255188, 160.0, 128.0, 22.0 ],
+					"patching_rect" : [ 196.000005841255188, 160.0, 129.0, 22.0 ],
 					"text" : "s #0_midi_channel"
 				}
 
@@ -370,7 +370,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-2", 0 ],
-					"midpoints" : [ 126.309042096138, 561.421785056591034, 74.45051771402359, 561.421785056591034, 74.45051771402359, 326.611205786466599, 241.939511001110077, 326.611205786466599, 241.939511001110077, 326.50107815861702, 268.309042096138, 326.50107815861702 ],
+					"midpoints" : [ 126.309042096138, 552.0, 102.0, 552.0, 102.0, 336.0, 216.309042096138, 336.0 ],
 					"source" : [ "obj-24", 0 ]
 				}
 
@@ -399,7 +399,7 @@
 
 			}
  ],
-		"originid" : "pat-3296"
+		"originid" : "pat-23112"
 	}
 
 }

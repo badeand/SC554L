@@ -2,18 +2,54 @@
 	"patcher" : 	{
 		"fileversion" : 1,
 		"appversion" : 		{
-			"major" : 9,
-			"minor" : 0,
-			"revision" : 3,
+			"major" : 8,
+			"minor" : 6,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2492.0, 1319.0 ],
+		"rect" : [ 1314.0, 87.0, 1212.0, 1319.0 ],
+		"bglocked" : 0,
 		"openinpresentation" : 1,
+		"default_fontsize" : 12.0,
+		"default_fontface" : 0,
+		"default_fontname" : "Arial",
+		"gridonopen" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
+		"gridsnaponopen" : 1,
+		"objectsnaponopen" : 1,
+		"statusbarvisible" : 2,
+		"toolbarvisible" : 1,
+		"lefttoolbarpinned" : 0,
+		"toptoolbarpinned" : 0,
+		"righttoolbarpinned" : 0,
+		"bottomtoolbarpinned" : 0,
+		"toolbars_unpinned_last_save" : 0,
+		"tallnewobj" : 0,
+		"boxanimatetime" : 200,
+		"enablehscroll" : 1,
+		"enablevscroll" : 1,
+		"devicewidth" : 0.0,
+		"description" : "",
+		"digest" : "",
+		"tags" : "",
+		"style" : "",
+		"subpatcher_template" : "",
+		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-13",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 512.0, 703.0, 100.0, 22.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-28",
 					"maxclass" : "newobj",
@@ -23,16 +59,42 @@
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
-							"major" : 9,
-							"minor" : 0,
-							"revision" : 3,
+							"major" : 8,
+							"minor" : 6,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
 						"rect" : [ 0.0, 0.0, 1000.0, 780.0 ],
+						"bglocked" : 0,
+						"openinpresentation" : 0,
+						"default_fontsize" : 12.0,
+						"default_fontface" : 0,
+						"default_fontname" : "Arial",
+						"gridonopen" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
+						"gridsnaponopen" : 1,
+						"objectsnaponopen" : 1,
+						"statusbarvisible" : 2,
+						"toolbarvisible" : 1,
+						"lefttoolbarpinned" : 0,
+						"toptoolbarpinned" : 0,
+						"righttoolbarpinned" : 0,
+						"bottomtoolbarpinned" : 0,
+						"toolbars_unpinned_last_save" : 0,
+						"tallnewobj" : 0,
+						"boxanimatetime" : 200,
+						"enablehscroll" : 1,
+						"enablevscroll" : 1,
+						"devicewidth" : 0.0,
+						"description" : "",
+						"digest" : "",
+						"tags" : "",
+						"style" : "",
+						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-37",
@@ -550,13 +612,15 @@
 								}
 
 							}
- ],
-						"originid" : "pat-6070"
+ ]
 					}
 ,
 					"patching_rect" : [ 24.5, 519.0, 93.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
+						"description" : "",
+						"digest" : "",
+						"globalpatchername" : "",
+						"tags" : ""
 					}
 ,
 					"text" : "p display_mode"
@@ -851,7 +915,6 @@
 							"parameter_longname" : "live.button",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -904,7 +967,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
 					"id" : "obj-36",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -938,10 +1000,9 @@
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "norm", "drum", "master" ],
-							"parameter_longname" : "live.tab[18]",
+							"parameter_longname" : "live.tab[3]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.tab",
 							"parameter_type" : 2,
 							"parameter_unitstyle" : 9
@@ -965,7 +1026,14 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 300.0, 711.0, 38.0, 47.0 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -981,7 +1049,14 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 220.0, 711.0, 38.0, 47.0 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -997,7 +1072,14 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 23.0, 760.0, 319.0, 15.0 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1033,6 +1115,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-12",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1057,6 +1140,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-6",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1091,7 +1175,14 @@
 					"proportion" : 0.39,
 					"pt1" : [ 0.51010101010101, 0.601010101010101 ],
 					"pt2" : [ 0.97979797979798, 1.035353535353535 ],
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1109,7 +1200,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 59.0, 8.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1127,7 +1225,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 59.0, 9.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1145,7 +1250,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 521.0, 8.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1163,7 +1275,14 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 59.0, 158.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1202,16 +1321,42 @@
 					"patcher" : 					{
 						"fileversion" : 1,
 						"appversion" : 						{
-							"major" : 9,
-							"minor" : 0,
-							"revision" : 3,
+							"major" : 8,
+							"minor" : 6,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
 						"rect" : [ 59.0, 106.0, 640.0, 480.0 ],
+						"bglocked" : 0,
+						"openinpresentation" : 0,
+						"default_fontsize" : 12.0,
+						"default_fontface" : 0,
+						"default_fontname" : "Arial",
+						"gridonopen" : 1,
 						"gridsize" : [ 15.0, 15.0 ],
+						"gridsnaponopen" : 1,
+						"objectsnaponopen" : 1,
+						"statusbarvisible" : 2,
+						"toolbarvisible" : 1,
+						"lefttoolbarpinned" : 0,
+						"toptoolbarpinned" : 0,
+						"righttoolbarpinned" : 0,
+						"bottomtoolbarpinned" : 0,
+						"toolbars_unpinned_last_save" : 0,
+						"tallnewobj" : 0,
+						"boxanimatetime" : 200,
+						"enablehscroll" : 1,
+						"enablevscroll" : 1,
+						"devicewidth" : 0.0,
+						"description" : "",
+						"digest" : "",
+						"tags" : "",
+						"style" : "",
+						"subpatcher_template" : "",
+						"assistshowspatchername" : 0,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-30",
@@ -1420,13 +1565,15 @@
 								}
 
 							}
- ],
-						"originid" : "pat-5600"
+ ]
 					}
 ,
 					"patching_rect" : [ 379.0, 527.0, 55.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"globalpatchername" : ""
+						"description" : "",
+						"digest" : "",
+						"globalpatchername" : "",
+						"tags" : ""
 					}
 ,
 					"text" : "p master"
@@ -1477,6 +1624,7 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
+					"hidden" : 1,
 					"id" : "obj-11",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1501,7 +1649,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
 					"id" : "obj-15",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1536,7 +1683,14 @@
 					"proportion" : 0.39,
 					"pt1" : [ 0.555555555555556, 0.696969696969697 ],
 					"pt2" : [ 0.888888888888889, 1.060606060606061 ],
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1557,7 +1711,14 @@
 					"proportion" : 0.39,
 					"pt1" : [ 0.888888888888889, 0.691919191919192 ],
 					"pt2" : [ 0.96969696969697, 0.984848484848485 ],
-					"rounded" : 0
+					"rounded" : 0,
+					"saved_attribute_attributes" : 					{
+						"bgfillcolor" : 						{
+							"expression" : ""
+						}
+
+					}
+
 				}
 
 			}
@@ -1569,7 +1730,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "int" ],
 					"patching_rect" : [ 28.0, 21.0, 30.0, 30.0 ]
 				}
 
@@ -1807,8 +1968,7 @@
 				}
 
 			}
- ],
-		"originid" : "pat-5512"
+ ]
 	}
 
 }

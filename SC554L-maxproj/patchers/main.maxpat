@@ -414,7 +414,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 90.0, 806.0, 75.0, 22.0 ],
+					"patching_rect" : [ 90.0, 771.0, 75.0, 22.0 ],
 					"text" : "r #0_midiout"
 				}
 
@@ -1704,7 +1704,7 @@
 
 			}
  ],
-		"originid" : "pat-22540",
+		"originid" : "pat-1606",
 		"parameters" : 		{
 			"obj-1" : [ "live.button[7]", "live.button[4]", 0 ],
 			"obj-14::obj-10::obj-110::obj-2" : [ "reverb[44]", "reverb", 0 ],
@@ -4118,16 +4118,16 @@
 			"snapshot" : 			{
 				"valuedictionary" : 				{
 					"parameter_values" : 					{
-						"attack[2]" : 0.0,
+						"attack[2]" : -50.0,
 						"attack[3]" : 0.0,
 						"attack[4]" : 0.0,
 						"attack[5]" : 0.0,
 						"chooser_fx_mixer" : 1.0,
 						"chooser_fx_mixer[1]" : 1.0,
 						"chooser_fx_mixer[2]" : 1.0,
-						"chooser_fx_mixer[3]" : 1.0,
+						"chooser_fx_mixer[3]" : 0.0,
 						"chorus[2]" : 0.0,
-						"chorus[3]" : 41.0,
+						"chorus[3]" : 0.0,
 						"chorus[4]" : 0.0,
 						"chorus[5]" : 0.0,
 						"decay[2]" : 0.0,
@@ -4138,8 +4138,8 @@
 						"delay[3]" : 0.0,
 						"delay[4]" : 0.0,
 						"delay[5]" : 0.0,
-						"depth[2]" : 32.0,
-						"depth[3]" : -50.0,
+						"depth[2]" : -23.0,
+						"depth[3]" : -23.0,
 						"depth[4]" : 0.0,
 						"depth[5]" : 0.0,
 						"drumset" : 0.0,
@@ -4149,11 +4149,11 @@
 						"level[1]" : 0.0,
 						"level[2]" : 77.0,
 						"level[4]" : 0.0,
-						"level[5]" : 77.0,
+						"level[5]" : 127.0,
 						"level[6]" : 84.999999999999957,
-						"level[7]" : 83.0,
-						"level[8]" : 113.0,
-						"level[9]" : 68.000000000000085,
+						"level[7]" : 0.0,
+						"level[8]" : 68.0,
+						"level[9]" : 0.0,
 						"live.button" : 0.0,
 						"live.button[10]" : 0.0,
 						"live.button[11]" : 0.0,
@@ -4192,16 +4192,16 @@
 						"pan[7]" : 0.0,
 						"pan[8]" : 0.0,
 						"pan[9]" : 0.0,
-						"portamentostate[1]" : 1.0,
+						"portamentostate[1]" : 0.0,
 						"portamentostate[2]" : 0.0,
 						"portamentostate[3]" : 0.0,
 						"portamentostate[4]" : 0.0,
-						"portamentotime[2]" : 60.0,
+						"portamentotime[2]" : 49.0,
 						"portamentotime[3]" : 60.0,
 						"portamentotime[4]" : 60.0,
 						"portamentotime[5]" : 60.0,
-						"rate[2]" : 24.0,
-						"rate[3]" : -32.0,
+						"rate[2]" : 0.0,
+						"rate[3]" : 0.0,
 						"rate[4]" : 0.0,
 						"rate[5]" : 0.0,
 						"release[2]" : 0.0,
@@ -4288,7 +4288,7 @@
 						"reverb[173]" : 40.0,
 						"reverb[174]" : 60.0,
 						"reverb[175]" : 0.0,
-						"reverb[176]" : 0.0,
+						"reverb[176]" : 40.0,
 						"reverb[177]" : 60.0,
 						"reverb[178]" : 0.0,
 						"reverb[179]" : 0.0,
@@ -4378,7 +4378,7 @@
 						"reverb[95]" : 0.0,
 						"reverb[96]" : 100.0,
 						"reverb[97]" : 60.0,
-						"reverb[98]" : 101.0,
+						"reverb[98]" : 40.0,
 						"reverb[99]" : 60.0,
 						"reverb_character[1]" : 0.0,
 						"reverb_character[2]" : 0.0,
@@ -4408,8 +4408,8 @@
 						"update[1]" : 0.0,
 						"update[2]" : 0.0,
 						"update[3]" : 0.0,
-						"live.menu[1]" : 1.0,
-						"live.menu[2]" : 2.0,
+						"live.menu[1]" : 5.0,
+						"live.menu[2]" : 34.0,
 						"live.menu[3]" : 0.0,
 						"live.menu[4]" : 0.0
 					}
@@ -4419,7 +4419,7 @@
 			}
 ,
 			"snapshotlist" : 			{
-				"current_snapshot" : 0,
+				"current_snapshot" : 1,
 				"entries" : [ 					{
 						"filetype" : "C74Snapshot",
 						"version" : 2,

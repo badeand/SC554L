@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2029.0, 1319.0 ],
+		"rect" : [ 34.0, 87.0, 1448.0, 439.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -27,7 +27,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1618.0, 735.5, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1610.666714668273926, 576.666683852672577, 32.5, 15.0 ],
+					"presentation_rect" : [ 755.0, 328.0, 32.5, 15.0 ],
 					"prototypename" : "sc55_screen_button",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -78,7 +78,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1493.0, 807.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1584.000047206878662, 576.666683852672577, 24.60850328207016, 14.988815635442734 ],
+					"presentation_rect" : [ 728.0, 328.0, 24.60850328207016, 14.988815635442734 ],
 					"prototypename" : "sc55_screen_button",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -150,7 +150,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2020.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2005.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1149.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -205,7 +205,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2024.5, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2009.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1154.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -233,7 +233,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2001.0, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1986.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1130.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -269,7 +269,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1997.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1982.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1126.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -332,7 +332,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1974.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1959.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1103.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -387,7 +387,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1979.0, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1964.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1108.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -415,7 +415,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1955.5, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1940.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1085.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -451,7 +451,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1951.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1936.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1080.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -514,7 +514,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1928.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1913.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1057.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -569,7 +569,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1932.5, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1917.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1062.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -597,7 +597,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1909.0, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1894.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1038.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -633,7 +633,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1905.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1890.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1034.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -696,7 +696,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1882.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1867.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 1011.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -751,7 +751,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1887.0, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1872.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 1016.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -779,7 +779,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1863.5, 634.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1848.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 993.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -815,7 +815,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1859.0, 613.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1844.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 988.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -878,7 +878,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1819.5, 587.0, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1821.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 965.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -933,7 +933,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1824.0, 607.5, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1825.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 970.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -961,7 +961,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1800.5, 607.5, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1802.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 946.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -997,7 +997,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1796.5, 587.0, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1798.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 942.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1060,7 +1060,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1773.5, 587.0, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1775.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 919.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1115,7 +1115,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1778.5, 607.5, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1780.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 924.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1143,7 +1143,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1755.0, 607.5, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1756.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 901.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1179,7 +1179,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1750.5, 587.0, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1752.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 896.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1242,7 +1242,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1731.0, 587.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1729.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 873.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1297,7 +1297,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1735.5, 608.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1733.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 878.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1325,7 +1325,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1712.0, 608.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1710.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 854.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1361,7 +1361,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1708.0, 587.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1706.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 850.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1424,7 +1424,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1684.0, 585.0, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1683.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 827.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1479,7 +1479,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1717.0, 633.5, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1687.5, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 832.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1507,7 +1507,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 317.0, 418.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1664.0, 597.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 808.0, 348.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -1535,7 +1535,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1590.5, 604.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1583.333380520343781, 592.666684329509735, 47.0, 18.0 ],
+					"presentation_rect" : [ 727.0, 344.0, 47.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "midi",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
@@ -1560,7 +1560,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1115.0, 740.5, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1660.0, 576.5, 18.35115784406662, 15.5 ],
+					"presentation_rect" : [ 804.0, 328.0, 18.35115784406662, 15.5 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -1615,7 +1615,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 2027.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1997.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1141.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "16",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -1637,7 +1637,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2068.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2001.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1146.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1689,7 +1689,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2122.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2001.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1146.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1741,7 +1741,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2068.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2001.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1146.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1788,7 +1788,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 2004.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1974.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1118.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "15",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -1810,7 +1810,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2045.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1978.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1123.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1862,7 +1862,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2099.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1978.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1123.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1914,7 +1914,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2045.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1978.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1123.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -1961,7 +1961,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1981.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1951.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1095.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "14",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -1983,7 +1983,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2022.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1955.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1100.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2035,7 +2035,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2076.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1955.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1100.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2087,7 +2087,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2022.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1955.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1100.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2134,7 +2134,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1958.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1928.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1072.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "13",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -2156,7 +2156,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1999.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1932.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1077.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2208,7 +2208,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2053.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1932.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1077.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2260,7 +2260,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1999.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1932.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1077.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2307,7 +2307,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1935.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1905.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1049.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "12",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -2329,7 +2329,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1976.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1909.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1054.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2381,7 +2381,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2030.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1909.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1054.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2433,7 +2433,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1976.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1909.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1054.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2480,7 +2480,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1912.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1882.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1026.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "11",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -2502,7 +2502,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1953.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1886.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1031.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2554,7 +2554,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 2007.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1886.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1031.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2606,7 +2606,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1953.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1886.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1031.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2653,7 +2653,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1889.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1859.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 1003.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "10",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -2675,7 +2675,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1930.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1863.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1008.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2727,7 +2727,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1984.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1863.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1008.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2779,7 +2779,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1930.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1863.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 1008.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2826,7 +2826,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1866.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1836.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 980.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "9",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -2848,7 +2848,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1907.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1840.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 985.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2900,7 +2900,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1961.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1840.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 985.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2952,7 +2952,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1907.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1840.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 985.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -2999,7 +2999,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1843.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1813.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 957.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "8",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3021,7 +3021,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1884.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1817.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 962.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3073,7 +3073,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1938.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1817.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 962.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3125,7 +3125,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1884.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1817.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 962.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3172,7 +3172,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1820.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1790.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 934.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "7",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3194,7 +3194,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1861.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1794.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 939.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3246,7 +3246,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1915.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1794.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 939.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3298,7 +3298,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1861.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1794.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 939.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3345,7 +3345,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1797.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1767.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 911.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "6",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3367,7 +3367,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1838.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1771.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 916.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3419,7 +3419,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1892.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1771.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 916.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3471,7 +3471,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1838.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1771.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 916.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3518,7 +3518,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1774.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1744.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 888.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "5",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3540,7 +3540,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1815.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1748.5, 525.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 893.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3592,7 +3592,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1869.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1748.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 893.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3644,7 +3644,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1815.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1748.5, 550.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 893.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3691,7 +3691,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1751.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1721.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 865.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "4",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3713,7 +3713,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1792.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1725.5, 525.500000715255737, 25.0, 23.0 ],
+					"presentation_rect" : [ 870.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3765,7 +3765,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1846.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1725.5, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 870.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3817,7 +3817,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1792.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1725.5, 550.833334803581238, 25.0, 23.0 ],
+					"presentation_rect" : [ 870.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3864,7 +3864,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1728.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1698.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 842.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "3",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -3886,7 +3886,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1769.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1702.166665971279144, 525.500000715255737, 25.0, 23.0 ],
+					"presentation_rect" : [ 846.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3938,7 +3938,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1823.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1702.166665971279144, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 846.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -3990,7 +3990,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1769.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1702.166665971279144, 550.833334803581238, 25.0, 23.0 ],
+					"presentation_rect" : [ 846.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4037,7 +4037,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1705.0, 674.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1675.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 819.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "2",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4059,7 +4059,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1746.0, 559.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1679.49999862909317, 525.500000715255737, 25.0, 23.0 ],
+					"presentation_rect" : [ 824.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4111,7 +4111,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1800.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1679.49999862909317, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 824.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4163,7 +4163,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1746.0, 538.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1679.49999862909317, 550.833334803581238, 25.0, 23.0 ],
+					"presentation_rect" : [ 824.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4210,7 +4210,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1690.0, 659.5, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1652.0, 486.0, 34.0, 18.0 ],
+					"presentation_rect" : [ 796.0, 237.0, 34.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "1",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4232,7 +4232,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1731.0, 544.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1656.166664600372314, 525.500000715255737, 25.0, 23.0 ],
+					"presentation_rect" : [ 800.0, 277.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4279,7 +4279,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1834.0, 503.0, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1584.000047206878662, 528.000015735626221, 49.5, 18.0 ],
+					"presentation_rect" : [ 728.0, 279.0, 49.5, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "reverb",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4297,7 +4297,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1786.0, 503.0, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1584.000047206878662, 504.000015020370483, 43.5, 18.0 ],
+					"presentation_rect" : [ 728.0, 255.0, 43.5, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pan",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4315,7 +4315,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1755.0, 503.0, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1583.333380520343781, 553.333349823951721, 47.0, 18.0 ],
+					"presentation_rect" : [ 727.0, 305.0, 47.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "level",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4333,7 +4333,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1725.0, 503.0, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1584.000047206878662, 486.00001448392868, 49.5, 18.0 ],
+					"presentation_rect" : [ 728.0, 237.0, 49.5, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "channel",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4351,7 +4351,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1698.0, 473.0, 138.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1583.999993354082108, 471.044530004262924, 461.333400934934616, 18.0 ],
+					"presentation_rect" : [ 728.0, 222.0, 461.333400934934616, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "Mixer",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -4374,7 +4374,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1785.0, 523.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1656.166664600372314, 501.5, 25.0, 23.0 ],
+					"presentation_rect" : [ 800.0, 253.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4426,7 +4426,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1731.0, 523.0, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1656.166664600372314, 550.833334803581238, 25.0, 23.0 ],
+					"presentation_rect" : [ 800.0, 302.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4482,7 +4482,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1463.215258419513702, 472.479563891887665, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1218.209033280611038, 588.059739172458649, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 368.181805014610291, 151.454707950353622, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -4560,7 +4560,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1602.452315598726273, 468.39237043261528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1357.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 507.272709131240845, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4603,13 +4603,14 @@
 					"appearance" : 1,
 					"id" : "obj-198",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1575.204359203577042, 468.39237043261528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1330.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 480.909073710441589, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4654,13 +4655,14 @@
 					"appearance" : 1,
 					"id" : "obj-199",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1548.501361936330795, 468.39237043261528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1303.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 453.636347413063049, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4711,7 +4713,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1521.525885105133057, 468.39237043261528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1276.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 426.363621115684509, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4760,7 +4762,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1494.277928709983826, 468.39237043261528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1249.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 399.999985694885254, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4815,7 +4817,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1463.215258419513702, 451.498637467622757, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1218.209033280611038, 566.865707963705063, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 368.181805014610291, 126.284401893615723, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -4893,7 +4895,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1602.452315598726273, 447.411444008350372, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1357.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 507.272709131240845, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4936,13 +4938,14 @@
 					"appearance" : 1,
 					"id" : "obj-204",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1575.204359203577042, 447.411444008350372, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1330.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 480.909073710441589, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -4987,13 +4990,14 @@
 					"appearance" : 1,
 					"id" : "obj-205",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1548.501361936330795, 447.411444008350372, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1303.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 453.636347413063049, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5044,7 +5048,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1521.525885105133057, 447.411444008350372, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1276.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 426.363621115684509, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5093,7 +5097,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1494.277928709983826, 447.411444008350372, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1249.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 399.999985694885254, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5148,7 +5152,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1463.215258419513702, 430.517711043357849, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1218.209033280611038, 545.970184236764908, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 367.272714138031006, 99.0, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -5226,7 +5230,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1602.452315598726273, 426.430517584085464, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1357.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 506.36361825466156, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5269,13 +5273,14 @@
 					"appearance" : 1,
 					"id" : "obj-210",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1575.204359203577042, 426.430517584085464, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1330.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 479.999982833862305, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5320,13 +5325,14 @@
 					"appearance" : 1,
 					"id" : "obj-211",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1548.501361936330795, 426.430517584085464, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1303.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 452.727256536483765, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5377,7 +5383,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1521.525885105133057, 426.430517584085464, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1276.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 425.454530239105225, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5426,7 +5432,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1494.277928709983826, 426.430517584085464, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1249.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 399.090894818305969, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5472,7 +5478,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1597.002724319696426, 385.558582991361618, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1352.0, 501.0, 36.512261569499969, 18.0 ],
+					"presentation_rect" : [ 502.31967930495739, 47.51479360461235, 36.512261569499969, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "reverb",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -5490,7 +5496,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1573.297002255916595, 385.558582991361618, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1328.0, 501.0, 30.0, 18.0 ],
+					"presentation_rect" : [ 477.774225637316704, 47.51479360461235, 30.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pitch",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -5508,7 +5514,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1549.318800628185272, 385.558582991361618, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1304.0, 501.0, 24.250681191682816, 18.0 ],
+					"presentation_rect" : [ 454.137862846255302, 47.51479360461235, 24.250681191682816, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pan",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -5526,7 +5532,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1518.801089465618134, 385.558582991361618, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1274.0, 501.0, 30.628596007823944, 18.0 ],
+					"presentation_rect" : [ 424.137863919138908, 47.51479360461235, 30.628596007823944, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "level",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -5544,7 +5550,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1488.555857867002487, 385.558582991361618, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1243.0, 501.0, 36.724241405725479, 18.0 ],
+					"presentation_rect" : [ 393.22877411544323, 47.51479360461235, 36.724241405725479, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "key",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -5571,7 +5577,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1463.215258419513702, 409.809264183044434, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1218.209033280611038, 525.074660509824753, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 366.952164068818092, 68.636363506317139, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -5649,7 +5655,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1602.724795162677765, 405.722070723772049, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1358.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 506.952159062027931, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5692,13 +5698,14 @@
 					"appearance" : 1,
 					"id" : "obj-221",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1575.476838767528534, 405.722070723772049, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1330.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 479.679432764649391, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5743,13 +5750,14 @@
 					"appearance" : 1,
 					"id" : "obj-222",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1548.773841500282288, 405.722070723772049, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1304.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 453.315797343850136, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5800,7 +5808,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1521.525885105133057, 405.722070723772049, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1276.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 425.133980169892311, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5849,7 +5857,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1494.277928709983826, 405.722070723772049, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1249.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 398.770344749093056, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -5904,7 +5912,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1446.866484582424164, 716.07629406452179, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1042.985141456127167, 588.059739172458649, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 193.636356711387634, 151.454707950353622, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -5982,7 +5990,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1586.103541761636734, 711.989100605249405, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1182.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 332.727260828018188, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6025,13 +6033,14 @@
 					"appearance" : 1,
 					"id" : "obj-192",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1558.855585366487503, 711.989100605249405, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1155.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 305.454534530639648, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6076,13 +6085,14 @@
 					"appearance" : 1,
 					"id" : "obj-193",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1532.152588099241257, 711.989100605249405, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1128.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 278.181808233261108, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6133,7 +6143,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1505.177111268043518, 711.989100605249405, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1101.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 251.818172812461853, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6182,7 +6192,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1477.929154872894287, 711.989100605249405, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1074.0, 584.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 224.545446515083313, 146.909253567457199, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6237,7 +6247,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1440.326975047588348, 686.376021593809128, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1042.985141456127167, 566.865707963705063, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 193.636356711387634, 126.284401893615723, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -6315,7 +6325,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1579.564032226800919, 682.288828134536743, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1182.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 332.727260828018188, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6358,13 +6368,14 @@
 					"appearance" : 1,
 					"id" : "obj-157",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1552.316075831651688, 682.288828134536743, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1155.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 305.454534530639648, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6409,13 +6420,14 @@
 					"appearance" : 1,
 					"id" : "obj-158",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1525.613078564405441, 682.288828134536743, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1128.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 278.181808233261108, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6466,7 +6478,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1498.637601733207703, 682.288828134536743, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1101.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 251.818172812461853, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6515,7 +6527,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1471.389645338058472, 682.288828134536743, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1074.0, 563.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 224.545446515083313, 122.648038387298584, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6570,7 +6582,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1439.782015919685364, 666.757492989301682, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1042.985141456127167, 545.970184236764908, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 192.72726583480835, 99.0, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -6648,7 +6660,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1579.019073098897934, 662.670299530029297, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1182.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 331.818169951438904, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6691,13 +6703,14 @@
 					"appearance" : 1,
 					"id" : "obj-151",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1551.771116703748703, 662.670299530029297, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1155.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 304.545443654060364, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6742,13 +6755,14 @@
 					"appearance" : 1,
 					"id" : "obj-152",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1525.068119436502457, 662.670299530029297, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1128.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 277.272717356681824, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6799,7 +6813,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1498.092642605304718, 662.670299530029297, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1101.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 250.909081935882568, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6848,7 +6862,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1470.844686210155487, 662.670299530029297, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1074.0, 542.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 223.636355638504028, 94.454545617103577, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -6894,7 +6908,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1578.474113970994949, 614.71389627456665, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1177.0, 501.0, 36.512261569499969, 18.0 ],
+					"presentation_rect" : [ 326.865140125155449, 47.51479360461235, 36.512261569499969, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "reverb",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -6912,7 +6926,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1549.04632106423378, 613.351498454809189, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1153.0, 501.0, 29.700272470712662, 18.0 ],
+					"presentation_rect" : [ 303.228777334094048, 47.51479360461235, 29.700272470712662, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pitch",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -6930,7 +6944,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1520.435966849327087, 612.806539326906204, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1129.0, 501.0, 24.250681191682816, 18.0 ],
+					"presentation_rect" : [ 279.592414543032646, 47.51479360461235, 24.250681191682816, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pan",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -6948,7 +6962,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1493.188010454177856, 613.896457582712173, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1098.0, 501.0, 30.628596007823944, 18.0 ],
+					"presentation_rect" : [ 247.774233862757683, 47.51479360461235, 30.628596007823944, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "level",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -6966,7 +6980,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1255.858310252428055, 592.643051594495773, 135.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1068.0, 501.0, 36.724241405725479, 18.0 ],
+					"presentation_rect" : [ 217.774234935641289, 47.51479360461235, 36.724241405725479, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "key",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -6984,7 +6998,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1295.858021378517151, 358.579890847206116, 138.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1041.0, 471.0, 347.33728700876236, 18.0 ],
+					"presentation_rect" : [ 190.0, 29.0, 347.33728700876236, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "Drum params",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -7011,7 +7025,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1318.934945046901703, 455.029597461223602, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1042.985141456127167, 525.074660509824753, 28.99408358335495, 14.792899787425995 ],
+					"presentation_rect" : [ 192.406715765595436, 68.636363506317139, 28.99408358335495, 14.792899787425995 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -7089,7 +7103,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1457.988203048706055, 439.053265690803528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1182.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 331.49761988222599, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7132,13 +7146,14 @@
 					"appearance" : 1,
 					"id" : "obj-116",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1430.769267439842224, 439.053265690803528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1155.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 304.22489358484745, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7183,13 +7198,14 @@
 					"appearance" : 1,
 					"id" : "obj-117",
 					"maxclass" : "live.dial",
+					"needlemode" : 2,
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "float" ],
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1404.142047822475433, 439.053265690803528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1128.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 276.95216728746891, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7240,7 +7256,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1376.923112213611603, 439.053265690803528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1101.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 250.588531866669655, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7289,7 +7305,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1349.704176604747772, 439.053265690803528, 25.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1074.0, 521.0, 25.0, 23.0 ],
+					"presentation_rect" : [ 223.315805569291115, 65.0, 25.0, 23.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7338,7 +7354,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1230.0, 449.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 988.0, 560.0, 27.0, 48.0 ],
+					"presentation_rect" : [ 137.0, 118.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7387,7 +7403,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1196.0, 449.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 954.0, 560.0, 27.0, 48.0 ],
+					"presentation_rect" : [ 103.0, 118.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7433,7 +7449,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1193.0, 430.0, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 951.0, 541.0, 67.691259816288948, 18.0 ],
+					"presentation_rect" : [ 100.0, 99.0, 67.691259816288948, 18.0 ],
 					"text" : "FX",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -7442,18 +7458,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-12",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1193.0, 430.0, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 951.0, 541.0, 68.936171650886536, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 100.0, 99.0, 68.936171650886536, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -7470,7 +7489,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1125.0, 401.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 873.0, 514.0, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 22.0, 72.0, 52.222930312156677, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7514,7 +7533,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1168.0, 496.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 916.0, 609.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 65.0, 167.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -7542,7 +7561,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1168.0, 483.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 916.0, 596.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 65.0, 154.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -7570,7 +7589,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1168.0, 469.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 916.0, 582.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 65.0, 140.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -7598,7 +7617,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1123.0, 492.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 871.0, 605.0, 48.0, 18.0 ],
+					"presentation_rect" : [ 20.0, 163.0, 48.0, 18.0 ],
 					"text" : "MIDI out"
 				}
 
@@ -7613,7 +7632,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1123.0, 479.0, 120.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 871.0, 592.0, 47.0, 18.0 ],
+					"presentation_rect" : [ 20.0, 150.0, 47.0, 18.0 ],
 					"text" : "MIDI ctrl"
 				}
 
@@ -7628,7 +7647,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1123.0, 465.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 871.0, 578.0, 49.0, 18.0 ],
+					"presentation_rect" : [ 20.0, 136.0, 49.0, 18.0 ],
 					"text" : "MIDI in"
 				}
 
@@ -7643,7 +7662,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1160.0, 451.0, 124.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 908.0, 564.0, 19.10569104552269, 18.0 ],
+					"presentation_rect" : [ 57.0, 122.0, 19.10569104552269, 18.0 ],
 					"text" : "4",
 					"textjustification" : 2
 				}
@@ -7659,7 +7678,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1123.0, 451.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 871.0, 564.0, 49.0, 18.0 ],
+					"presentation_rect" : [ 20.0, 122.0, 49.0, 18.0 ],
 					"text" : "Channel"
 				}
 
@@ -7679,7 +7698,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1195.0, 394.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 943.0, 507.0, 24.999997794628143, 15.151513814926147 ],
+					"presentation_rect" : [ 92.0, 65.0, 24.999997794628143, 15.151513814926147 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -7729,7 +7748,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1295.0, 394.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1008.0, 507.0, 24.999997794628143, 15.151513814926147 ],
+					"presentation_rect" : [ 157.0, 65.0, 24.999997794628143, 15.151513814926147 ],
 					"prototypename" : "sc55_screen_button",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -7775,7 +7794,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1192.0, 358.0, 138.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 940.0, 471.0, 97.041422605514526, 18.0 ],
+					"presentation_rect" : [ 89.0, 29.0, 97.041422605514526, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "Kit",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -7798,7 +7817,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1196.0, 378.0, 138.190957903862, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 944.0, 491.0, 88.165682733058929, 15.0 ],
+					"presentation_rect" : [ 93.0, 49.0, 88.165682733058929, 15.0 ],
 					"prototypename" : "sc55_screen_list",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -7861,7 +7880,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1125.0, 350.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 873.0, 463.0, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 22.0, 21.0, 52.222930312156677, 48.0 ],
 					"prototypename" : "sc55_offscreen_dial",
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
@@ -7898,19 +7917,22 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-85",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1192.0, 358.0, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 940.0, 471.0, 97.041422605514526, 55.029587209224701 ],
-					"proportion" : 0.5,
-					"prototypename" : "sc55_screen_area"
+					"presentation_rect" : [ 89.0, 29.0, 97.041422605514526, 55.029587209224701 ],
+					"proportion" : 0.923422218859765,
+					"prototypename" : "sc55_screen_area",
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -7927,7 +7949,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 965.887842983007431, 555.140182614326477, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 308.962877452373505, 562.187523275613785, 27.0, 48.0 ],
+					"presentation_rect" : [ 128.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -7976,7 +7998,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 932.242983430624008, 555.140182614326477, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 275.318017899990082, 562.187523275613785, 27.0, 48.0 ],
+					"presentation_rect" : [ 94.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8022,7 +8044,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 928.504665702581406, 536.448593974113464, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.579700171947479, 543.495934635400772, 67.691259816288948, 18.0 ],
+					"presentation_rect" : [ 91.0, 294.0, 67.691259816288948, 18.0 ],
 					"text" : "FX",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -8031,18 +8053,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-76",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 928.504665702581406, 536.448593974113464, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.579700171947479, 543.495934635400772, 68.936171650886536, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 91.0, 294.0, 68.936171650886536, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -8059,7 +8084,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 34.5, 255.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 204.30106446146965, 514.408574938774109, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 23.0, 264.0, 52.222930312156677, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8103,7 +8128,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 249.321252107620239, 533.096283674240112, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 246.731180429458618, 609.829529285430908, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 66.0, 360.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -8131,7 +8156,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 246.153831481933594, 514.802813529968262, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 246.731180429458618, 596.2811429053545, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 66.0, 346.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -8159,7 +8184,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 302.0, 403.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 246.731180429458618, 582.517702773213387, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 66.0, 333.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -8187,7 +8212,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 202.845528334379196, 538.617885857820511, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 202.0, 605.743507996201515, 48.0, 18.0 ],
+					"presentation_rect" : [ 21.0, 356.0, 48.0, 18.0 ],
 					"text" : "MIDI out"
 				}
 
@@ -8202,7 +8227,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 202.845528334379196, 517.886178553104401, 120.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 202.0, 592.195121616125107, 47.0, 18.0 ],
+					"presentation_rect" : [ 21.0, 342.0, 47.0, 18.0 ],
 					"text" : "MIDI ctrl"
 				}
 
@@ -8217,7 +8242,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 200.406503945589066, 500.813007831573486, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 202.0, 578.431681483983994, 49.0, 18.0 ],
+					"presentation_rect" : [ 21.0, 328.0, 49.0, 18.0 ],
 					"text" : "MIDI in"
 				}
 
@@ -8232,7 +8257,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 201.626016139984131, 483.333333045244217, 124.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 238.989245355129242, 564.66824135184288, 19.10569104552269, 18.0 ],
+					"presentation_rect" : [ 58.0, 315.0, 19.10569104552269, 18.0 ],
 					"text" : "4",
 					"textjustification" : 2
 				}
@@ -8248,7 +8273,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 386.585365623235703, 680.487804472446442, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 201.56989249587059, 564.66824135184288, 49.0, 18.0 ],
+					"presentation_rect" : [ 21.0, 315.0, 49.0, 18.0 ],
 					"text" : "Channel"
 				}
 
@@ -8266,7 +8291,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 377.64227619767189, 562.195121616125107, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 379.674796521663666, 562.195121616125107, 27.0, 48.0 ],
+					"presentation_rect" : [ 199.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8315,7 +8340,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 344.308942884206772, 562.195121616125107, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 346.341463208198547, 562.195121616125107, 27.0, 48.0 ],
+					"presentation_rect" : [ 165.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8361,7 +8386,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 340.650406301021576, 543.495934635400772, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 342.682926625013351, 543.495934635400772, 67.691259816288948, 18.0 ],
+					"presentation_rect" : [ 162.0, 294.0, 67.691259816288948, 18.0 ],
 					"text" : "Filter",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -8370,18 +8395,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-56",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 340.243902236223221, 543.495934635400772, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 342.276422560214996, 543.495934635400772, 68.936171650886536, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 161.0, 294.0, 68.936171650886536, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -8400,7 +8428,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 304.0, 423.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 274.242400050163269, 507.57571280002594, 24.999997794628143, 15.151513814926147 ],
+					"presentation_rect" : [ 93.0, 258.0, 24.999997794628143, 15.151513814926147 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -8450,7 +8478,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 289.0, 408.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 373.484815537929535, 507.57571280002594, 24.999997794628143, 15.151513814926147 ],
+					"presentation_rect" : [ 193.0, 258.0, 24.999997794628143, 15.151513814926147 ],
 					"prototypename" : "sc55_screen_button",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -8496,7 +8524,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.731707155704498, 332.113820940256119, 138.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.138211220502853, 471.463414341211319, 138.211382031440735, 18.0 ],
+					"presentation_rect" : [ 90.0, 222.0, 138.211382031440735, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "Instrument",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
@@ -8519,7 +8547,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 318.809042096138, 413.0, 138.190957903862, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 274.390243738889694, 491.463414341211319, 124.560975551605225, 15.0 ],
+					"presentation_rect" : [ 93.0, 242.0, 124.560975551605225, 15.0 ],
 					"prototypename" : "sc55_screen_list",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -8588,7 +8616,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 794.5, 346.0, 44.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.182781353592873, 527.741907566785812, 68.485097452998161, 15.053762644529343 ],
+					"presentation_rect" : [ 90.0, 278.0, 68.485097452998161, 15.053762644529343 ],
 					"prototypename" : "sc55_screen_toggle",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -8671,7 +8699,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 779.5, 477.342281937599182, 24.217687904834747, 15.315436124801636 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 521.67587885260582, 507.94392129778862, 26.829268276691437, 15.447154462337494 ],
+					"presentation_rect" : [ 341.0, 258.0, 26.829268276691437, 15.447154462337494 ],
 					"prototypename" : "sc55_screen_onoff",
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
@@ -8729,7 +8757,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 328.0, 768.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 553.918869256973267, 491.588781237602234, 27.0, 48.0 ],
+					"presentation_rect" : [ 373.0, 242.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8775,7 +8803,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 239.747303545475006, 705.812310218811035, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 518.404850840568542, 471.495323449373245, 67.691259816288948, 18.0 ],
+					"presentation_rect" : [ 337.0, 222.0, 67.691259816288948, 18.0 ],
 					"text" : "Portamento",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -8784,18 +8812,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-44",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 230.361021459102631, 713.754548907279968, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 518.404850840568542, 471.495323449373245, 68.936171650886536, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 337.0, 222.0, 68.936171650886536, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -8812,7 +8843,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 284.720088839530945, 604.567401736974716, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 483.177566349506378, 490.186912089586258, 27.0, 48.0 ],
+					"presentation_rect" : [ 302.0, 240.0, 27.0, 48.0 ],
 					"prototypename" : "sc55_screen_dial",
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
@@ -8862,7 +8893,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 280.903295129537582, 554.949083507061005, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 449.532706797122955, 490.186912089586258, 27.0, 48.0 ],
+					"presentation_rect" : [ 269.0, 240.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8911,7 +8942,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 313.0, 753.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 415.887847244739532, 490.186912089586258, 27.0, 48.0 ],
+					"presentation_rect" : [ 235.0, 240.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -8957,7 +8988,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 224.747303545475006, 690.812310218811035, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 412.14952951669693, 471.495323449373245, 104.255321323871613, 18.0 ],
+					"presentation_rect" : [ 231.0, 222.0, 104.255321323871613, 18.0 ],
 					"text" : "Envelope",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -8966,18 +8997,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-35",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 215.361021459102631, 698.754548907279968, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 412.14952951669693, 471.495323449373245, 104.255321323871613, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 231.0, 222.0, 104.255321323871613, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -8994,7 +9028,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 19.5, 240.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 204.30106446146965, 463.870943203568459, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 23.0, 214.0, 52.222930312156677, 48.0 ],
 					"prototypename" : "sc55_offscreen_dial",
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
@@ -9031,170 +9065,6 @@
 			}
 , 			{
 				"box" : 				{
-					"fontname" : "Ableton Sans Light",
-					"id" : "obj-132",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 10.5, 341.0, 44.0, 21.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 151.626016169786453, 321.938939183950424, 28.0, 21.0 ],
-					"text" : "pan"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
-					"activeslidercolor" : [ 0.317909240722656, 0.062508054077625, 0.062106646597385, 0.26 ],
-					"appearance" : 2,
-					"id" : "obj-134",
-					"maxclass" : "live.numbox",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "float" ],
-					"parameter_enable" : 1,
-					"patching_rect" : [ 10.5, 376.0, 44.0, 15.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 249.999977946281433, 324.999971330165863, 44.0, 15.0 ],
-					"saved_attribute_attributes" : 					{
-						"activebgcolor" : 						{
-							"expression" : ""
-						}
-,
-						"activeslidercolor" : 						{
-							"expression" : ""
-						}
-,
-						"valueof" : 						{
-							"parameter_initial" : [ 0 ],
-							"parameter_initial_enable" : 1,
-							"parameter_longname" : "pan[5]",
-							"parameter_mmax" : 63.0,
-							"parameter_mmin" : -63.0,
-							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
-							"parameter_shortname" : "pan",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 0
-						}
-
-					}
-,
-					"varname" : "pan"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Ableton Sans Light",
-					"id" : "obj-111",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 10.5, 562.0, 44.0, 21.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 143.902438938617706, 381.288532644510269, 44.0, 21.0 ],
-					"text" : "chorus"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
-					"activeslidercolor" : [ 0.317909240722656, 0.062508054077625, 0.062106646597385, 0.26 ],
-					"appearance" : 2,
-					"id" : "obj-112",
-					"maxclass" : "live.numbox",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "float" ],
-					"parameter_enable" : 1,
-					"patching_rect" : [ 10.5, 601.0, 44.0, 15.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 143.089430809020996, 396.329183042049408, 44.0, 15.0 ],
-					"saved_attribute_attributes" : 					{
-						"activebgcolor" : 						{
-							"expression" : ""
-						}
-,
-						"activeslidercolor" : 						{
-							"expression" : ""
-						}
-,
-						"valueof" : 						{
-							"parameter_initial" : [ 0 ],
-							"parameter_initial_enable" : 1,
-							"parameter_longname" : "chorus[2]",
-							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
-							"parameter_shortname" : "chorus",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 0
-						}
-
-					}
-,
-					"varname" : "chorus"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"fontname" : "Ableton Sans Light",
-					"id" : "obj-110",
-					"maxclass" : "comment",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 11.5, 448.0, 42.0, 21.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 144.715447068214417, 350.800727784633636, 42.0, 21.0 ],
-					"text" : "reverb"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"activebgcolor" : [ 1.0, 0.682352941176471, 0.384313725490196, 1.0 ],
-					"activeslidercolor" : [ 0.317909240722656, 0.062508054077625, 0.062106646597385, 0.26 ],
-					"appearance" : 2,
-					"id" : "obj-96",
-					"maxclass" : "live.numbox",
-					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "float" ],
-					"parameter_enable" : 1,
-					"patching_rect" : [ 10.5, 487.0, 44.0, 15.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 143.902438938617706, 366.654386311769485, 44.0, 15.0 ],
-					"saved_attribute_attributes" : 					{
-						"activebgcolor" : 						{
-							"expression" : ""
-						}
-,
-						"activeslidercolor" : 						{
-							"expression" : ""
-						}
-,
-						"valueof" : 						{
-							"parameter_initial" : [ 40 ],
-							"parameter_initial_enable" : 1,
-							"parameter_longname" : "reverb[56]",
-							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
-							"parameter_shortname" : "reverb",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 0
-						}
-
-					}
-,
-					"varname" : "reverb"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"activedialcolor" : [ 0.396078431372549, 0.341176470588235, 0.235294117647059, 0.53 ],
 					"activefgdialcolor" : [ 0.0, 0.0, 0.0, 0.06 ],
 					"activeneedlecolor" : [ 0.079348079365577, 0.07934804057877, 0.079348050547289, 1.0 ],
@@ -9206,7 +9076,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 269.720088839530945, 589.567401736974716, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 482.710276633501053, 561.682238638401031, 27.0, 48.0 ],
+					"presentation_rect" : [ 302.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -9255,7 +9125,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 265.903295129537582, 539.949083507061005, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 449.532706797122955, 561.682238638401031, 27.0, 48.0 ],
+					"presentation_rect" : [ 269.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -9304,7 +9174,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 298.0, 738.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 415.887847244739532, 561.682238638401031, 27.0, 48.0 ],
+					"presentation_rect" : [ 235.0, 312.0, 27.0, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -9350,7 +9220,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 209.747303545475006, 675.812310218811035, 142.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 412.14952951669693, 543.457939714193344, 104.255321323871613, 18.0 ],
+					"presentation_rect" : [ 231.0, 294.0, 104.255321323871613, 18.0 ],
 					"text" : "Vibrato",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -9359,18 +9229,21 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-3",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 200.361021459102631, 683.754548907279968, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 412.14952951669693, 542.990649998188019, 104.255321323871613, 69.36170357465744 ],
-					"proportion" : 0.5
+					"presentation_rect" : [ 231.0, 293.0, 104.255321323871613, 69.36170357465744 ],
+					"proportion" : 0.923422218859765,
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -9408,19 +9281,22 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-48",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.731707155704498, 331.707316875457764, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.138211220502853, 471.138211101293564, 138.211382031440735, 55.284552812576294 ],
-					"proportion" : 0.5,
-					"prototypename" : "sc55_screen_area"
+					"presentation_rect" : [ 90.0, 221.0, 138.211382031440735, 55.284552812576294 ],
+					"proportion" : 0.923422218859765,
+					"prototypename" : "sc55_screen_area",
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -9437,7 +9313,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 163.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 753.0, 457.0, 65.773808896541595, 169.642855525016785 ],
+					"presentation_rect" : [ 572.0, 207.0, 65.773808896541595, 169.642855525016785 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.51010101010101, 0.601010101010101 ],
 					"pt2" : [ 0.97979797979798, 1.035353535353535 ],
@@ -9457,7 +9333,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 195.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 261.0, 465.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 80.0, 215.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9475,7 +9351,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 275.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 261.0, 466.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 80.0, 216.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9493,7 +9369,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 83.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 723.0, 465.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 542.0, 215.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9511,7 +9387,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 123.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 261.0, 615.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 80.0, 365.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9530,7 +9406,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 355.0, 726.0, 69.0, 64.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 267.0, 469.0, 456.193369925022125, 145.619340598583221 ],
+					"presentation_rect" : [ 86.0, 219.0, 456.193369925022125, 145.619340598583221 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.555555555555556, 0.696969696969697 ],
 					"pt2" : [ 0.888888888888889, 1.060606060606061 ],
@@ -9551,7 +9427,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 43.0, 726.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 202.0, 457.0, 561.41728886961937, 169.553795516490936 ],
+					"presentation_rect" : [ 21.0, 207.0, 561.41728886961937, 169.553795516490936 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.888888888888889, 0.691919191919192 ],
 					"pt2" : [ 0.96969696969697, 0.984848484848485 ],
@@ -9561,19 +9437,22 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-141",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1295.858021378517151, 358.579890847206116, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1041.0, 471.0, 347.33728700876236, 141.420121967792511 ],
-					"proportion" : 0.5,
-					"prototypename" : "sc55_screen_area"
+					"presentation_rect" : [ 190.0, 29.0, 347.33728700876236, 141.420121967792511 ],
+					"proportion" : 0.923422218859765,
+					"prototypename" : "sc55_screen_area",
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -9590,7 +9469,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1674.0, 344.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1422.0, 457.0, 65.773808896541595, 169.642855525016785 ],
+					"presentation_rect" : [ 571.0, 15.0, 65.773808896541595, 169.642855525016785 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.51010101010101, 0.601010101010101 ],
 					"pt2" : [ 0.97979797979798, 1.035353535353535 ],
@@ -9610,7 +9489,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1182.0, 352.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 930.0, 465.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 79.0, 23.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9628,7 +9507,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1182.0, 353.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 930.0, 466.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 79.0, 24.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9646,7 +9525,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1644.0, 352.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1392.0, 465.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 541.0, 23.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9664,7 +9543,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1182.0, 502.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 930.0, 615.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 79.0, 173.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -9683,7 +9562,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1188.0, 356.0, 69.0, 64.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 936.0, 469.0, 456.193369925022125, 145.619340598583221 ],
+					"presentation_rect" : [ 85.0, 27.0, 456.193369925022125, 145.619340598583221 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.555555555555556, 0.696969696969697 ],
 					"pt2" : [ 0.888888888888889, 1.060606060606061 ],
@@ -9704,7 +9583,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1123.0, 344.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 871.0, 457.0, 561.41728886961937, 169.553795516490936 ],
+					"presentation_rect" : [ 20.0, 15.0, 561.41728886961937, 169.553795516490936 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.888888888888889, 0.691919191919192 ],
 					"pt2" : [ 0.96969696969697, 0.984848484848485 ],
@@ -9714,19 +9593,22 @@
 			}
 , 			{
 				"box" : 				{
-					"angle" : 270.0,
-					"bgcolor" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.1 ],
+					"angle" : 312.571951494890868,
 					"bordercolor" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"grad1" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.08 ],
+					"grad2" : [ 0.172137149796092, 0.172137100044002, 0.172137113045018, 0.11 ],
 					"id" : "obj-376",
 					"maxclass" : "panel",
-					"mode" : 0,
+					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1310.858021378517151, 373.579890847206116, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1583.999993354082108, 472.000014066696167, 446.666733831167221, 138.666670799255371 ],
-					"proportion" : 0.5,
-					"prototypename" : "sc55_screen_area"
+					"presentation_rect" : [ 728.0, 223.0, 446.666733831167221, 138.666670799255371 ],
+					"proportion" : 0.923422218859765,
+					"prototypename" : "sc55_screen_area",
+					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
+					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
 				}
 
 			}
@@ -9743,7 +9625,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1530.0, 516.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1516.5, 514.0, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 661.0, 265.0, 52.222930312156677, 48.0 ],
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
 							"expression" : ""
@@ -9787,7 +9669,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1573.0, 611.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1559.5, 609.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 704.0, 360.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -9815,7 +9697,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1573.0, 598.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1559.5, 596.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 704.0, 347.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -9843,7 +9725,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1573.0, 584.0, 15.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1559.5, 582.0, 9.70231568813324, 9.70231568813324 ],
+					"presentation_rect" : [ 704.0, 333.0, 9.70231568813324, 9.70231568813324 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -9871,7 +9753,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1528.0, 607.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1514.5, 605.0, 48.0, 18.0 ],
+					"presentation_rect" : [ 659.0, 356.0, 48.0, 18.0 ],
 					"text" : "MIDI out"
 				}
 
@@ -9886,7 +9768,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1528.0, 594.0, 120.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1514.5, 592.0, 47.0, 18.0 ],
+					"presentation_rect" : [ 659.0, 343.0, 47.0, 18.0 ],
 					"text" : "MIDI ctrl"
 				}
 
@@ -9901,7 +9783,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1528.0, 580.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1514.5, 578.0, 49.0, 18.0 ],
+					"presentation_rect" : [ 659.0, 329.0, 49.0, 18.0 ],
 					"text" : "MIDI in"
 				}
 
@@ -9916,7 +9798,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1565.0, 566.0, 124.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1551.5, 564.0, 19.10569104552269, 18.0 ],
+					"presentation_rect" : [ 696.0, 315.0, 19.10569104552269, 18.0 ],
 					"text" : "4",
 					"textjustification" : 2
 				}
@@ -9932,7 +9814,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1528.0, 566.0, 122.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1514.5, 564.0, 49.0, 18.0 ],
+					"presentation_rect" : [ 659.0, 315.0, 49.0, 18.0 ],
 					"text" : "Channel"
 				}
 
@@ -9950,7 +9832,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 1530.0, 465.0, 27.0, 48.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1516.5, 463.0, 52.222930312156677, 48.0 ],
+					"presentation_rect" : [ 661.0, 214.0, 52.222930312156677, 48.0 ],
 					"prototypename" : "sc55_offscreen_dial",
 					"saved_attribute_attributes" : 					{
 						"activedialcolor" : 						{
@@ -9998,7 +9880,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 2079.0, 459.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2065.5, 457.0, 65.773808896541595, 169.642855525016785 ],
+					"presentation_rect" : [ 1210.0, 208.0, 65.773808896541595, 169.642855525016785 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.51010101010101, 0.601010101010101 ],
 					"pt2" : [ 0.97979797979798, 1.035353535353535 ],
@@ -10018,7 +9900,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1587.0, 467.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1573.5, 465.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 718.0, 216.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -10036,7 +9918,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1587.0, 468.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1573.5, 466.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 718.0, 217.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -10054,7 +9936,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 2049.0, 467.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2035.5, 465.0, 5.154638886451721, 153.608238816261292 ],
+					"presentation_rect" : [ 1180.0, 216.0, 5.154638886451721, 153.608238816261292 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -10072,7 +9954,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1587.0, 617.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1573.5, 615.0, 466.806694865226746, 4.621848464012146 ],
+					"presentation_rect" : [ 718.0, 366.0, 466.806694865226746, 4.621848464012146 ],
 					"proportion" : 0.39,
 					"rounded" : 0
 				}
@@ -10091,7 +9973,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1593.0, 471.0, 69.0, 64.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1579.5, 469.0, 456.193369925022125, 145.619340598583221 ],
+					"presentation_rect" : [ 724.0, 220.0, 456.193369925022125, 145.619340598583221 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.555555555555556, 0.696969696969697 ],
 					"pt2" : [ 0.888888888888889, 1.060606060606061 ],
@@ -10112,7 +9994,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1528.0, 459.0, 38.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1514.5, 457.0, 561.41728886961937, 169.553795516490936 ],
+					"presentation_rect" : [ 659.0, 208.0, 561.41728886961937, 169.553795516490936 ],
 					"proportion" : 0.39,
 					"pt1" : [ 0.888888888888889, 0.691919191919192 ],
 					"pt2" : [ 0.96969696969697, 0.984848484848485 ],
@@ -10126,7 +10008,6 @@
 		"parameters" : 		{
 			"obj-10" : [ "Rate[2]", "Delay", 0 ],
 			"obj-11" : [ "level[5]", "Volume", 0 ],
-			"obj-112" : [ "chorus[2]", "chorus", 0 ],
 			"obj-114" : [ "live.text[3]", "monopoly", 0 ],
 			"obj-115" : [ "Rate[30]", "revrb", 0 ],
 			"obj-116" : [ "Rate[37]", "pitch", 0 ],
@@ -10134,7 +10015,6 @@
 			"obj-118" : [ "Rate[31]", "level", 0 ],
 			"obj-119" : [ "Rate[39]", "key", 0 ],
 			"obj-13" : [ "level[1]", "Pan", 0 ],
-			"obj-134" : [ "pan[5]", "pan", 0 ],
 			"obj-14" : [ "live.button[3]", "live.button", 0 ],
 			"obj-149" : [ "live.text[7]", "monopoly", 0 ],
 			"obj-15" : [ "live.button[4]", "live.button", 0 ],
@@ -10292,7 +10172,6 @@
 			"obj-79" : [ "level[7]", "Volume", 0 ],
 			"obj-8" : [ "Rate", "Rate", 0 ],
 			"obj-9" : [ "Rate[1]", "Depth", 0 ],
-			"obj-96" : [ "reverb[56]", "reverb", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,
@@ -10322,22 +10201,25 @@
  ],
 		"autosave" : 0,
 		"boxgroups" : [ 			{
-				"boxes" : [ "obj-16", "obj-25", "obj-20", "obj-18", "obj-22", "obj-23", "obj-29" ]
+				"boxes" : [ "obj-310", "obj-309", "obj-306", "obj-305", "obj-308", "obj-307", "obj-304", "obj-301", "obj-288", "obj-290", "obj-291", "obj-295", "obj-289", "obj-292", "obj-293", "obj-294", "obj-296", "obj-353", "obj-355", "obj-357", "obj-359", "obj-361", "obj-363", "obj-365", "obj-367", "obj-369", "obj-371", "obj-376", "obj-413", "obj-414", "obj-415", "obj-416", "obj-417", "obj-418", "obj-419", "obj-420", "obj-421", "obj-422", "obj-277", "obj-332", "obj-333", "obj-334", "obj-335", "obj-336", "obj-337", "obj-338", "obj-339", "obj-340", "obj-341", "obj-342", "obj-343", "obj-344", "obj-345", "obj-346", "obj-347", "obj-348", "obj-349", "obj-350", "obj-351", "obj-352", "obj-354", "obj-356", "obj-358", "obj-360", "obj-362", "obj-364", "obj-366", "obj-368", "obj-370", "obj-405", "obj-406", "obj-423", "obj-424", "obj-425", "obj-426", "obj-427", "obj-428", "obj-320", "obj-321", "obj-322", "obj-323", "obj-324", "obj-325", "obj-326", "obj-327", "obj-328", "obj-329", "obj-330", "obj-331", "obj-407", "obj-408", "obj-409", "obj-410", "obj-411", "obj-412", "obj-316", "obj-317", "obj-318", "obj-319", "obj-401", "obj-402", "obj-403", "obj-404", "obj-312", "obj-313", "obj-314", "obj-315", "obj-400", "obj-271", "obj-281", "obj-283", "obj-311", "obj-395", "obj-397", "obj-398", "obj-272", "obj-274", "obj-275", "obj-276", "obj-396", "obj-432", "obj-430" ]
 			}
 , 			{
-				"boxes" : [ "obj-65", "obj-64", "obj-59", "obj-66", "obj-62", "obj-61", "obj-60", "obj-58" ]
+				"boxes" : [ "obj-16", "obj-25", "obj-20", "obj-18", "obj-22", "obj-23", "obj-29", "obj-11", "obj-48", "obj-46", "obj-47", "obj-51", "obj-3", "obj-6", "obj-8", "obj-35", "obj-34", "obj-33", "obj-45", "obj-50", "obj-56", "obj-55", "obj-54", "obj-53", "obj-65", "obj-64", "obj-59", "obj-66", "obj-62", "obj-61", "obj-60", "obj-58", "obj-67", "obj-76", "obj-75", "obj-74", "obj-73", "obj-9", "obj-10", "obj-32", "obj-31", "obj-44", "obj-43", "obj-52", "obj-42" ]
 			}
 , 			{
-				"boxes" : [ "obj-15", "obj-17", "obj-26", "obj-14", "obj-19", "obj-21", "obj-24", "obj-27" ]
+				"boxes" : [ "obj-190", "obj-195", "obj-194", "obj-193", "obj-192", "obj-191", "obj-196", "obj-201", "obj-200", "obj-199", "obj-198", "obj-197" ]
 			}
 , 			{
-				"boxes" : [ "obj-92", "obj-91", "obj-88", "obj-87", "obj-90", "obj-89", "obj-86" ]
+				"boxes" : [ "obj-203", "obj-204", "obj-205", "obj-206", "obj-207", "obj-202", "obj-156", "obj-157", "obj-158", "obj-159", "obj-160", "obj-155" ]
 			}
 , 			{
-				"boxes" : [ "obj-12", "obj-5", "obj-4", "obj-7" ]
+				"boxes" : [ "obj-149", "obj-154", "obj-153", "obj-152", "obj-151", "obj-150", "obj-208", "obj-213", "obj-212", "obj-211", "obj-210", "obj-209" ]
 			}
 , 			{
-				"boxes" : [ "obj-310", "obj-309", "obj-306", "obj-305", "obj-308", "obj-307", "obj-304", "obj-301", "obj-288", "obj-290", "obj-291", "obj-295", "obj-289", "obj-292", "obj-293", "obj-294", "obj-296" ]
+				"boxes" : [ "obj-220", "obj-221", "obj-222", "obj-223", "obj-224", "obj-219", "obj-115", "obj-116", "obj-117", "obj-118", "obj-119", "obj-114" ]
+			}
+, 			{
+				"boxes" : [ "obj-144", "obj-145", "obj-146", "obj-147", "obj-148", "obj-218", "obj-217", "obj-216", "obj-215", "obj-214" ]
 			}
  ]
 	}

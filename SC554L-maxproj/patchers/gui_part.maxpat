@@ -65,11 +65,11 @@
 						}
 ,
 						"valueof" : 						{
-							"parameter_longname" : "Rate[2]",
+							"parameter_longname" : "vibrato_delay",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "Delay",
+							"parameter_shortname" : "vibrato_delay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
@@ -77,7 +77,7 @@
 					}
 ,
 					"textcolor" : [ 0.079348079365577, 0.07934804057877, 0.079348050547289, 1.0 ],
-					"varname" : "live.dial[2]"
+					"varname" : "vibrato_delay"
 				}
 
 			}
@@ -113,11 +113,11 @@
 						}
 ,
 						"valueof" : 						{
-							"parameter_longname" : "Rate[1]",
+							"parameter_longname" : "vibrato_depth",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "Depth",
+							"parameter_shortname" : "vibrato_depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
@@ -125,7 +125,7 @@
 					}
 ,
 					"textcolor" : [ 0.079348079365577, 0.07934804057877, 0.079348050547289, 1.0 ],
-					"varname" : "live.dial[1]"
+					"varname" : "vibrato_depth"
 				}
 
 			}
@@ -161,11 +161,11 @@
 						}
 ,
 						"valueof" : 						{
-							"parameter_longname" : "Rate",
+							"parameter_longname" : "vibrato_rate",
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_shortname" : "Rate",
+							"parameter_shortname" : "vibrato_rate",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
 						}
@@ -173,7 +173,7 @@
 					}
 ,
 					"textcolor" : [ 0.079348079365577, 0.07934804057877, 0.079348050547289, 1.0 ],
-					"varname" : "live.dial"
+					"varname" : "vibrato_rate"
 				}
 
 			}
@@ -1490,19 +1490,19 @@
 
 			}
  ],
-		"originid" : "pat-6716",
+		"originid" : "pat-4048",
 		"parameters" : 		{
-			"obj-10" : [ "Rate[2]", "Delay", 0 ],
+			"obj-10" : [ "vibrato_delay", "vibrato_delay", 0 ],
 			"obj-155" : [ "resonance[2]", "resonance", 0 ],
 			"obj-158" : [ "live.numbox[16]", "cutoff", 0 ],
 			"obj-171" : [ "release[2]", "release", 0 ],
 			"obj-176" : [ "decay[2]", "decay", 0 ],
 			"obj-179" : [ "attack[2]", "attack", 0 ],
-			"obj-3" : [ "Rate[1]", "Depth", 0 ],
+			"obj-3" : [ "vibrato_depth", "vibrato_depth", 0 ],
 			"obj-43" : [ "live.text", "monopoly", 0 ],
 			"obj-52" : [ "portamentostate[1]", "portamentostate", 0 ],
 			"obj-63" : [ "portamentotime[2]", "portamentotime", 0 ],
-			"obj-8" : [ "Rate", "Rate", 0 ],
+			"obj-8" : [ "vibrato_rate", "vibrato_rate", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
 					"index" : 0,

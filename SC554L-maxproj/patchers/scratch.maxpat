@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 3,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 1985.0, 1006.0 ],
+		"rect" : [ 2604.0, 726.0, 1606.0, 1401.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -62,7 +62,6 @@
 							"parameter_longname" : "portamentostate[21]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -125,7 +124,6 @@
 							"parameter_longname" : "portamentostate[20]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -155,7 +153,6 @@
 							"parameter_longname" : "live.button[30]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -183,7 +180,6 @@
 							"parameter_longname" : "live.button[31]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -226,7 +222,6 @@
 							"parameter_longname" : "live.button[32]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -315,7 +310,6 @@
 							"parameter_longname" : "live.button[27]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -343,7 +337,6 @@
 							"parameter_longname" : "live.button[28]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -386,7 +379,6 @@
 							"parameter_longname" : "live.button[29]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -478,7 +470,6 @@
 							"parameter_longname" : "update[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "update",
 							"parameter_type" : 2
 						}
@@ -510,7 +501,6 @@
 							"parameter_longname" : "update[2]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "update",
 							"parameter_type" : 2
 						}
@@ -557,7 +547,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[24]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -610,7 +599,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -663,7 +651,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -713,7 +700,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[27]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -763,7 +749,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[20]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -816,7 +801,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -869,7 +853,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -919,7 +902,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[23]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -969,7 +951,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[6]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1022,7 +1003,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1075,7 +1055,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1125,7 +1104,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[13]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1175,7 +1153,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[166]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1228,7 +1205,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1281,7 +1257,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1331,7 +1306,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[5]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1381,7 +1355,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[162]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1434,7 +1407,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1487,7 +1459,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1537,7 +1508,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[165]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1587,7 +1557,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[158]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1640,7 +1609,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1693,7 +1661,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1743,7 +1710,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[161]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1793,7 +1759,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[154]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1846,7 +1811,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1899,7 +1863,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1949,7 +1912,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[157]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -1999,7 +1961,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[4]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2052,7 +2013,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2105,7 +2065,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2155,7 +2114,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[153]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2187,7 +2145,6 @@
 							"parameter_longname" : "live.button[26]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -2215,7 +2172,6 @@
 							"parameter_longname" : "live.button[25]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -2260,7 +2216,6 @@
 							"parameter_longname" : "live.tab[4]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.tab",
 							"parameter_type" : 2,
 							"parameter_unitstyle" : 9
@@ -2291,7 +2246,6 @@
 							"parameter_longname" : "live.tab[3]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.tab",
 							"parameter_type" : 2,
 							"parameter_unitstyle" : 9
@@ -2327,7 +2281,6 @@
 							"parameter_longname" : "live.tab[2]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.tab",
 							"parameter_type" : 2,
 							"parameter_unitstyle" : 9
@@ -2359,7 +2312,6 @@
 							"parameter_longname" : "update[1]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "update",
 							"parameter_type" : 2
 						}
@@ -2391,7 +2343,6 @@
 							"parameter_longname" : "live.text[32]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.text",
 							"parameter_type" : 2
 						}
@@ -2427,7 +2378,6 @@
 							"parameter_longname" : "live.tab[1]",
 							"parameter_mmax" : 2,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.tab",
 							"parameter_type" : 2,
 							"parameter_unitstyle" : 9
@@ -2512,7 +2462,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 231.135536164045334, 295.238101661205292, 128.0, 128.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 231.135536164045334, 293.040299415588379, 104.029306292533875, 18.959700584411621 ],
+					"presentation_rect" : [ 238.387089669704437, 293.520149707794189, 104.029306292533875, 18.959700584411621 ],
 					"proportion" : 0.923422218859765,
 					"pt1" : [ -0.621212121212121, -0.454545454545455 ],
 					"pt2" : [ 0.747474747474748, 1.035353535353535 ]
@@ -2673,7 +2623,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[23]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2681,6 +2630,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[8]"
 				}
 
@@ -2689,6 +2639,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -2753,7 +2704,6 @@
 							"parameter_longname" : "live.text[40]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -2801,7 +2751,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[22]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2809,6 +2758,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[7]"
 				}
 
@@ -2817,6 +2767,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -2881,7 +2832,6 @@
 							"parameter_longname" : "live.text[39]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -2929,7 +2879,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[21]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -2937,6 +2886,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[6]"
 				}
 
@@ -2945,6 +2895,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3009,7 +2960,6 @@
 							"parameter_longname" : "live.text[38]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3057,7 +3007,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[20]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3065,6 +3014,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[5]"
 				}
 
@@ -3073,6 +3023,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3137,7 +3088,6 @@
 							"parameter_longname" : "live.text[37]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3185,7 +3135,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[19]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3193,6 +3142,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[4]"
 				}
 
@@ -3201,6 +3151,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3265,7 +3216,6 @@
 							"parameter_longname" : "live.text[36]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3313,7 +3263,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[18]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3321,6 +3270,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[3]"
 				}
 
@@ -3329,6 +3279,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3393,7 +3344,6 @@
 							"parameter_longname" : "live.text[35]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3441,7 +3391,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[17]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3449,6 +3398,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[2]"
 				}
 
@@ -3457,6 +3407,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3521,7 +3472,6 @@
 							"parameter_longname" : "live.text[34]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3569,7 +3519,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[16]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3577,6 +3526,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time[1]"
 				}
 
@@ -3585,6 +3535,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -3649,7 +3600,6 @@
 							"parameter_longname" : "live.text[16]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -3697,7 +3647,6 @@
 							"parameter_initial_enable" : 1,
 							"parameter_longname" : "reverb_time[4]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "reverb_time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -3705,6 +3654,7 @@
 
 					}
 ,
+					"textcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"varname" : "reverb_time"
 				}
 
@@ -3748,7 +3698,6 @@
 							"parameter_longname" : ">[6]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -3799,7 +3748,6 @@
 							"parameter_longname" : ">[4]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -3879,7 +3827,6 @@
 							"parameter_longname" : "portamentostate[12]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -3909,7 +3856,6 @@
 							"parameter_longname" : "live.button[17]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -3937,7 +3883,6 @@
 							"parameter_longname" : "live.button[18]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -3998,7 +3943,6 @@
 							"parameter_longname" : "portamentostate[13]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4061,7 +4005,6 @@
 							"parameter_longname" : "portamentostate[14]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4091,7 +4034,6 @@
 							"parameter_longname" : "live.button[19]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4119,7 +4061,6 @@
 							"parameter_longname" : "live.button[20]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4180,7 +4121,6 @@
 							"parameter_longname" : "portamentostate[15]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4243,7 +4183,6 @@
 							"parameter_longname" : "portamentostate[16]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4273,7 +4212,6 @@
 							"parameter_longname" : "live.button[21]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4301,7 +4239,6 @@
 							"parameter_longname" : "live.button[22]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4362,7 +4299,6 @@
 							"parameter_longname" : "portamentostate[17]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4425,7 +4361,6 @@
 							"parameter_longname" : "portamentostate[18]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4455,7 +4390,6 @@
 							"parameter_longname" : "live.button[23]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4483,7 +4417,6 @@
 							"parameter_longname" : "live.button[24]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4544,7 +4477,6 @@
 							"parameter_longname" : "portamentostate[19]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4607,7 +4539,6 @@
 							"parameter_longname" : "portamentostate[8]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4637,7 +4568,6 @@
 							"parameter_longname" : "live.button[13]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4665,7 +4595,6 @@
 							"parameter_longname" : "live.button[14]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4726,7 +4655,6 @@
 							"parameter_longname" : "portamentostate[9]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4789,7 +4717,6 @@
 							"parameter_longname" : "portamentostate[10]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4819,7 +4746,6 @@
 							"parameter_longname" : "live.button[15]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4847,7 +4773,6 @@
 							"parameter_longname" : "live.button[16]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -4908,7 +4833,6 @@
 							"parameter_longname" : "portamentostate[11]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -4971,7 +4895,6 @@
 							"parameter_longname" : "portamentostate[6]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -5001,7 +4924,6 @@
 							"parameter_longname" : "live.button[11]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -5029,7 +4951,6 @@
 							"parameter_longname" : "live.button[12]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -5090,7 +5011,6 @@
 							"parameter_longname" : "portamentostate[7]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -5153,7 +5073,6 @@
 							"parameter_longname" : "portamentostate[5]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -5183,7 +5102,6 @@
 							"parameter_longname" : "live.button[10]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -5211,7 +5129,6 @@
 							"parameter_longname" : "live.button[9]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -5289,7 +5206,6 @@
 							"parameter_longname" : "portamentostate[4]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -5356,7 +5272,6 @@
 							"parameter_longname" : "Rate[149]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5409,7 +5324,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5460,7 +5374,6 @@
 							"parameter_longname" : "Rate[150]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5529,7 +5442,6 @@
 							"parameter_longname" : "Rate[147]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5582,7 +5494,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5633,7 +5544,6 @@
 							"parameter_longname" : "Rate[148]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5702,7 +5612,6 @@
 							"parameter_longname" : "Rate[145]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5755,7 +5664,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5806,7 +5714,6 @@
 							"parameter_longname" : "Rate[146]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5875,7 +5782,6 @@
 							"parameter_longname" : "Rate[96]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5928,7 +5834,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -5979,7 +5884,6 @@
 							"parameter_longname" : "Rate[144]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6048,7 +5952,6 @@
 							"parameter_longname" : "Rate[119]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6101,7 +6004,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6152,7 +6054,6 @@
 							"parameter_longname" : "Rate[143]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6221,7 +6122,6 @@
 							"parameter_longname" : "Rate[140]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6274,7 +6174,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6325,7 +6224,6 @@
 							"parameter_longname" : "Rate[95]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6394,7 +6292,6 @@
 							"parameter_longname" : "Rate[139]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6447,7 +6344,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6498,7 +6394,6 @@
 							"parameter_longname" : "Rate[118]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6567,7 +6462,6 @@
 							"parameter_longname" : "Rate[116]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6620,7 +6514,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6671,7 +6564,6 @@
 							"parameter_longname" : "Rate[117]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6740,7 +6632,6 @@
 							"parameter_longname" : "Rate[136]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6793,7 +6684,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6844,7 +6734,6 @@
 							"parameter_longname" : "Rate[93]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6913,7 +6802,6 @@
 							"parameter_longname" : "Rate[135]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -6966,7 +6854,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7017,7 +6904,6 @@
 							"parameter_longname" : "Rate[115]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7086,7 +6972,6 @@
 							"parameter_longname" : "Rate[114]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7139,7 +7024,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7190,7 +7074,6 @@
 							"parameter_longname" : "Rate[126]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7259,7 +7142,6 @@
 							"parameter_longname" : "Rate[132]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7312,7 +7194,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7363,7 +7244,6 @@
 							"parameter_longname" : "Rate[91]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7432,7 +7312,6 @@
 							"parameter_longname" : "Rate[131]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7485,7 +7364,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7536,7 +7414,6 @@
 							"parameter_longname" : "Rate[124]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7605,7 +7482,6 @@
 							"parameter_longname" : "Rate[130]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7658,7 +7534,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7709,7 +7584,6 @@
 							"parameter_longname" : "Rate[123]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7778,7 +7652,6 @@
 							"parameter_longname" : "Rate[111]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7831,7 +7704,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7882,7 +7754,6 @@
 							"parameter_longname" : "Rate[129]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -7951,7 +7822,6 @@
 							"parameter_longname" : "Rate[122]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8090,7 +7960,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8141,7 +8010,6 @@
 							"parameter_longname" : "Rate[127]",
 							"parameter_mmax" : 128.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "key",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8169,8 +8037,7 @@
 					"presentation_rect" : [ 194.5, 47.51479360461235, 36.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "reverb",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"textjustification" : 0
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -8187,8 +8054,7 @@
 					"presentation_rect" : [ 194.5, 70.519486308097839, 30.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pitch",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"textjustification" : 0
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -8205,8 +8071,7 @@
 					"presentation_rect" : [ 194.5, 93.524179011583328, 24.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "pan",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"textjustification" : 0
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -8223,8 +8088,7 @@
 					"presentation_rect" : [ 192.0, 118.893441408872604, 28.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "level",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"textjustification" : 0
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -8241,8 +8105,7 @@
 					"presentation_rect" : [ 194.666672468185425, 138.666670799255371, 23.0, 18.0 ],
 					"prototypename" : "sc55_screen_heading",
 					"text" : "key",
-					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"textjustification" : 0
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
 				}
 
 			}
@@ -8268,6 +8131,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -8332,7 +8196,6 @@
 							"parameter_longname" : "live.text[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -8382,7 +8245,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[30]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "revrb",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8435,7 +8297,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pitch",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8488,7 +8349,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8538,7 +8398,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "Rate[31]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "level",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8589,7 +8448,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Chor.",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8638,7 +8496,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Rev.",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8725,7 +8582,6 @@
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -8776,7 +8632,6 @@
 							"parameter_longname" : ">[2]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -8827,7 +8682,6 @@
 							"parameter_longname" : ">[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -8910,7 +8764,6 @@
 							"parameter_mmax" : 9,
 							"parameter_modmode" : 0,
 							"parameter_order" : 10,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "instrument",
 							"parameter_type" : 2
 						}
@@ -8958,7 +8811,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "level[7]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Volume",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9028,7 +8880,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Chor.",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9077,7 +8928,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Rev.",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9164,7 +9014,6 @@
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9213,7 +9062,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Reso",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9262,7 +9110,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Freq",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9350,7 +9197,6 @@
 							"parameter_longname" : ">[1]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -9401,7 +9247,6 @@
 							"parameter_longname" : ">",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : ">",
 							"parameter_type" : 2
 						}
@@ -9484,7 +9329,6 @@
 							"parameter_mmax" : 186,
 							"parameter_modmode" : 0,
 							"parameter_order" : 10,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "instrument",
 							"parameter_type" : 2
 						}
@@ -9501,6 +9345,7 @@
 				"box" : 				{
 					"activebgcolor" : [ 0.925490196078431, 0.443137254901961, 0.184313725490196, 0.8 ],
 					"activebgoncolor" : [ 0.901960784313726, 0.650980392156863, 0.050980392156863, 0.8 ],
+					"activetextcolor" : [ 0.85, 0.85, 0.85, 1.0 ],
 					"activetextoncolor" : [ 0.07843137254902, 0.07843137254902, 0.07843137254902, 1.0 ],
 					"automation" : "poly",
 					"automationon" : "mono",
@@ -9566,7 +9411,6 @@
 							"parameter_longname" : "live.text[33]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "monopoly",
 							"parameter_type" : 2
 						}
@@ -9631,7 +9475,6 @@
 							"parameter_longname" : "portamentostate[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "portamentostate",
 							"parameter_type" : 2
 						}
@@ -9680,7 +9523,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Time",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9767,7 +9609,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Delay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9816,7 +9657,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9865,7 +9705,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Rate",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9950,7 +9789,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "level[5]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Volume",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -9999,7 +9837,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Delay",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -10048,7 +9885,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Depth",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -10097,7 +9933,6 @@
 							"parameter_mmax" : 50.0,
 							"parameter_mmin" : -50.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Rate",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -10465,7 +10300,6 @@
 							"parameter_mmax" : 63.0,
 							"parameter_mmin" : -63.0,
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Pan",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -10495,7 +10329,6 @@
 							"parameter_longname" : "live.button[8]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button",
 							"parameter_type" : 2
 						}
@@ -10547,8 +10380,7 @@
 					"patching_rect" : [ 1528.0, 580.0, 122.0, 18.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 659.0, 326.494407817721367, 41.967212677001953, 18.0 ],
-					"text" : "MIDI",
-					"textjustification" : 0
+					"text" : "MIDI"
 				}
 
 			}
@@ -10603,7 +10435,6 @@
 						"valueof" : 						{
 							"parameter_longname" : "level[9]",
 							"parameter_modmode" : 3,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "Volume",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 0
@@ -10878,7 +10709,7 @@
 			}
  ],
 		"lines" : [  ],
-		"originid" : "pat-4046",
+		"originid" : "pat-6452",
 		"parameters" : 		{
 			"obj-10" : [ "Rate[2]", "Delay", 0 ],
 			"obj-11" : [ "level[5]", "Volume", 0 ],

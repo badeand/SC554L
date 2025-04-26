@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 9,
 			"minor" : 0,
-			"revision" : 3,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 1442.0, 1016.0 ],
+		"rect" : [ 2648.0, -320.0, 1495.0, 978.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -40,7 +40,6 @@
 							"parameter_longname" : "live.button[10]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[4]",
 							"parameter_type" : 2
 						}
@@ -124,7 +123,6 @@
 							"parameter_longname" : "live.button[8]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[4]",
 							"parameter_type" : 2
 						}
@@ -222,7 +220,6 @@
 							"parameter_longname" : "live.button[7]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[4]",
 							"parameter_type" : 2
 						}
@@ -347,7 +344,6 @@
 							"parameter_longname" : "live.button[6]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[6]",
 							"parameter_type" : 2
 						}
@@ -396,7 +392,6 @@
 							"parameter_longname" : "live.button[4]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[4]",
 							"parameter_type" : 2
 						}
@@ -436,7 +431,6 @@
 							"parameter_longname" : "live.button[3]",
 							"parameter_mmax" : 1,
 							"parameter_modmode" : 0,
-							"parameter_osc_name" : "<default>",
 							"parameter_shortname" : "live.button[3]",
 							"parameter_type" : 2
 						}
@@ -1704,7 +1698,7 @@
 
 			}
  ],
-		"originid" : "pat-1606",
+		"originid" : "pat-1644",
 		"parameters" : 		{
 			"obj-1" : [ "live.button[7]", "live.button[4]", 0 ],
 			"obj-14::obj-10::obj-110::obj-2" : [ "reverb[44]", "reverb", 0 ],
@@ -1755,22 +1749,20 @@
 			"obj-14::obj-10::obj-136::obj-46" : [ "reverb[131]", "reverb_depth", 0 ],
 			"obj-14::obj-10::obj-136::obj-85" : [ "live.text[31]", "live.text[5]", 0 ],
 			"obj-14::obj-10::obj-136::obj-96" : [ "reverb[132]", "level", 0 ],
-			"obj-14::obj-11::obj-1" : [ "level[2]", "level", 0 ],
-			"obj-14::obj-11::obj-112" : [ "chorus[3]", "chorus", 0 ],
-			"obj-14::obj-11::obj-134" : [ "pan[2]", "pan", 0 ],
-			"obj-14::obj-11::obj-144" : [ "depth[3]", "depth", 0 ],
-			"obj-14::obj-11::obj-147" : [ "rate[3]", "rate", 0 ],
-			"obj-14::obj-11::obj-150" : [ "delay[3]", "delay", 0 ],
-			"obj-14::obj-11::obj-155" : [ "resonance[3]", "resonance", 0 ],
-			"obj-14::obj-11::obj-158" : [ "live.numbox[108]", "cutoff", 0 ],
-			"obj-14::obj-11::obj-171" : [ "release[3]", "release", 0 ],
-			"obj-14::obj-11::obj-176" : [ "decay[3]", "decay", 0 ],
-			"obj-14::obj-11::obj-179" : [ "attack[3]", "attack", 0 ],
+			"obj-14::obj-11::obj-10" : [ "Rate[22]", "delay", 0 ],
+			"obj-14::obj-11::obj-14" : [ "envelope_attack[4]", "attack", 0 ],
+			"obj-14::obj-11::obj-2" : [ "envelope_release[4]", "release", 0 ],
+			"obj-14::obj-11::obj-24" : [ "filter_resonance[4]", "Reso", 0 ],
+			"obj-14::obj-11::obj-26" : [ "filter_cutoff[4]", "Freq", 0 ],
+			"obj-14::obj-11::obj-3" : [ "Rate[21]", "depth", 0 ],
+			"obj-14::obj-11::obj-33" : [ "portamentotime[1]", "Time", 0 ],
 			"obj-14::obj-11::obj-43" : [ "live.text[24]", "monopoly", 0 ],
 			"obj-14::obj-11::obj-52" : [ "portamentostate[2]", "portamentostate", 0 ],
-			"obj-14::obj-11::obj-63" : [ "portamentotime[3]", "portamentotime", 0 ],
-			"obj-14::obj-11::obj-96" : [ "reverb[98]", "reverb", 0 ],
+			"obj-14::obj-11::obj-7" : [ "envelope_decay[4]", "decay", 0 ],
+			"obj-14::obj-11::obj-8" : [ "Rate[23]", "rate", 0 ],
 			"obj-14::obj-12::obj-105" : [ "live.text[3]", "live.text", 0 ],
+			"obj-14::obj-13::obj-73" : [ "Rate[2]", "Chor.", 0 ],
+			"obj-14::obj-13::obj-74" : [ "Rate[1]", "Rev.", 0 ],
 			"obj-14::obj-15::obj-134" : [ "pan[1]", "pan", 0 ],
 			"obj-14::obj-15::obj-20" : [ "chooser_fx_mixer[1]", "chooser_fx_mixer", 0 ],
 			"obj-14::obj-15::obj-26" : [ "speedlimit[1]", "speedlimit", 0 ],
@@ -1813,11 +1805,15 @@
 			"obj-14::obj-15::obj-8::obj-37" : [ "reverb_character[2]", "reverb_character", 0 ],
 			"obj-14::obj-15::obj-8::obj-5" : [ "reverb_feedback[2]", "reverb_feedback", 0 ],
 			"obj-14::obj-15::obj-96" : [ "reverb[78]", "reverb", 0 ],
+			"obj-14::obj-24::obj-1" : [ "level[5]", "Volume", 0 ],
+			"obj-14::obj-24::obj-2" : [ "pan[5]", "Pan", 0 ],
 			"obj-14::obj-36::obj-39" : [ "update[1]", "update", 0 ],
 			"obj-14::obj-36::obj-7" : [ "live.text[32]", "live.text", 0 ],
 			"obj-14::obj-5" : [ "live.tab[1]", "live.tab", 0 ],
 			"obj-14::obj-60" : [ "live.button[5]", "live.button", 0 ],
 			"obj-14::obj-6::obj-2" : [ "live.menu[2]", "instrument", 10 ],
+			"obj-14::obj-6::obj-38" : [ ">[4]", ">", 0 ],
+			"obj-14::obj-6::obj-5" : [ ">[9]", ">", 0 ],
 			"obj-14::obj-8::obj-2" : [ "drumset", "drumset", 0 ],
 			"obj-15" : [ "live.button[8]", "live.button[4]", 0 ],
 			"obj-62" : [ "live.button[4]", "live.button[4]", 0 ],
@@ -1870,22 +1866,20 @@
 			"obj-69::obj-10::obj-136::obj-46" : [ "reverb[173]", "reverb_depth", 0 ],
 			"obj-69::obj-10::obj-136::obj-85" : [ "live.text[41]", "live.text[5]", 0 ],
 			"obj-69::obj-10::obj-136::obj-96" : [ "reverb[175]", "level", 0 ],
-			"obj-69::obj-11::obj-1" : [ "level[7]", "level", 0 ],
-			"obj-69::obj-11::obj-112" : [ "chorus[4]", "chorus", 0 ],
-			"obj-69::obj-11::obj-134" : [ "pan[7]", "pan", 0 ],
-			"obj-69::obj-11::obj-144" : [ "depth[4]", "depth", 0 ],
-			"obj-69::obj-11::obj-147" : [ "rate[4]", "rate", 0 ],
-			"obj-69::obj-11::obj-150" : [ "delay[4]", "delay", 0 ],
-			"obj-69::obj-11::obj-155" : [ "resonance[4]", "resonance", 0 ],
-			"obj-69::obj-11::obj-158" : [ "live.numbox[144]", "cutoff", 0 ],
-			"obj-69::obj-11::obj-171" : [ "release[4]", "release", 0 ],
-			"obj-69::obj-11::obj-176" : [ "decay[4]", "decay", 0 ],
-			"obj-69::obj-11::obj-179" : [ "attack[4]", "attack", 0 ],
+			"obj-69::obj-11::obj-10" : [ "Rate[26]", "delay", 0 ],
+			"obj-69::obj-11::obj-14" : [ "envelope_attack[5]", "attack", 0 ],
+			"obj-69::obj-11::obj-2" : [ "envelope_release[5]", "release", 0 ],
+			"obj-69::obj-11::obj-24" : [ "filter_resonance[5]", "Reso", 0 ],
+			"obj-69::obj-11::obj-26" : [ "filter_cutoff[5]", "Freq", 0 ],
+			"obj-69::obj-11::obj-3" : [ "Rate[25]", "depth", 0 ],
+			"obj-69::obj-11::obj-33" : [ "portamentotime[2]", "Time", 0 ],
 			"obj-69::obj-11::obj-43" : [ "live.text[33]", "monopoly", 0 ],
 			"obj-69::obj-11::obj-52" : [ "portamentostate[3]", "portamentostate", 0 ],
-			"obj-69::obj-11::obj-63" : [ "portamentotime[4]", "portamentotime", 0 ],
-			"obj-69::obj-11::obj-96" : [ "reverb[135]", "reverb", 0 ],
+			"obj-69::obj-11::obj-7" : [ "envelope_decay[5]", "decay", 0 ],
+			"obj-69::obj-11::obj-8" : [ "Rate[24]", "rate", 0 ],
 			"obj-69::obj-12::obj-105" : [ "live.text[42]", "live.text", 0 ],
+			"obj-69::obj-13::obj-73" : [ "Rate[27]", "Chor.", 0 ],
+			"obj-69::obj-13::obj-74" : [ "Rate[28]", "Rev.", 0 ],
 			"obj-69::obj-15::obj-134" : [ "pan[6]", "pan", 0 ],
 			"obj-69::obj-15::obj-20" : [ "chooser_fx_mixer[2]", "chooser_fx_mixer", 0 ],
 			"obj-69::obj-15::obj-26" : [ "speedlimit[2]", "speedlimit", 0 ],
@@ -1928,11 +1922,15 @@
 			"obj-69::obj-15::obj-8::obj-37" : [ "reverb_character[3]", "reverb_character", 0 ],
 			"obj-69::obj-15::obj-8::obj-5" : [ "reverb_feedback[3]", "reverb_feedback", 0 ],
 			"obj-69::obj-15::obj-96" : [ "reverb[134]", "reverb", 0 ],
+			"obj-69::obj-24::obj-1" : [ "level[7]", "Volume", 0 ],
+			"obj-69::obj-24::obj-2" : [ "pan[7]", "Pan", 0 ],
 			"obj-69::obj-36::obj-39" : [ "update[2]", "update", 0 ],
 			"obj-69::obj-36::obj-7" : [ "live.text[43]", "live.text", 0 ],
 			"obj-69::obj-5" : [ "live.tab[2]", "live.tab", 0 ],
 			"obj-69::obj-60" : [ "live.button[9]", "live.button", 0 ],
 			"obj-69::obj-6::obj-2" : [ "live.menu[3]", "instrument", 10 ],
+			"obj-69::obj-6::obj-38" : [ ">[3]", ">", 0 ],
+			"obj-69::obj-6::obj-5" : [ ">[8]", ">", 0 ],
 			"obj-69::obj-8::obj-2" : [ "drumset[2]", "drumset", 0 ],
 			"obj-70" : [ "live.button[10]", "live.button[4]", 0 ],
 			"obj-73" : [ "live.button[6]", "live.button[6]", 0 ],
@@ -1984,22 +1982,20 @@
 			"obj-79::obj-10::obj-136::obj-46" : [ "reverb[214]", "reverb_depth", 0 ],
 			"obj-79::obj-10::obj-136::obj-85" : [ "live.text[52]", "live.text[5]", 0 ],
 			"obj-79::obj-10::obj-136::obj-96" : [ "reverb[217]", "level", 0 ],
-			"obj-79::obj-11::obj-1" : [ "level[9]", "level", 0 ],
-			"obj-79::obj-11::obj-112" : [ "chorus[5]", "chorus", 0 ],
-			"obj-79::obj-11::obj-134" : [ "pan[9]", "pan", 0 ],
-			"obj-79::obj-11::obj-144" : [ "depth[5]", "depth", 0 ],
-			"obj-79::obj-11::obj-147" : [ "rate[5]", "rate", 0 ],
-			"obj-79::obj-11::obj-150" : [ "delay[5]", "delay", 0 ],
-			"obj-79::obj-11::obj-155" : [ "resonance[5]", "resonance", 0 ],
-			"obj-79::obj-11::obj-158" : [ "live.numbox[177]", "cutoff", 0 ],
-			"obj-79::obj-11::obj-171" : [ "release[5]", "release", 0 ],
-			"obj-79::obj-11::obj-176" : [ "decay[5]", "decay", 0 ],
-			"obj-79::obj-11::obj-179" : [ "attack[5]", "attack", 0 ],
+			"obj-79::obj-11::obj-10" : [ "Rate[29]", "delay", 0 ],
+			"obj-79::obj-11::obj-14" : [ "envelope_attack[6]", "attack", 0 ],
+			"obj-79::obj-11::obj-2" : [ "envelope_release[6]", "release", 0 ],
+			"obj-79::obj-11::obj-24" : [ "filter_resonance[6]", "Reso", 0 ],
+			"obj-79::obj-11::obj-26" : [ "filter_cutoff[6]", "Freq", 0 ],
+			"obj-79::obj-11::obj-3" : [ "Rate[30]", "depth", 0 ],
+			"obj-79::obj-11::obj-33" : [ "portamentotime[7]", "Time", 0 ],
 			"obj-79::obj-11::obj-43" : [ "live.text[44]", "monopoly", 0 ],
 			"obj-79::obj-11::obj-52" : [ "portamentostate[4]", "portamentostate", 0 ],
-			"obj-79::obj-11::obj-63" : [ "portamentotime[5]", "portamentotime", 0 ],
-			"obj-79::obj-11::obj-96" : [ "reverb[177]", "reverb", 0 ],
+			"obj-79::obj-11::obj-7" : [ "envelope_decay[6]", "decay", 0 ],
+			"obj-79::obj-11::obj-8" : [ "Rate[31]", "rate", 0 ],
 			"obj-79::obj-12::obj-105" : [ "live.text[53]", "live.text", 0 ],
+			"obj-79::obj-13::obj-73" : [ "Rate[33]", "Chor.", 0 ],
+			"obj-79::obj-13::obj-74" : [ "Rate[32]", "Rev.", 0 ],
 			"obj-79::obj-15::obj-134" : [ "pan[8]", "pan", 0 ],
 			"obj-79::obj-15::obj-20" : [ "chooser_fx_mixer[3]", "chooser_fx_mixer", 0 ],
 			"obj-79::obj-15::obj-26" : [ "speedlimit[3]", "speedlimit", 0 ],
@@ -2042,11 +2038,15 @@
 			"obj-79::obj-15::obj-8::obj-37" : [ "reverb_character[4]", "reverb_character", 0 ],
 			"obj-79::obj-15::obj-8::obj-5" : [ "reverb_feedback[4]", "reverb_feedback", 0 ],
 			"obj-79::obj-15::obj-96" : [ "reverb[176]", "reverb", 0 ],
+			"obj-79::obj-24::obj-1" : [ "level[9]", "Volume", 0 ],
+			"obj-79::obj-24::obj-2" : [ "pan[9]", "Pan", 0 ],
 			"obj-79::obj-36::obj-39" : [ "update[3]", "update", 0 ],
 			"obj-79::obj-36::obj-7" : [ "live.text[54]", "live.text", 0 ],
 			"obj-79::obj-5" : [ "live.tab[3]", "live.tab", 0 ],
 			"obj-79::obj-60" : [ "live.button[11]", "live.button", 0 ],
 			"obj-79::obj-6::obj-2" : [ "live.menu[4]", "instrument", 10 ],
+			"obj-79::obj-6::obj-38" : [ ">[2]", ">", 0 ],
+			"obj-79::obj-6::obj-5" : [ ">[7]", ">", 0 ],
 			"obj-79::obj-8::obj-2" : [ "drumset[3]", "drumset", 0 ],
 			"obj-8::obj-10::obj-110::obj-2" : [ "reverb[59]", "reverb", 0 ],
 			"obj-8::obj-10::obj-110::obj-36" : [ "reverb[61]", "pan", 0 ],
@@ -2096,22 +2096,20 @@
 			"obj-8::obj-10::obj-136::obj-46" : [ "reverb[96]", "reverb_depth", 0 ],
 			"obj-8::obj-10::obj-136::obj-85" : [ "live.text[22]", "live.text[5]", 0 ],
 			"obj-8::obj-10::obj-136::obj-96" : [ "reverb[94]", "level", 0 ],
-			"obj-8::obj-11::obj-1" : [ "level[5]", "level", 0 ],
-			"obj-8::obj-11::obj-112" : [ "chorus[2]", "chorus", 0 ],
-			"obj-8::obj-11::obj-134" : [ "pan[5]", "pan", 0 ],
-			"obj-8::obj-11::obj-144" : [ "depth[2]", "depth", 0 ],
-			"obj-8::obj-11::obj-147" : [ "rate[2]", "rate", 0 ],
-			"obj-8::obj-11::obj-150" : [ "delay[2]", "delay", 0 ],
-			"obj-8::obj-11::obj-155" : [ "resonance[2]", "resonance", 0 ],
-			"obj-8::obj-11::obj-158" : [ "live.numbox[16]", "cutoff", 0 ],
-			"obj-8::obj-11::obj-171" : [ "release[2]", "release", 0 ],
-			"obj-8::obj-11::obj-176" : [ "decay[2]", "decay", 0 ],
-			"obj-8::obj-11::obj-179" : [ "attack[2]", "attack", 0 ],
+			"obj-8::obj-11::obj-10" : [ "Rate[19]", "delay", 0 ],
+			"obj-8::obj-11::obj-14" : [ "envelope_attack[3]", "attack", 0 ],
+			"obj-8::obj-11::obj-2" : [ "envelope_release[3]", "release", 0 ],
+			"obj-8::obj-11::obj-24" : [ "filter_resonance[3]", "Reso", 0 ],
+			"obj-8::obj-11::obj-26" : [ "filter_cutoff[3]", "Freq", 0 ],
+			"obj-8::obj-11::obj-3" : [ "Rate[20]", "depth", 0 ],
+			"obj-8::obj-11::obj-33" : [ "portamentotime[6]", "Time", 0 ],
 			"obj-8::obj-11::obj-43" : [ "live.text", "monopoly", 0 ],
 			"obj-8::obj-11::obj-52" : [ "portamentostate[1]", "portamentostate", 0 ],
-			"obj-8::obj-11::obj-63" : [ "portamentotime[2]", "portamentotime", 0 ],
-			"obj-8::obj-11::obj-96" : [ "reverb[56]", "reverb", 0 ],
+			"obj-8::obj-11::obj-7" : [ "envelope_decay[3]", "decay", 0 ],
+			"obj-8::obj-11::obj-8" : [ "Rate[15]", "rate", 0 ],
 			"obj-8::obj-12::obj-105" : [ "live.text[23]", "live.text", 0 ],
+			"obj-8::obj-13::obj-73" : [ "Rate[17]", "Chor.", 0 ],
+			"obj-8::obj-13::obj-74" : [ "Rate[18]", "Rev.", 0 ],
 			"obj-8::obj-15::obj-134" : [ "pan[4]", "pan", 0 ],
 			"obj-8::obj-15::obj-20" : [ "chooser_fx_mixer", "chooser_fx_mixer", 0 ],
 			"obj-8::obj-15::obj-26" : [ "speedlimit", "speedlimit", 0 ],
@@ -2154,11 +2152,15 @@
 			"obj-8::obj-15::obj-8::obj-37" : [ "reverb_character[1]", "reverb_character", 0 ],
 			"obj-8::obj-15::obj-8::obj-5" : [ "reverb_feedback[1]", "reverb_feedback", 0 ],
 			"obj-8::obj-15::obj-96" : [ "reverb[55]", "reverb", 0 ],
+			"obj-8::obj-24::obj-1" : [ "level[10]", "Volume", 0 ],
+			"obj-8::obj-24::obj-2" : [ "pan", "Pan", 0 ],
 			"obj-8::obj-36::obj-39" : [ "update", "update", 0 ],
 			"obj-8::obj-36::obj-7" : [ "live.text[1]", "live.text", 0 ],
 			"obj-8::obj-5" : [ "live.tab[18]", "live.tab", 0 ],
 			"obj-8::obj-60" : [ "live.button", "live.button", 0 ],
 			"obj-8::obj-6::obj-2" : [ "live.menu[1]", "instrument", 10 ],
+			"obj-8::obj-6::obj-38" : [ ">[5]", ">", 0 ],
+			"obj-8::obj-6::obj-5" : [ ">[6]", ">", 0 ],
 			"obj-8::obj-8::obj-2" : [ "drumset[1]", "drumset", 0 ],
 			"parameterbanks" : 			{
 				"0" : 				{
@@ -2362,48 +2364,32 @@
 					"parameter_longname" : "reverb[132]"
 				}
 ,
-				"obj-14::obj-11::obj-1" : 				{
-					"parameter_longname" : "level[2]"
+				"obj-14::obj-11::obj-10" : 				{
+					"parameter_longname" : "Rate[22]"
 				}
 ,
-				"obj-14::obj-11::obj-112" : 				{
-					"parameter_longname" : "chorus[3]"
+				"obj-14::obj-11::obj-14" : 				{
+					"parameter_longname" : "envelope_attack[4]"
 				}
 ,
-				"obj-14::obj-11::obj-134" : 				{
-					"parameter_longname" : "pan[2]"
+				"obj-14::obj-11::obj-2" : 				{
+					"parameter_longname" : "envelope_release[4]"
 				}
 ,
-				"obj-14::obj-11::obj-144" : 				{
-					"parameter_longname" : "depth[3]"
+				"obj-14::obj-11::obj-24" : 				{
+					"parameter_longname" : "filter_resonance[4]"
 				}
 ,
-				"obj-14::obj-11::obj-147" : 				{
-					"parameter_longname" : "rate[3]"
+				"obj-14::obj-11::obj-26" : 				{
+					"parameter_longname" : "filter_cutoff[4]"
 				}
 ,
-				"obj-14::obj-11::obj-150" : 				{
-					"parameter_longname" : "delay[3]"
+				"obj-14::obj-11::obj-3" : 				{
+					"parameter_longname" : "Rate[21]"
 				}
 ,
-				"obj-14::obj-11::obj-155" : 				{
-					"parameter_longname" : "resonance[3]"
-				}
-,
-				"obj-14::obj-11::obj-158" : 				{
-					"parameter_longname" : "live.numbox[108]"
-				}
-,
-				"obj-14::obj-11::obj-171" : 				{
-					"parameter_longname" : "release[3]"
-				}
-,
-				"obj-14::obj-11::obj-176" : 				{
-					"parameter_longname" : "decay[3]"
-				}
-,
-				"obj-14::obj-11::obj-179" : 				{
-					"parameter_longname" : "attack[3]"
+				"obj-14::obj-11::obj-33" : 				{
+					"parameter_longname" : "portamentotime[1]"
 				}
 ,
 				"obj-14::obj-11::obj-43" : 				{
@@ -2414,12 +2400,20 @@
 					"parameter_longname" : "portamentostate[2]"
 				}
 ,
-				"obj-14::obj-11::obj-63" : 				{
-					"parameter_longname" : "portamentotime[3]"
+				"obj-14::obj-11::obj-7" : 				{
+					"parameter_longname" : "envelope_decay[4]"
 				}
 ,
-				"obj-14::obj-11::obj-96" : 				{
-					"parameter_longname" : "reverb[98]"
+				"obj-14::obj-11::obj-8" : 				{
+					"parameter_longname" : "Rate[23]"
+				}
+,
+				"obj-14::obj-13::obj-73" : 				{
+					"parameter_longname" : "Rate[2]"
+				}
+,
+				"obj-14::obj-13::obj-74" : 				{
+					"parameter_longname" : "Rate[1]"
 				}
 ,
 				"obj-14::obj-15::obj-134" : 				{
@@ -2582,6 +2576,14 @@
 					"parameter_longname" : "reverb[78]"
 				}
 ,
+				"obj-14::obj-24::obj-1" : 				{
+					"parameter_longname" : "level[5]"
+				}
+,
+				"obj-14::obj-24::obj-2" : 				{
+					"parameter_longname" : "pan[5]"
+				}
+,
 				"obj-14::obj-36::obj-39" : 				{
 					"parameter_longname" : "update[1]"
 				}
@@ -2600,6 +2602,14 @@
 ,
 				"obj-14::obj-6::obj-2" : 				{
 					"parameter_longname" : "live.menu[2]"
+				}
+,
+				"obj-14::obj-6::obj-38" : 				{
+					"parameter_longname" : ">[4]"
+				}
+,
+				"obj-14::obj-6::obj-5" : 				{
+					"parameter_longname" : ">[9]"
 				}
 ,
 				"obj-14::obj-8::obj-2" : 				{
@@ -2798,48 +2808,32 @@
 					"parameter_longname" : "reverb[175]"
 				}
 ,
-				"obj-69::obj-11::obj-1" : 				{
-					"parameter_longname" : "level[7]"
+				"obj-69::obj-11::obj-10" : 				{
+					"parameter_longname" : "Rate[26]"
 				}
 ,
-				"obj-69::obj-11::obj-112" : 				{
-					"parameter_longname" : "chorus[4]"
+				"obj-69::obj-11::obj-14" : 				{
+					"parameter_longname" : "envelope_attack[5]"
 				}
 ,
-				"obj-69::obj-11::obj-134" : 				{
-					"parameter_longname" : "pan[7]"
+				"obj-69::obj-11::obj-2" : 				{
+					"parameter_longname" : "envelope_release[5]"
 				}
 ,
-				"obj-69::obj-11::obj-144" : 				{
-					"parameter_longname" : "depth[4]"
+				"obj-69::obj-11::obj-24" : 				{
+					"parameter_longname" : "filter_resonance[5]"
 				}
 ,
-				"obj-69::obj-11::obj-147" : 				{
-					"parameter_longname" : "rate[4]"
+				"obj-69::obj-11::obj-26" : 				{
+					"parameter_longname" : "filter_cutoff[5]"
 				}
 ,
-				"obj-69::obj-11::obj-150" : 				{
-					"parameter_longname" : "delay[4]"
+				"obj-69::obj-11::obj-3" : 				{
+					"parameter_longname" : "Rate[25]"
 				}
 ,
-				"obj-69::obj-11::obj-155" : 				{
-					"parameter_longname" : "resonance[4]"
-				}
-,
-				"obj-69::obj-11::obj-158" : 				{
-					"parameter_longname" : "live.numbox[144]"
-				}
-,
-				"obj-69::obj-11::obj-171" : 				{
-					"parameter_longname" : "release[4]"
-				}
-,
-				"obj-69::obj-11::obj-176" : 				{
-					"parameter_longname" : "decay[4]"
-				}
-,
-				"obj-69::obj-11::obj-179" : 				{
-					"parameter_longname" : "attack[4]"
+				"obj-69::obj-11::obj-33" : 				{
+					"parameter_longname" : "portamentotime[2]"
 				}
 ,
 				"obj-69::obj-11::obj-43" : 				{
@@ -2850,16 +2844,24 @@
 					"parameter_longname" : "portamentostate[3]"
 				}
 ,
-				"obj-69::obj-11::obj-63" : 				{
-					"parameter_longname" : "portamentotime[4]"
+				"obj-69::obj-11::obj-7" : 				{
+					"parameter_longname" : "envelope_decay[5]"
 				}
 ,
-				"obj-69::obj-11::obj-96" : 				{
-					"parameter_longname" : "reverb[135]"
+				"obj-69::obj-11::obj-8" : 				{
+					"parameter_longname" : "Rate[24]"
 				}
 ,
 				"obj-69::obj-12::obj-105" : 				{
 					"parameter_longname" : "live.text[42]"
+				}
+,
+				"obj-69::obj-13::obj-73" : 				{
+					"parameter_longname" : "Rate[27]"
+				}
+,
+				"obj-69::obj-13::obj-74" : 				{
+					"parameter_longname" : "Rate[28]"
 				}
 ,
 				"obj-69::obj-15::obj-134" : 				{
@@ -3030,6 +3032,14 @@
 					"parameter_longname" : "reverb[134]"
 				}
 ,
+				"obj-69::obj-24::obj-1" : 				{
+					"parameter_longname" : "level[7]"
+				}
+,
+				"obj-69::obj-24::obj-2" : 				{
+					"parameter_longname" : "pan[7]"
+				}
+,
 				"obj-69::obj-36::obj-39" : 				{
 					"parameter_longname" : "update[2]"
 				}
@@ -3048,6 +3058,14 @@
 ,
 				"obj-69::obj-6::obj-2" : 				{
 					"parameter_longname" : "live.menu[3]"
+				}
+,
+				"obj-69::obj-6::obj-38" : 				{
+					"parameter_longname" : ">[3]"
+				}
+,
+				"obj-69::obj-6::obj-5" : 				{
+					"parameter_longname" : ">[8]"
 				}
 ,
 				"obj-69::obj-8::obj-2" : 				{
@@ -3246,48 +3264,32 @@
 					"parameter_longname" : "reverb[217]"
 				}
 ,
-				"obj-79::obj-11::obj-1" : 				{
-					"parameter_longname" : "level[9]"
+				"obj-79::obj-11::obj-10" : 				{
+					"parameter_longname" : "Rate[29]"
 				}
 ,
-				"obj-79::obj-11::obj-112" : 				{
-					"parameter_longname" : "chorus[5]"
+				"obj-79::obj-11::obj-14" : 				{
+					"parameter_longname" : "envelope_attack[6]"
 				}
 ,
-				"obj-79::obj-11::obj-134" : 				{
-					"parameter_longname" : "pan[9]"
+				"obj-79::obj-11::obj-2" : 				{
+					"parameter_longname" : "envelope_release[6]"
 				}
 ,
-				"obj-79::obj-11::obj-144" : 				{
-					"parameter_longname" : "depth[5]"
+				"obj-79::obj-11::obj-24" : 				{
+					"parameter_longname" : "filter_resonance[6]"
 				}
 ,
-				"obj-79::obj-11::obj-147" : 				{
-					"parameter_longname" : "rate[5]"
+				"obj-79::obj-11::obj-26" : 				{
+					"parameter_longname" : "filter_cutoff[6]"
 				}
 ,
-				"obj-79::obj-11::obj-150" : 				{
-					"parameter_longname" : "delay[5]"
+				"obj-79::obj-11::obj-3" : 				{
+					"parameter_longname" : "Rate[30]"
 				}
 ,
-				"obj-79::obj-11::obj-155" : 				{
-					"parameter_longname" : "resonance[5]"
-				}
-,
-				"obj-79::obj-11::obj-158" : 				{
-					"parameter_longname" : "live.numbox[177]"
-				}
-,
-				"obj-79::obj-11::obj-171" : 				{
-					"parameter_longname" : "release[5]"
-				}
-,
-				"obj-79::obj-11::obj-176" : 				{
-					"parameter_longname" : "decay[5]"
-				}
-,
-				"obj-79::obj-11::obj-179" : 				{
-					"parameter_longname" : "attack[5]"
+				"obj-79::obj-11::obj-33" : 				{
+					"parameter_longname" : "portamentotime[7]"
 				}
 ,
 				"obj-79::obj-11::obj-43" : 				{
@@ -3298,16 +3300,24 @@
 					"parameter_longname" : "portamentostate[4]"
 				}
 ,
-				"obj-79::obj-11::obj-63" : 				{
-					"parameter_longname" : "portamentotime[5]"
+				"obj-79::obj-11::obj-7" : 				{
+					"parameter_longname" : "envelope_decay[6]"
 				}
 ,
-				"obj-79::obj-11::obj-96" : 				{
-					"parameter_longname" : "reverb[177]"
+				"obj-79::obj-11::obj-8" : 				{
+					"parameter_longname" : "Rate[31]"
 				}
 ,
 				"obj-79::obj-12::obj-105" : 				{
 					"parameter_longname" : "live.text[53]"
+				}
+,
+				"obj-79::obj-13::obj-73" : 				{
+					"parameter_longname" : "Rate[33]"
+				}
+,
+				"obj-79::obj-13::obj-74" : 				{
+					"parameter_longname" : "Rate[32]"
 				}
 ,
 				"obj-79::obj-15::obj-134" : 				{
@@ -3478,6 +3488,14 @@
 					"parameter_longname" : "reverb[176]"
 				}
 ,
+				"obj-79::obj-24::obj-1" : 				{
+					"parameter_longname" : "level[9]"
+				}
+,
+				"obj-79::obj-24::obj-2" : 				{
+					"parameter_longname" : "pan[9]"
+				}
+,
 				"obj-79::obj-36::obj-39" : 				{
 					"parameter_longname" : "update[3]"
 				}
@@ -3496,6 +3514,10 @@
 ,
 				"obj-79::obj-6::obj-2" : 				{
 					"parameter_longname" : "live.menu[4]"
+				}
+,
+				"obj-79::obj-6::obj-5" : 				{
+					"parameter_longname" : ">[7]"
 				}
 ,
 				"obj-79::obj-8::obj-2" : 				{
@@ -3694,64 +3716,12 @@
 					"parameter_longname" : "reverb[94]"
 				}
 ,
-				"obj-8::obj-11::obj-1" : 				{
-					"parameter_longname" : "level[5]"
-				}
-,
-				"obj-8::obj-11::obj-112" : 				{
-					"parameter_longname" : "chorus[2]"
-				}
-,
-				"obj-8::obj-11::obj-134" : 				{
-					"parameter_longname" : "pan[5]"
-				}
-,
-				"obj-8::obj-11::obj-144" : 				{
-					"parameter_longname" : "depth[2]"
-				}
-,
-				"obj-8::obj-11::obj-147" : 				{
-					"parameter_longname" : "rate[2]"
-				}
-,
-				"obj-8::obj-11::obj-150" : 				{
-					"parameter_longname" : "delay[2]"
-				}
-,
-				"obj-8::obj-11::obj-155" : 				{
-					"parameter_longname" : "resonance[2]"
-				}
-,
-				"obj-8::obj-11::obj-158" : 				{
-					"parameter_longname" : "live.numbox[16]"
-				}
-,
-				"obj-8::obj-11::obj-171" : 				{
-					"parameter_longname" : "release[2]"
-				}
-,
-				"obj-8::obj-11::obj-176" : 				{
-					"parameter_longname" : "decay[2]"
-				}
-,
-				"obj-8::obj-11::obj-179" : 				{
-					"parameter_longname" : "attack[2]"
-				}
-,
 				"obj-8::obj-11::obj-43" : 				{
 					"parameter_longname" : "live.text"
 				}
 ,
 				"obj-8::obj-11::obj-52" : 				{
 					"parameter_longname" : "portamentostate[1]"
-				}
-,
-				"obj-8::obj-11::obj-63" : 				{
-					"parameter_longname" : "portamentotime[2]"
-				}
-,
-				"obj-8::obj-11::obj-96" : 				{
-					"parameter_longname" : "reverb[56]"
 				}
 ,
 				"obj-8::obj-12::obj-105" : 				{
@@ -3902,6 +3872,26 @@
 					"parameter_longname" : "level[4]"
 				}
 ,
+				"obj-8::obj-15::obj-8::obj-11" : 				{
+					"parameter_longname" : "reverb_time[1]"
+				}
+,
+				"obj-8::obj-15::obj-8::obj-20" : 				{
+					"parameter_longname" : "reverb_sendtochorus[1]"
+				}
+,
+				"obj-8::obj-15::obj-8::obj-22" : 				{
+					"parameter_longname" : "reverb_lpf[1]"
+				}
+,
+				"obj-8::obj-15::obj-8::obj-37" : 				{
+					"parameter_longname" : "reverb_character[1]"
+				}
+,
+				"obj-8::obj-15::obj-8::obj-5" : 				{
+					"parameter_longname" : "reverb_feedback[1]"
+				}
+,
 				"obj-8::obj-15::obj-96" : 				{
 					"parameter_longname" : "reverb[55]"
 				}
@@ -3925,6 +3915,14 @@
 ,
 				"obj-8::obj-6::obj-2" : 				{
 					"parameter_longname" : "live.menu[1]"
+				}
+,
+				"obj-8::obj-6::obj-38" : 				{
+					"parameter_longname" : ">[5]"
+				}
+,
+				"obj-8::obj-6::obj-5" : 				{
+					"parameter_longname" : ">[6]"
 				}
 ,
 				"obj-8::obj-8::obj-2" : 				{
@@ -3994,6 +3992,20 @@
 			}
 , 			{
 				"name" : "gui_part.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "gui_part_fx.maxpat",
+				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "gui_part_vol.maxpat",
 				"bootpath" : "~/dev/SC554L/SC554L-maxproj/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
@@ -4118,16 +4130,16 @@
 			"snapshot" : 			{
 				"valuedictionary" : 				{
 					"parameter_values" : 					{
-						"attack[2]" : -50.0,
+						"attack[2]" : 0.0,
 						"attack[3]" : 0.0,
 						"attack[4]" : 0.0,
 						"attack[5]" : 0.0,
 						"chooser_fx_mixer" : 1.0,
 						"chooser_fx_mixer[1]" : 1.0,
 						"chooser_fx_mixer[2]" : 1.0,
-						"chooser_fx_mixer[3]" : 0.0,
+						"chooser_fx_mixer[3]" : 1.0,
 						"chorus[2]" : 0.0,
-						"chorus[3]" : 0.0,
+						"chorus[3]" : 41.0,
 						"chorus[4]" : 0.0,
 						"chorus[5]" : 0.0,
 						"decay[2]" : 0.0,
@@ -4138,8 +4150,8 @@
 						"delay[3]" : 0.0,
 						"delay[4]" : 0.0,
 						"delay[5]" : 0.0,
-						"depth[2]" : -23.0,
-						"depth[3]" : -23.0,
+						"depth[2]" : 32.0,
+						"depth[3]" : -50.0,
 						"depth[4]" : 0.0,
 						"depth[5]" : 0.0,
 						"drumset" : 0.0,
@@ -4149,11 +4161,11 @@
 						"level[1]" : 0.0,
 						"level[2]" : 77.0,
 						"level[4]" : 0.0,
-						"level[5]" : 127.0,
+						"level[5]" : 77.0,
 						"level[6]" : 84.999999999999957,
-						"level[7]" : 0.0,
-						"level[8]" : 68.0,
-						"level[9]" : 0.0,
+						"level[7]" : 83.0,
+						"level[8]" : 113.0,
+						"level[9]" : 68.000000000000085,
 						"live.button" : 0.0,
 						"live.button[10]" : 0.0,
 						"live.button[11]" : 0.0,
@@ -4192,16 +4204,16 @@
 						"pan[7]" : 0.0,
 						"pan[8]" : 0.0,
 						"pan[9]" : 0.0,
-						"portamentostate[1]" : 0.0,
+						"portamentostate[1]" : 1.0,
 						"portamentostate[2]" : 0.0,
 						"portamentostate[3]" : 0.0,
 						"portamentostate[4]" : 0.0,
-						"portamentotime[2]" : 49.0,
+						"portamentotime[2]" : 60.0,
 						"portamentotime[3]" : 60.0,
 						"portamentotime[4]" : 60.0,
 						"portamentotime[5]" : 60.0,
-						"rate[2]" : 0.0,
-						"rate[3]" : 0.0,
+						"rate[2]" : 24.0,
+						"rate[3]" : -32.0,
 						"rate[4]" : 0.0,
 						"rate[5]" : 0.0,
 						"release[2]" : 0.0,
@@ -4288,7 +4300,7 @@
 						"reverb[173]" : 40.0,
 						"reverb[174]" : 60.0,
 						"reverb[175]" : 0.0,
-						"reverb[176]" : 40.0,
+						"reverb[176]" : 0.0,
 						"reverb[177]" : 60.0,
 						"reverb[178]" : 0.0,
 						"reverb[179]" : 0.0,
@@ -4378,7 +4390,7 @@
 						"reverb[95]" : 0.0,
 						"reverb[96]" : 100.0,
 						"reverb[97]" : 60.0,
-						"reverb[98]" : 40.0,
+						"reverb[98]" : 101.0,
 						"reverb[99]" : 60.0,
 						"reverb_character[1]" : 0.0,
 						"reverb_character[2]" : 0.0,
@@ -4408,8 +4420,8 @@
 						"update[1]" : 0.0,
 						"update[2]" : 0.0,
 						"update[3]" : 0.0,
-						"live.menu[1]" : 5.0,
-						"live.menu[2]" : 34.0,
+						"live.menu[1]" : 1.0,
+						"live.menu[2]" : 2.0,
 						"live.menu[3]" : 0.0,
 						"live.menu[4]" : 0.0
 					}
@@ -4419,7 +4431,7 @@
 			}
 ,
 			"snapshotlist" : 			{
-				"current_snapshot" : 1,
+				"current_snapshot" : 0,
 				"entries" : [ 					{
 						"filetype" : "C74Snapshot",
 						"version" : 2,

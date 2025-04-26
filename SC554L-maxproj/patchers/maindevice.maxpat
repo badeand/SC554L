@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 642.0, 1013.0, 746.0 ],
+		"rect" : [ 294.0, 273.0, 983.0, 1031.0 ],
 		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
@@ -140,7 +140,7 @@
 
 							}
  ],
-						"originid" : "pat-13960"
+						"originid" : "pat-3448"
 					}
 ,
 					"patching_rect" : [ 345.724116563796997, 706.793057262897491, 129.0, 22.0 ],
@@ -382,7 +382,7 @@
 
 							}
  ],
-						"originid" : "pat-13972"
+						"originid" : "pat-3460"
 					}
 ,
 					"patching_rect" : [ 104.758615016937256, 706.896503269672394, 123.0, 22.0 ],
@@ -432,7 +432,7 @@
 					"offset" : [ 0.0, 0.0 ],
 					"patching_rect" : [ 22.0, 710.344778895378113, 68.936171650886536, 69.36170357465744 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 74.0, 83.0, 68.936171650886536, 69.36170357465744 ],
+					"presentation_rect" : [ 92.511018812656403, 85.90308889746666, 68.936171650886536, 69.36170357465744 ],
 					"varname" : "gui_part_fx",
 					"viewvisibility" : 1
 				}
@@ -974,7 +974,7 @@
 
 							}
  ],
-						"originid" : "pat-13984"
+						"originid" : "pat-3472"
 					}
 ,
 					"patching_rect" : [ 24.5, 519.0, 93.0, 22.0 ],
@@ -1425,31 +1425,6 @@
 					"clickthrough" : 0,
 					"enablehscroll" : 0,
 					"enablevscroll" : 0,
-					"hidden" : 1,
-					"id" : "obj-8",
-					"lockeddragscroll" : 0,
-					"lockedsize" : 0,
-					"maxclass" : "bpatcher",
-					"name" : "gui_drumsetchooser.maxpat",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"offset" : [ 0.0, 0.0 ],
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 28.0, 426.50603985786438, 186.666668057441711, 28.070175647735596 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 64.193906724452972, 13.519793629646301, 189.861740231513977, 23.480623006820679 ],
-					"varname" : "gui_drumsetchooser",
-					"viewvisibility" : 1
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bgmode" : 0,
-					"border" : 0,
-					"clickthrough" : 0,
-					"enablehscroll" : 0,
-					"enablevscroll" : 0,
 					"id" : "obj-12",
 					"lockeddragscroll" : 0,
 					"lockedsize" : 0,
@@ -1459,7 +1434,7 @@
 					"numoutlets" : 1,
 					"offset" : [ 0.0, 0.0 ],
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 470.0, 114.0, 60.0, 26.0 ],
+					"patching_rect" : [ 345.724116563796997, 189.0, 60.0, 26.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 552.115072220563889, 148.054149001836777, 65.670878231525421, 15.566036738455296 ],
 					"varname" : "gui_update",
@@ -1485,8 +1460,33 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 27.397590339183807, 357.83133852481842, 182.456141710281372, 22.105263322591782 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 68.0, 17.0, 182.249553680419922, 16.520210266113281 ],
+					"presentation_rect" : [ 66.960356473922729, 14.537445813417435, 176.651993066072464, 55.947139948606491 ],
 					"varname" : "gui_instrumentchooser",
+					"viewvisibility" : 1
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgmode" : 0,
+					"border" : 0,
+					"clickthrough" : 0,
+					"enablehscroll" : 0,
+					"enablevscroll" : 0,
+					"hidden" : 1,
+					"id" : "obj-8",
+					"lockeddragscroll" : 0,
+					"lockedsize" : 0,
+					"maxclass" : "bpatcher",
+					"name" : "gui_drumsetchooser.maxpat",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"offset" : [ 0.0, 0.0 ],
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 28.0, 426.50603985786438, 186.666668057441711, 28.070175647735596 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 64.193906724452972, 13.519793629646301, 189.861740231513977, 23.480623006820679 ],
+					"varname" : "gui_drumsetchooser",
 					"viewvisibility" : 1
 				}
 
@@ -1838,7 +1838,7 @@
 
 							}
  ],
-						"originid" : "pat-14072"
+						"originid" : "pat-3560"
 					}
 ,
 					"patching_rect" : [ 379.0, 527.0, 55.0, 22.0 ],
@@ -2276,7 +2276,7 @@
 
 			}
  ],
-		"originid" : "pat-13958",
+		"originid" : "pat-3446",
 		"boxgroups" : [ 			{
 				"boxes" : [ "obj-16", "obj-23", "obj-22", "obj-29", "obj-18", "obj-31", "obj-33", "obj-20", "obj-30", "obj-25" ]
 			}
